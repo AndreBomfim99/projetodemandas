@@ -94,3 +94,16 @@ ul {
     list-style-type: disc; 
     padding-left: 50px;
 }
+
+.indentadobolinha2 {
+    list-style-type: disc; 
+    padding-left: 5px;
+}
+
+.fonteparagrafo {
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: #34495e;
+    margin-bottom: 12px;
+}
+
