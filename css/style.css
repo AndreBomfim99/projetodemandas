@@ -94,3 +94,12 @@ ul {
     list-style-type: disc; 
     padding-left: 50px;
 }
+
+img {
+    transform: scale(0.5); 
+  }
+
+  .minha-tabela, .minha-tabela td, .minha-tabela th {
+    font-family: Verdana, Geneva, sans-serif;
+    text-align: center;
+  }
