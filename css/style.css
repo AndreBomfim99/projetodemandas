@@ -95,11 +95,14 @@ ul {
     padding-left: 50px;
 }
 
-img {
-    transform: scale(0.5); 
-  }
+
 
   .minha-tabela, .minha-tabela td, .minha-tabela th {
     font-family: Verdana, Geneva, sans-serif;
     text-align: center;
+  }
+
+img {
+    max-width: 100%; /* Impede que a imagem ultrapasse o tamanho da div */
+    max-height: 100%; /* Impede que a imagem ultrapasse o tamanho da div */
   }
