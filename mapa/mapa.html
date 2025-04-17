@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Mapa SP por Regional</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; }
+    #map { height: 90vh; }
+    #filtro {
+      padding: 10px;
+      background: #f1f1f1;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+    }
+    .checkbox-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="filtro">
+    <strong>Filtrar por Regional:</strong>
+    <div class="checkbox-group" id="checkboxes"></div>
+    <button id="reset">Resetar</button>
+  </div>
+
+  <div id="map"></div>
+
+  <!-- Scripts -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
+  <script>
+    const map = L.map('map').setView([-22.9, -47.0], 7);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap'
+    }).addTo(map);
+
+    let geojsonData;
+    let geojsonLayer;
+    const regionalPorCodigo = {};
+    const regioes = new Set();
+    const cores = {};
+
+    function gerarCorAleatoria() {
+      const r = Math.floor(Math.random() * 156 + 100);
+      const g = Math.floor(Math.random() * 156 + 100);
+      const b = Math.floor(Math.random() * 156 + 100);
+      return `rgb(${r}, ${g}, ${b})`;
+    }
+
+    // 1. Carregar CSV
+    function carregarCSV() {
+      Papa.parse('indice.csv', {
+        download: true,
+        header: true,
+        complete: function(result) {
+          result.data.forEach(row => {
+            const codigo = row.CODIGO_IBGE;
+            const regional = row.REGIONAL;
+            regionalPorCodigo[codigo] = regional;
+            if (regional) regioes.add(regional);
+          });
+          criarCheckboxes(Array.from(regioes).sort());
+          carregarGeoJSON();
+        }
+      });
+    }
+
+    // 2. Criar Checkboxes
+    function criarCheckboxes(lista) {
+      const container = document.getElementById('checkboxes');
+      lista.forEach(regional => {
+        const label = document.createElement('label');
+        const input = document.createElement('input');
+        input.type = 'checkbox';
+        input.value = regional;
+        input.checked = false;
+        input.addEventListener('change', atualizarMapa);
+        label.appendChild(input);
+        label.appendChild(document.createTextNode(regional));
+        container.appendChild(label);
+        cores[regional] = gerarCorAleatoria();
+      });
+    }
+
+    // 3. Carregar GeoJSON
+    function carregarGeoJSON() {
+      fetch('estado_sp.geojson')
+        .then(res => res.json())
+        .then(data => {
+          // Adiciona campo "regional" nas features com base no código
+          data.features.forEach(f => {
+            const codigo = f.properties.CODIGO_IBGE?.toString();
+            f.properties.regional = regionalPorCodigo[codigo] || 'Desconhecida';
+          });
+          geojsonData = data;
+          atualizarMapa();
+        });
+    }
+
+    // 4. Atualizar o mapa
+    function atualizarMapa() {
+      if (geojsonLayer) map.removeLayer(geojsonLayer);
+
+      const selecionadas = Array.from(document.querySelectorAll('#checkboxes input:checked'))
+                                .map(cb => cb.value);
+
+      geojsonLayer = L.geoJSON(geojsonData, {
+        filter: feature => {
+          return selecionadas.length === 0 || selecionadas.includes(feature.properties.regional);
+        },
+        style: feature => ({
+          color: '#333',
+          weight: 1,
+          fillOpacity: 0.6,
+          fillColor: cores[feature.properties.regional] || '#ccc'
+        }),
+        onEachFeature: (feature, layer) => {
+          const nome = feature.properties.MUNICIPIO || feature.properties.name;
+          const reg = feature.properties.regional;
+          layer.bindPopup(`<strong>${nome}</strong><br>Regional: ${reg}`);
+        }
+      }).addTo(map);
+    }
+
+    // 5. Reset
+    document.getElementById('reset').addEventListener('click', () => {
+      document.querySelectorAll('#checkboxes input').forEach(cb => cb.checked = false);
+      atualizarMapa();
+    });
+
+    // Iniciar
+    carregarCSV();
+  </script>
+</body>
+</html>
