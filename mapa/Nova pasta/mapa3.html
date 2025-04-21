@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Mapa SP por Regional</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; }
+    #map { height: 90vh; width: 100%; }
+    #filtro {
+      padding: 10px;
+      background: #f1f1f1;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: flex-start;
+      gap: 10px;
+    }
+    .checkbox-group {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 6px;
+      max-height: 180px;
+      overflow-y: auto;
+      flex: 1;
+    }
+    label {
+      white-space: nowrap;
+      font-size: 14px;
+    }
+    button {
+      padding: 6px 12px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<div id="filtro">
+  <strong>Filtrar por Regional:</strong>
+  <div class="checkbox-group" id="checkboxes"></div>
+  <button id="selectAll">Selecionar todos</button>
+  <button id="reset">Resetar</button>
+</div>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+<script>
+  const map = L.map('map').setView([-22.9, -47.0], 7);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap'
+  }).addTo(map);
+
+  let geojsonLayer;
+  let geojsonData;
+  const cores = {};
+  const regioes = new Set();
+  const regionalPorCodigo = {};
+
+  function gerarCorAleatoria() {
+    const r = Math.floor(Math.random() * 156 + 100);
+    const g = Math.floor(Math.random() * 156 + 100);
+    const b = Math.floor(Math.random() * 156 + 100);
+    return `rgb(${r}, ${g}, ${b})`;
+  }
+
+  // 1. Carrega CSV com códigos IBGE e regionais
+  Papa.parse('indice.csv', {
+    download: true,
+    header: true,
+    complete: function(result) {
+      result.data.forEach(row => {
+        const codigo = row.CODIGO_IBGE?.toString().padStart(7, '0');
+        const regional = row.REGIONAL?.trim();
+        if (codigo && regional) {
+          regionalPorCodigo[codigo] = regional;
+          regioes.add(regional);
+        }
+      });
+      criarCheckboxes(Array.from(regioes).sort());
+      carregarGeoJSON();
+    }
+  });
+
+  function criarCheckboxes(lista) {
+    const container = document.getElementById('checkboxes');
+    container.innerHTML = '';
+    lista.forEach(regional => {
+      const label = document.createElement('label');
+      const input = document.createElement('input');
+      input.type = 'checkbox';
+      input.value = regional;
+      input.checked = false;
+      input.addEventListener('change', atualizarMapa);
+      label.appendChild(input);
+      label.appendChild(document.createTextNode(" " + regional));
+      container.appendChild(label);
+      cores[regional] = gerarCorAleatoria();
+    });
+  }
+
+  // 2. Carrega GeoJSON dos municípios
+  function carregarGeoJSON() {
+    fetch('estado_sp.json')
+      .then(res => res.json())
+      .then(data => {
+        // Insere campo REGIONAL com base no código IBGE
+        data.features.forEach(f => {
+          const codigo = f.properties.CODIGO_IBGE?.toString().padStart(7, '0');
+          f.properties.REGIONAL = regionalPorCodigo[codigo] || 'Desconhecida';
+        });
+        geojsonData = data;
+        atualizarMapa();
+      });
+  }
+
+  // 3. Atualiza o mapa com cores por regional e opacidade por filtro
+  function atualizarMapa() {
+    if (geojsonLayer) map.removeLayer(geojsonLayer);
+
+    const selecionadas = Array.from(document.querySelectorAll('#checkboxes input:checked'))
+                              .map(cb => cb.value);
+
+    geojsonLayer = L.geoJSON(geojsonData, {
+      style: feature => {
+        const reg = feature.properties.REGIONAL;
+        const cor = cores[reg] || '#cccccc';
+        const selecionado = selecionadas.length === 0 || selecionadas.includes(reg);
+        return {
+          color: '#555',
+          weight: 1,
+          fillColor: cor,
+          fillOpacity: selecionado ? 0.7 : 0.1
+        };
+      },
+      onEachFeature: (feature, layer) => {
+        const nome = feature.properties.MUNICIPIO || feature.properties.name;
+        const reg = feature.properties.REGIONAL || 'Desconhecida';
+        layer.bindPopup(`<strong>${nome}</strong><br>Regional: ${reg}`);
+      }
+    }).addTo(map);
+  }
+
+  // 4. Botões
+  document.getElementById('selectAll').addEventListener('click', () => {
+    document.querySelectorAll('#checkboxes input').forEach(cb => cb.checked = true);
+    atualizarMapa();
+  });
+
+  document.getElementById('reset').addEventListener('click', () => {
+    document.querySelectorAll('#checkboxes input').forEach(cb => cb.checked = false);
+    atualizarMapa();
+  });
+</script>
+
+</body>
+</html>
