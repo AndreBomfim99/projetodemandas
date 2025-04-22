@@ -21,22 +21,12 @@
       flex-wrap: wrap;
       gap: 10px;
     }
-    #busca {
-      padding: 5px;
-      font-size: 14px;
-      min-width: 200px;
-    }
   </style>
 </head>
 <body>
 
 <div id="filtro">
   <strong>Filtrar por Regional:</strong>
-<<<<<<< HEAD
-=======
-  <input type="text" id="busca" placeholder="Buscar município..." />
-  <button id="buscarBtn">Buscar</button>
->>>>>>> b0aa4dd (Commit 11 mapa refinado)
   <div class="checkbox-group" id="checkboxes"></div>
   <button id="selectAll">Selecionar todos</button>
   <button id="reset">Resetar</button>
@@ -58,34 +48,7 @@
   const regionalPorCodigo = {};
   const regioes = new Set();
 
-<<<<<<< HEAD
   // Carregar CSV
-=======
-  const coresPorRegional = {
-    'ER Campinas': '#00BFFF',
-    'ER Baixada Santista': '#00BFFF',
-
-    'ER Sao Jose do Rio Preto': '#32CD32',
-    'ER Itapeva': '#32CD32',
-
-    'ER Sorocaba': '#FF7F50',
-    'ER Bauru': '#FF7F50',
-    'ER Araraquara': '#FF7F50',
-
-    'ER Ribeirao Preto': '#9370DB',
-    'ER Sao Paulo': '#9370DB',
-    'ER Vale do Ribeira': '#9370DB',
-
-    'ER Presidente Prudente': '#FFD700',
-    'ER Barretos': '#FFD700',
-    'ER Aracatuba': '#FFD700',
-
-    'ER Marilia': '#FF6347',
-    'ER Sao Jose dos Campos': '#FF6347',
-    'ER Franca': '#FF6347'
-  };
-
->>>>>>> b0aa4dd (Commit 11 mapa refinado)
   function carregarCSV() {
     Papa.parse('indice.csv', {
       download: true,
@@ -103,96 +66,9 @@
         criarCheckboxes(Array.from(regioes).sort());
         carregarGeoJSON();
       }
-<<<<<<< HEAD
-=======
     });
   }
 
-  function criarCheckboxes(lista) {
-    const container = document.getElementById('checkboxes');
-    lista.forEach(regional => {
-      const label = document.createElement('label');
-      const input = document.createElement('input');
-      input.type = 'checkbox';
-      input.value = regional;
-      input.checked = false;
-      input.addEventListener('change', atualizarMapa);
-      label.appendChild(input);
-      label.appendChild(document.createTextNode(regional));
-      container.appendChild(label);
-    });
-  }
-
-  function carregarGeoJSON() {
-    fetch('estado_sp.json')
-      .then(res => res.json())
-      .then(data => {
-        data.features.forEach(f => {
-          const codigo = f.properties?.id?.toString();
-          f.properties.regional = regionalPorCodigo[codigo] || 'Desconhecida';
-        });
-        geojsonData = data;
-        atualizarMapa();
-      });
-  }
-
-  function atualizarMapa() {
-    if (geojsonLayer) map.removeLayer(geojsonLayer);
-
-    const selecionadas = Array.from(document.querySelectorAll('#checkboxes input:checked'))
-                              .map(cb => cb.value);
-
-    geojsonLayer = L.geoJSON(geojsonData, {
-      style: feature => {
-        const regional = feature.properties.regional;
-        if (selecionadas.includes(regional)) {
-          return {
-            color: '#900',
-            weight: 1,
-            fillOpacity: 0.5,
-            fillColor: coresPorRegional[regional] || '#ff0000'
-          };
-        } else {
-          return {
-            color: '#555',
-            weight: 1,
-            fillOpacity: 0.4,
-            fillColor: '#cccccc'
-          };
-        }
-      },
-      onEachFeature: (feature, layer) => {
-        const nome = feature.properties.name || feature.properties.MUNICIPIO;
-        const reg = feature.properties.regional;
-        layer.bindPopup(`<strong>${nome}</strong><br>Regional: ${reg}`);
-      }
-    }).addTo(map);
-  }
-
-  // Função normalizar texto (remove acentos e caixa alta)
-  function normalizarTexto(texto) {
-    return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
-  }
-
-  // Buscar por município
-  document.getElementById('buscarBtn').addEventListener('click', () => {
-    const termo = normalizarTexto(document.getElementById('busca').value);
-    if (!termo) return;
-
-    let encontrado = false;
-
-    geojsonLayer.eachLayer(layer => {
-      const nome = layer.feature.properties.name || layer.feature.properties.MUNICIPIO || '';
-      if (normalizarTexto(nome).includes(termo)) {
-        map.fitBounds(layer.getBounds());
-        layer.openPopup();
-        encontrado = true;
-      }
->>>>>>> b0aa4dd (Commit 11 mapa refinado)
-    });
-  }
-
-<<<<<<< HEAD
   // Criar Checkboxes
   function criarCheckboxes(lista) {
     const container = document.getElementById('checkboxes');
@@ -256,12 +132,6 @@
       }
     }).addTo(map);
   }
-=======
-    if (!encontrado) {
-      alert("Município não encontrado.");
-    }
-  });
->>>>>>> b0aa4dd (Commit 11 mapa refinado)
 
   // Botões
   document.getElementById('reset').addEventListener('click', () => {
