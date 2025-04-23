@@ -33,6 +33,7 @@
 <div id="filtro">
   <strong>Filtrar por Regional:</strong>
   <input type="text" id="busca" placeholder="Buscar município..." />
+  <button id="buscarBtn">Buscar</button>
   <div class="checkbox-group" id="checkboxes"></div>
   <button id="selectAll">Selecionar todos</button>
   <button id="reset">Resetar</button>
@@ -93,7 +94,7 @@
             regionalPorCodigo[codigo] = regional;
             diretorPorCodigo[codigo] = diretor;
             atendentePorCodigo[codigo] = atendente;
-            observacaoPorCodigo[codigo] = observacao;
+            observacaoPorCodigo[codigo] = observacao || 'N/A';
             regioes.add(regional);
           }
         });
@@ -127,7 +128,7 @@
           f.properties.regional = regionalPorCodigo[codigo] || 'Desconhecida';
           f.properties.diretor = diretorPorCodigo[codigo] || 'N/A';
           f.properties.atendente = atendentePorCodigo[codigo] || 'N/A';
-          f.properties.observacao = observacaoPorCodigo[codigo] || '';
+          f.properties.observacao = observacaoPorCodigo[codigo] || 'N/A';
         });
         geojsonData = data;
         atualizarMapa();
@@ -171,7 +172,7 @@
           Regional: ${reg}<br>
           Diretor Regional: ${diretor}<br>
           Atendente: ${atendente}<br>
-          ${obs ? `<em>Obs:</em> ${obs}` : ''}
+          Observação: ${obs}
         `;
 
         layer.bindPopup(popupContent);
@@ -191,7 +192,7 @@
     return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
   }
 
-  function buscarMunicipio() {
+  document.getElementById('buscarBtn').addEventListener('click', () => {
     const termo = normalizarTexto(document.getElementById('busca').value);
     if (!termo) return;
 
@@ -209,12 +210,6 @@
 
     if (!encontrado) {
       alert("Município não encontrado.");
-    }
-  }
-
-  document.getElementById('busca').addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') {
-      buscarMunicipio();
     }
   });
 

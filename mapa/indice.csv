@@ -1,1294 +1,646 @@
-CODIGO_IBGE;MUNICIPIO;REGIONAL;;
-3500105;Adamantina;ER Presidente Prudente;;
-3500204;Adolfo;ER Sao Jose do Rio Preto;;
-3500303;AguaÃ­;ER Campinas;;
-3500402;Ãguas da Prata;ER Campinas;;
-3500501;Ãguas de LindÃ³ia;ER Campinas;;
-3500550;Ãguas de Santa BÃ¡rbara;ER Sorocaba;;
-3500600;Ãguas de SÃ£o Pedro;ER Campinas;;
-3500709;Agudos;ER Bauru;;
-3500758;Alambari;ER Sorocaba;;
-3500808;Alfredo Marcondes;ER Presidente Prudente;;
-3500907;Altair;ER Barretos;;
-3501004;AltinÃ³polis;ER Ribeirao Preto;;
-3501103;Alto Alegre;ER Aracatuba;;
-3501152;AlumÃ­nio;ER Sorocaba;;
-3501202;Ãlvares Florence;ER Sao Jose do Rio Preto;;
-3501301;Ãlvares Machado;ER Presidente Prudente;;
-3501400;Ãlvaro de Carvalho;ER Marilia;;
-3501509;AlvinlÃ¢ndia;ER Marilia;;
-3501608;Americana;ER Campinas;;
-3501707;AmÃ©rico Brasiliense;ER Araraquara;;
-3501806;AmÃ©rico de Campos;ER Sao Jose do Rio Preto;;
-3501905;Amparo;ER Campinas;;
-3502002;AnalÃ¢ndia;ER Campinas;;
-3502101;Andradina;ER Aracatuba;;
-3502200;Angatuba;ER Itapeva;;
-3502309;Anhembi;ER Sorocaba;;
-3502408;Anhumas;ER Presidente Prudente;;
-3502507;Aparecida;ER Sao Jose dos Campos;;
-3502606;Aparecida D'Oeste;ER Sao Jose do Rio Preto;;
-3502705;ApiaÃ­;ER Itapeva;;
-3502754;AraÃ§ariguama;ER Sorocaba;;
-3502804;AraÃ§atuba;ER Aracatuba;;
-3502903;AraÃ§oiaba da Serra;ER Sorocaba;;
-3503000;Aramina;ER Franca;;
-3503109;Arandu;ER Itapeva;;
-3503158;ArapeÃ­;ER Sao Jose dos Campos;;
-3503208;Araraquara;ER Araraquara;;
-3503307;Araras;ER Campinas;;
-3503356;Arco Ãris;ER Marilia;;
-3503406;Arealva;ER Bauru;;
-3503505;Areias;ER Sao Jose dos Campos;;
-3503604;AreiÃ³polis;ER Sorocaba;;
-3503703;Ariranha;ER Sao Jose do Rio Preto;;
-3503802;Artur Nogueira;ER Campinas;;
-3503901;ArujÃ¡;ER Sao Paulo;;
-3503950;AspÃ¡sia;ER Sao Jose do Rio Preto;;
-3504008;Assis;ER Marilia;;
-3504107;Atibaia;ER Campinas;;
-3504206;Auriflama;ER Aracatuba;;
-3504305;AvaÃ­;ER Bauru;;
-3504404;Avanhandava;ER Aracatuba;;
-3504503;AvarÃ©;ER Sorocaba;;
-3504602;Bady Bassitt;ER Sao Jose do Rio Preto;;
-3504701;Balbinos;ER Bauru;;
-3504800;BÃ¡lsamo;ER Sao Jose do Rio Preto;;
-3504909;Bananal;ER Sao Jose dos Campos;;
-3505005;BarÃ£o de Antonina;ER Itapeva;;
-3505104;Barbosa;ER Aracatuba;;
-3505203;Bariri;ER Bauru;;
-3505302;Barra Bonita;ER Bauru;;
-3505351;Barra do ChapÃ©u;ER Itapeva;;
-3505401;Barra do Turvo;ER Vale do Ribeira;;
-3505500;Barretos;ER Barretos;;
-3505609;Barrinha;ER Ribeirao Preto;;
-3505708;Barueri;ER Sao Paulo;;
-3505807;Bastos;ER Marilia;;
-3505906;Batatais;ER Franca;;
-3506003;Bauru;ER Bauru;;
-3506102;Bebedouro;ER Barretos;;
-3506201;Bento de Abreu;ER Aracatuba;;
-3506300;Bernardino de Campos;ER Marilia;;
-3506359;Bertioga;ER Baixada Santista;;
-3506409;Bilac;ER Aracatuba;;
-3506508;Birigui;ER Aracatuba;;
-3506607;Biritiba Mirim;ER Sao Paulo;;
-3506706;Boa EsperanÃ§a do Sul;ER Araraquara;;
-3506805;Bocaina;ER Bauru;;
-3506904;Bofete;ER Sorocaba;;
-3507001;Boituva;ER Sorocaba;;
-3507100;Bom Jesus dos PerdÃµes;ER Campinas;;
-3507159;Bom Sucesso de ItararÃ©;ER Itapeva;;
-3507209;BorÃ¡;ER Marilia;;
-3507308;BoracÃ©ia;ER Bauru;;
-3507407;Borborema;ER Araraquara;;
-3507456;Borebi;ER Bauru;;
-3507506;Botucatu;ER Sorocaba;;
-3507605;BraganÃ§a Paulista;ER Campinas;;
-3507704;BraÃºna;ER Aracatuba;;
-3507753;Brejo Alegre;ER Aracatuba;;
-3507803;Brodowski;ER Ribeirao Preto;;
-3507902;Brotas;ER Campinas;;
-3508009;Buri;ER Itapeva;;
-3508108;Buritama;ER Aracatuba;;
-3508207;Buritizal;ER Franca;;
-3508306;CabrÃ¡lia Paulista;ER Bauru;;
-3508405;CabreÃºva;ER Campinas;;
-3508504;CaÃ§apava;ER Sao Jose dos Campos;;
-3508603;Cachoeira Paulista;ER Sao Jose dos Campos;;
-3508702;Caconde;ER Campinas;;
-3508801;CafelÃ¢ndia;ER Bauru;;
-3508900;Caiabu;ER Presidente Prudente;;
-3509007;Caieiras;ER Sao Paulo;;
-3509106;CaiuÃ¡;ER Presidente Prudente;;
-3509205;Cajamar;ER Sao Paulo;;
-3509254;Cajati;ER Vale do Ribeira;;
-3509304;Cajobi;ER Barretos;;
-3509403;Cajuru;ER Ribeirao Preto;;
-3509452;Campina do Monte Alegre;ER Itapeva;;
-3509502;Campinas;ER Campinas;;
-3509601;Campo Limpo Paulista;ER Campinas;;
-3509700;Campos do JordÃ£o;ER Sao Jose dos Campos;;
-3509809;Campos Novos Paulista;ER Marilia;;
-3509908;CananÃ©ia;ER Vale do Ribeira;;
-3509957;Canas;ER Sao Jose dos Campos;;
-3510005;CÃ¢ndido Mota;ER Marilia;;
-3510104;CÃ¢ndido Rodrigues;ER Araraquara;;
-3510153;Canitar;ER Marilia;;
-3510203;CapÃ£o Bonito;ER Itapeva;;
-3510302;Capela do Alto;ER Sorocaba;;
-3510401;Capivari;ER Campinas;;
-3510500;Caraguatatuba;ER Sao Jose dos Campos;;
-3510609;Carapicuiba;ER Sao Paulo;;
-3510708;Cardoso;ER Sao Jose do Rio Preto;;
-3510807;Casa Branca;ER Campinas;;
-3510906;CÃ¡ssia dos Coqueiros;ER Ribeirao Preto;;
-3511003;Castilho;ER Aracatuba;;
-3511102;Catanduva;ER Sao Jose do Rio Preto;;
-3511201;CatiguÃ¡;ER Sao Jose do Rio Preto;;
-3511300;Cedral;ER Sao Jose do Rio Preto;;
-3511409;Cerqueira Cesar;ER Sorocaba;;
-3511508;Cerquilho;ER Sorocaba;;
-3511607;CesÃ¡rio Lange;ER Sorocaba;;
-3511706;Charqueada;ER Campinas;;
-3511904;Clementina;ER Aracatuba;;
-3512001;Colina;ER Barretos;;
-3512100;ColÃ´mbia;ER Barretos;;
-3512209;Conchal;ER Campinas;;
-3512308;Conchas;ER Sorocaba;;
-3512407;CordeirÃ³polis;ER Campinas;;
-3512506;Coroados;ER Aracatuba;;
-3512605;Coronel Macedo;ER Itapeva;;
-3512704;CorumbataÃ­;ER Campinas;;
-3512803;CosmÃ³polis;ER Campinas;;
-3512902;Cosmorama;ER Sao Jose do Rio Preto;;
-3513009;Cotia;ER Sao Paulo;;
-3513108;Cravinhos;ER Ribeirao Preto;;
-3513207;Cristais Paulista;ER Franca;;
-3513306;Cruzï¿½lia;ER Marilia;;
-3513405;Cruzeiro;ER Sao Jose dos Campos;;
-3513504;Cubatï¿½o;ER Baixada Santista;;
-3513603;Cunha;ER Sao Jose dos Campos;;
-3513702;Descalvado;ER Araraquara;;
-3513801;Diadema;ER Sao Paulo;;
-3513850;Dirce Reis;ER Sao Jose do Rio Preto;;
-3513900;Divinolï¿½ndia;ER Campinas;;
-3514007;Dobrada;ER Araraquara;;
-3514106;Dois Cï¿½rregos;ER Bauru;;
-3514205;Dolcinï¿½polis;ER Sao Jose do Rio Preto;;
-3514304;Dourado;ER Araraquara;;
-3514403;Dracena;ER Presidente Prudente;;
-3514502;Duartina;ER Bauru;;
-3514601;Dumont;ER Ribeirao Preto;;
-3514700;Echaporï¿½;ER Marilia;;
-3514809;Eldorado;ER Vale do Ribeira;;
-3514908;Elias Fausto;ER Campinas;;
-3514924;Elisiï¿½rio;ER Sao Jose do Rio Preto;;
-3514957;Embaï¿½ba;ER Barretos;;
-3515004;Embu das Artes;ER Sao Paulo;;
-3515103;Embu Guaï¿½u;ER Sao Paulo;;
-3515129;Emilianï¿½polis;ER Presidente Prudente;;
-3515152;Engenheiro Coelho;ER Campinas;;
-3515186;Espï¿½rito Santo do Pinhal;ER Campinas;;
-3515194;Espï¿½rito Santo do Turvo;ER Marilia;;
-3515202;Estrela D'Oeste;ER Sao Jose do Rio Preto;;
-3515301;Estrela do Norte;ER Presidente Prudente;;
-3515350;Euclides da Cunha Paulista;ER Presidente Prudente;;
-3515400;Fartura;ER Itapeva;;
-3515509;Fernandï¿½polis;ER Sao Jose do Rio Preto;;
-3515608;Fernando Prestes;ER Araraquara;;
-3515657;Fernï¿½o;ER Marilia;;
-3515707;Ferraz de Vasconcelos;ER Sao Paulo;;
-3515806;Flora Rica;ER Presidente Prudente;;
-3515905;Floreal;ER Sao Jose do Rio Preto;;
-3516002;Flï¿½rida Paulista;ER Presidente Prudente;;
-3516101;Florï¿½nea;ER Marilia;;
-3516200;Franca;ER Franca;;
-3516309;Francisco Morato;ER Sao Paulo;;
-3516408;Franco da Rocha;ER Sao Paulo;;
-3516507;Gabriel Monteiro;ER Aracatuba;;
-3516606;Gï¿½lia;ER Marilia;;
-3516705;Garï¿½a;ER Marilia;;
-3516804;GastÃ£o Vidigal;ER Aracatuba;;
-3516853;Gaviï¿½o Peixoto;ER Araraquara;;
-3516903;General Salgado;ER Aracatuba;;
-3517000;Getulina;ER Bauru;;
-3517109;GlicÃ©rio;ER Aracatuba;;
-3517208;Guaiï¿½ara;ER Bauru;;
-3517307;Guaimbï¿½;ER Bauru;;
-3517406;Guaï¿½ra;ER Barretos;;
-3517505;Guapiaï¿½u;ER Sao Jose do Rio Preto;;
-3517604;Guapiara;ER Itapeva;;
-3517703;Guarï¿½;ER Franca;;
-3517802;GuaraÃ§aÃ­;ER Aracatuba;;
-3517901;Guaraci;ER Barretos;;
-3518008;Guarani D'Oeste;ER Sao Jose do Rio Preto;;
-3518107;Guarantï¿½;ER Bauru;;
-3518206;Guararapes;ER Aracatuba;;
-3518305;Guararema;ER Sao Paulo;;
-3518404;Guaratinguetï¿½;ER Sao Jose dos Campos;;
-3518503;Guareï¿½;ER Sorocaba;;
-3518602;Guariba;ER Ribeirao Preto;;
-3518701;Guarujï¿½;ER Baixada Santista;;
-3518800;Guarulhos;ER Sao Paulo;;
-3518859;Guataparï¿½;ER Ribeirao Preto;;
-3518909;GuzolÃ¢ndia;ER Aracatuba;;
-3519006;Herculï¿½ndia;ER Marilia;;
-3519055;Holambra;ER Campinas;;
-3519071;Hortolï¿½ndia;ER Campinas;;
-3519105;Iacanga;ER Bauru;;
-3519204;Iacri;ER Marilia;;
-3519253;Iaras;ER Sorocaba;;
-3519303;Ibatï¿½;ER Araraquara;;
-3519402;Ibirï¿½;ER Sao Jose do Rio Preto;;
-3519501;Ibirarema;ER Marilia;;
-3519600;Ibitinga;ER Araraquara;;
-3519709;Ibiï¿½na;ER Sorocaba;;
-3519808;Icï¿½m;ER Sao Jose do Rio Preto;;
-3519907;Iepï¿½;ER Presidente Prudente;;
-3520004;Igaraï¿½u do Tietï¿½;ER Bauru;;
-3520103;Igarapava;ER Franca;;
-3520202;Igaratï¿½;ER Sao Jose dos Campos;;
-3520301;Iguape;ER Vale do Ribeira;;
-3520400;Ilhabela;ER Sao Jose dos Campos;;
-3520426;Ilha Comprida;ER Vale do Ribeira;;
-3520442;Ilha Solteira;ER Aracatuba;;
-3520509;Indaiatuba;ER Campinas;;
-3520608;Indiana;ER Presidente Prudente;;
-3520707;Indiaporï¿½;ER Sao Jose do Rio Preto;;
-3520806;Inï¿½bia Paulista;ER Presidente Prudente;;
-3520905;Ipaussu;ER Marilia;;
-3521002;Iperï¿½;ER Sorocaba;;
-3521101;Ipeï¿½na;ER Campinas;;
-3521150;Ipiguï¿½;ER Sao Jose do Rio Preto;;
-3521200;Iporanga;ER Itapeva;;
-3521309;Ipuï¿½;ER Franca;;
-3521408;Iracemï¿½polis;ER Campinas;;
-3521507;Irapuï¿½;ER Sao Jose do Rio Preto;;
-3521606;Irapuru;ER Presidente Prudente;;
-3521705;Itaberï¿½;ER Itapeva;;
-3521804;Itaï¿½;ER Itapeva;;
-3521903;Itajobi;ER Sao Jose do Rio Preto;;
-3522000;Itaju;ER Bauru;;
-3522109;Itanhaï¿½m;ER Baixada Santista;;
-3522158;Itaï¿½ca;ER Itapeva;;
-3522208;Itapecerica da Serra;ER Sao Paulo;;
-3522307;Itapetininga;ER Sorocaba;;
-3522406;Itapeva;ER Itapeva;;
-3522505;Itapevi;ER Sao Paulo;;
-3522604;Itapira;ER Campinas;;
-3522653;Itapirapuï¿½ Paulista;ER Itapeva;;
-3522703;Itï¿½polis;ER Araraquara;;
-3522802;Itaporanga;ER Itapeva;;
-3522901;Itapuï¿½;ER Bauru;;
-3523008;Itapura;ER Aracatuba;;
-3523107;Itaquaquecetuba;ER Sao Paulo;;
-3523206;Itararï¿½;ER Itapeva;;
-3523305;Itariri;ER Vale do Ribeira;;
-3523404;Itatiba;ER Campinas;;
-3523503;Itatinga;ER Sorocaba;;
-3523602;Itirapina;ER Campinas;;
-3523701;Itirapuï¿½;ER Franca;;
-3523800;Itobi;ER Campinas;;
-3523909;Itu;ER Sorocaba;;
-3524006;Itupeva;ER Campinas;;
-3524105;Ituverava;ER Franca;;
-3524204;Jaborandi;ER Barretos;;
-3524303;Jaboticabal;ER Ribeirao Preto;;
-3524402;Jacareï¿½;ER Sao Jose dos Campos;;
-3524501;Jaci;ER Sao Jose do Rio Preto;;
-3524600;Jacupiranga;ER Vale do Ribeira;;
-3524709;Jaguariï¿½na;ER Campinas;;
-3524808;Jales;ER Sao Jose do Rio Preto;;
-3524907;Jambeiro;ER Sao Jose dos Campos;;
-3525003;Jandira;ER Sao Paulo;;
-3525102;Jardinï¿½polis;ER Ribeirao Preto;;
-3525201;Jarinu;ER Campinas;;
-3525300;Jaï¿½;ER Bauru;;
-3525409;Jeriquara;ER Franca;;
-3525508;Joanï¿½polis;ER Campinas;;
-3525607;Joï¿½o Ramalho;ER Marilia;;
-3525706;Josï¿½ Bonifï¿½cio;ER Sao Jose do Rio Preto;;
-3525805;Jï¿½lio Mesquita;ER Marilia;;
-3525854;Jumirim;ER Sorocaba;;
-3525904;Jundiaï¿½;ER Campinas;;
-3526001;Junqueirï¿½polis;ER Presidente Prudente;;
-3526100;Juquiï¿½;ER Vale do Ribeira;;
-3526209;Juquitiba;ER Sao Paulo;;
-3526308;Lagoinha;ER Sao Jose dos Campos;;
-3526407;Laranjal Paulista;ER Sorocaba;;
-3526506;LavÃ­nia;ER Aracatuba;;
-3526605;Lavrinhas;ER Sao Jose dos Campos;;
-3526704;Leme;ER Campinas;;
-3526803;Lenï¿½ï¿½is Paulista;ER Bauru;;
-3526902;Limeira;ER Campinas;;
-3527009;Lindï¿½ia;ER Campinas;;
-3527108;Lins;ER Bauru;;
-3527207;Lorena;ER Sao Jose dos Campos;;
-3527256;Lourdes;ER Aracatuba;;
-3527306;Louveira;ER Campinas;;
-3527405;Lucï¿½lia;ER Presidente Prudente;;
-3527504;Lucianï¿½polis;ER Bauru;;
-3527603;Luis Antï¿½nio;ER Ribeirao Preto;;
-3527702;LuiziÃ¢nia;ER Aracatuba;;
-3527801;Lupï¿½rcio;ER Marilia;;
-3527900;Lutï¿½cia;ER Marilia;;
-3528007;Macatuba;ER Bauru;;
-3528106;Macaubal;ER Sao Jose do Rio Preto;;
-3528205;Macedï¿½nia;ER Sao Jose do Rio Preto;;
-3528304;Magda;ER Sao Jose do Rio Preto;;
-3528403;Mairinque;ER Sorocaba;;
-3528502;Mairiporï¿½;ER Sao Paulo;;
-3528601;Manduri;ER Sorocaba;;
-3528700;Marabï¿½ Paulista;ER Presidente Prudente;;
-3528809;Maracaï¿½;ER Marilia;;
-3528858;Marapoama;ER Sao Jose do Rio Preto;;
-3528908;Mariï¿½polis;ER Presidente Prudente;;
-3529005;Marï¿½lia;ER Marilia;;
-3529104;Marinï¿½polis;ER Sao Jose do Rio Preto;;
-3529203;Martinï¿½polis;ER Presidente Prudente;;
-3529302;Matï¿½o;ER Araraquara;;
-3529401;Mauï¿½;ER Sao Paulo;;
-3529500;Mendonï¿½a;ER Sao Jose do Rio Preto;;
-3529609;Meridiano;ER Sao Jose do Rio Preto;;
-3529658;Mesï¿½polis;ER Sao Jose do Rio Preto;;
-3529708;Miguelï¿½polis;ER Franca;;
-3529807;Mineiros do Tietï¿½;ER Bauru;;
-3529906;Miracatu;ER Vale do Ribeira;;
-3530003;Mira Estrela;ER Sao Jose do Rio Preto;;
-3530102;MirandÃ³polis;ER Aracatuba;;
-3530201;Mirante do Paranapanema;ER Presidente Prudente;;
-3530300;Mirassol;ER Sao Jose do Rio Preto;;
-3530409;Mirassolï¿½ndia;ER Sao Jose do Rio Preto;;
-3530508;Mococa;ER Campinas;;
-3530607;Mogi das Cruzes;ER Sao Paulo;;
-3530706;Mogi Guaï¿½u;ER Campinas;;
-3530805;Mogi Mirim;ER Campinas;;
-3530904;Mombuca;ER Campinas;;
-3531001;Monï¿½ï¿½es;ER Sao Jose do Rio Preto;;
-3531100;Mongaguï¿½;ER Baixada Santista;;
-3531209;Monte Alegre do Sul;ER Campinas;;
-3531308;Monte Alto;ER Ribeirao Preto;;
-3531407;Monte Aprazï¿½vel;ER Sao Jose do Rio Preto;;
-3531506;Monte Azul Paulista;ER Barretos;;
-3531605;Monte Castelo;ER Presidente Prudente;;
-3531704;Monteiro Lobato;ER Sao Jose dos Campos;;
-3531803;Monte Mor;ER Campinas;;
-3531902;Morro Agudo;ER Franca;;
-3532009;Morungaba;ER Campinas;;
-3532058;Motuca;ER Araraquara;;
-3532108;Murutinga do Sul;ER Aracatuba;;
-3532157;Nantes;ER Presidente Prudente;;
-3532207;Narandiba;ER Presidente Prudente;;
-3532306;Natividade da Serra;ER Sao Jose dos Campos;;
-3532405;Nazarï¿½ Paulista;ER Campinas;;
-3532504;Neves Paulista;ER Sao Jose do Rio Preto;;
-3532603;Nhandeara;ER Sao Jose do Rio Preto;;
-3532702;Nipoï¿½;ER Sao Jose do Rio Preto;;
-3532801;Nova Alianï¿½a;ER Sao Jose do Rio Preto;;
-3532827;Nova Campina;ER Itapeva;;
-3532843;Nova Canaï¿½ Paulista;ER Sao Jose do Rio Preto;;
-3532868;Nova Castilho;ER Aracatuba;;
-3532900;Nova Europa;ER Araraquara;;
-3533007;Nova Granada;ER Sao Jose do Rio Preto;;
-3533106;Nova Guataporanga;ER Presidente Prudente;;
-3533205;Nova IndependÃªncia;ER Aracatuba;;
-3533254;Novais;ER Sao Jose do Rio Preto;;
-3533304;Nova LuzitÃ¢nia;ER Aracatuba;;
-3533403;Nova Odessa;ER Campinas;;
-3533502;Novo Horizonte;ER Sao Jose do Rio Preto;;
-3533601;Nuporanga;ER Franca;;
-3533700;Ocauï¿½u;ER Marilia;;
-3533809;ï¿½leo;ER Marilia;;
-3533908;Olï¿½mpia;ER Barretos;;
-3534005;Onda Verde;ER Sao Jose do Rio Preto;;
-3534104;Oriente;ER Marilia;;
-3534203;Orindiï¿½va;ER Sao Jose do Rio Preto;;
-3534302;Orlï¿½ndia;ER Franca;;
-3534401;Osasco;ER Sao Paulo;;
-3534500;Oscar Bressane;ER Marilia;;
-3534609;Osvaldo Cruz;ER Presidente Prudente;;
-3534708;Ourinhos;ER Marilia;;
-3534757;Ouroeste;ER Sao Jose do Rio Preto;;
-3534807;Ouro Verde;ER Presidente Prudente;;
-3534906;Pacaembu;ER Presidente Prudente;;
-3535002;Palestina;ER Sao Jose do Rio Preto;;
-3535101;Palmares Paulista;ER Sao Jose do Rio Preto;;
-3535200;Palmeira D'Oeste;ER Sao Jose do Rio Preto;;
-3535309;Palmital;ER Marilia;;
-3535408;Panorama;ER Presidente Prudente;;
-3535507;Paraguaï¿½u Paulista;ER Marilia;;
-3535606;Paraibuna;ER Sao Jose dos Campos;;
-3535705;Paraï¿½so;ER Sao Jose do Rio Preto;;
-3535804;Paranapanema;ER Itapeva;;
-3535903;Paranapuï¿½;ER Sao Jose do Rio Preto;;
-3536000;Parapuï¿½;ER Marilia;;
-3536109;Pardinho;ER Sorocaba;;
-3536208;Pariquera Aï¿½u;ER Vale do Ribeira;;
-3536257;Parisi;ER Sao Jose do Rio Preto;;
-3536307;Patrocï¿½nio Paulista;ER Franca;;
-3536406;Paulicï¿½ia;ER Presidente Prudente;;
-3536505;Paulï¿½nia;ER Campinas;;
-3536570;Paulistï¿½nia;ER Bauru;;
-3536604;Paulo de Faria;ER Sao Jose do Rio Preto;;
-3536703;Pederneiras;ER Bauru;;
-3536802;Pedra Bela;ER Campinas;;
-3536901;Pedranï¿½polis;ER Sao Jose do Rio Preto;;
-3537008;Pedregulho;ER Franca;;
-3537107;Pedreira;ER Campinas;;
-3537156;Pedrinhas Paulista;ER Marilia;;
-3537206;Pedro de Toledo;ER Vale do Ribeira;;
-3537305;PenÃ¡polis;ER Aracatuba;;
-3537404;Pereira Barreto;ER Aracatuba;;
-3537503;Pereiras;ER Sorocaba;;
-3537602;Peruï¿½be;ER Baixada Santista;;
-3537701;Piacatu;ER Aracatuba;;
-3537800;Piedade;ER Sorocaba;;
-3537909;Pilar do Sul;ER Sorocaba;;
-3538006;Pindamonhangaba;ER Sao Jose dos Campos;;
-3538105;Pindorama;ER Sao Jose do Rio Preto;;
-3538204;Pinhalzinho;ER Campinas;;
-3538303;Piquerobi;ER Presidente Prudente;;
-3538501;Piquete;ER Sao Jose dos Campos;;
-3538600;Piracaia;ER Campinas;;
-3538709;Piracicaba;ER Campinas;;
-3538808;Piraju;ER Itapeva;;
-3538907;Pirajuï¿½;ER Bauru;;
-3539004;Pirangi;ER Barretos;;
-3539103;Pirapora do Bom Jesus;ER Sao Paulo;;
-3539202;Pirapozinho;ER Presidente Prudente;;
-3539301;Pirassununga;ER Campinas;;
-3539400;Piratininga;ER Bauru;;
-3539509;Pitangueiras;ER Ribeirao Preto;;
-3539608;Planalto;ER Sao Jose do Rio Preto;;
-3539707;Platina;ER Marilia;;
-3539806;Poï¿½;ER Sao Paulo;;
-3539905;Poloni;ER Sao Jose do Rio Preto;;
-3540002;Pompï¿½ia;ER Marilia;;
-3540101;Pongaï¿½;ER Bauru;;
-3540200;Pontal;ER Ribeirao Preto;;
-3540259;Pontalinda;ER Sao Jose do Rio Preto;;
-3540309;Pontes Gestal;ER Sao Jose do Rio Preto;;
-3540408;Populina;ER Sao Jose do Rio Preto;;
-3540507;Porangaba;ER Sorocaba;;
-3540606;Porto Feliz;ER Sorocaba;;
-3540705;Porto Ferreira;ER Araraquara;;
-3540754;Potim;ER Sao Jose dos Campos;;
-3540804;Potirendaba;ER Sao Jose do Rio Preto;;
-3540853;Pracinha;ER Presidente Prudente;;
-3540903;Pradï¿½polis;ER Ribeirao Preto;;
-3541000;Praia Grande;ER Baixada Santista;;
-3541059;Pratï¿½nia;ER Sorocaba;;
-3541109;Presidente Alves;ER Bauru;;
-3541208;Presidente Bernardes;ER Presidente Prudente;;
-3541307;Presidente Epitï¿½cio;ER Presidente Prudente;;
-3541406;Presidente Prudente;ER Presidente Prudente;;
-3541505;Presidente Venceslau;ER Presidente Prudente;;
-3541604;Promissï¿½o;ER Bauru;;
-3541653;Quadra;ER Sorocaba;;
-3541703;Quatï¿½;ER Marilia;;
-3541802;Queiroz;ER Marilia;;
-3541901;Queluz;ER Sao Jose dos Campos;;
-3542008;Quintana;ER Marilia;;
-3542107;Rafard;ER Campinas;;
-3542206;Rancharia;ER Presidente Prudente;;
-3542305;Redenï¿½ï¿½o da Serra;ER Sao Jose dos Campos;;
-3542404;Regente Feijï¿½;ER Presidente Prudente;;
-3542503;Reginï¿½polis;ER Bauru;;
-3542602;Registro;ER Vale do Ribeira;;
-3542701;Restinga;ER Franca;;
-3542800;Ribeira;ER Itapeva;;
-3542909;Ribeirï¿½o Bonito;ER Araraquara;;
-3543006;Ribeirï¿½o Branco;ER Itapeva;;
-3543105;Ribeirï¿½o Corrente;ER Franca;;
-3543204;Ribeirï¿½o do Sul;ER Marilia;;
-3543238;Ribeirï¿½o dos ï¿½ndios;ER Presidente Prudente;;
-3543253;Ribeirï¿½o Grande;ER Itapeva;;
-3543303;Ribeirï¿½o Pires;ER Sao Paulo;;
-3543402;Ribeirï¿½o Preto;ER Ribeirao Preto;;
-3543501;Riversul;ER Itapeva;;
-3543600;Rifaina;ER Franca;;
-3543709;Rincï¿½o;ER Araraquara;;
-3543808;Rinï¿½polis;ER Marilia;;
-3543907;Rio Claro;ER Campinas;;
-3544004;Rio das Pedras;ER Campinas;;
-3544103;Rio Grande da Serra;ER Sao Paulo;;
-3544202;Riolï¿½ndia;ER Sao Jose do Rio Preto;;
-3544251;Rosana;ER Presidente Prudente;;
-3544301;Roseira;ER Sao Jose dos Campos;;
-3544400;RubiÃ¡cea;ER Aracatuba;;
-3544509;Rubinï¿½ia;ER Sao Jose do Rio Preto;;
-3544608;Sabino;ER Bauru;;
-3544707;Sagres;ER Presidente Prudente;;
-3544806;Sales;ER Sao Jose do Rio Preto;;
-3544905;Sales Oliveira;ER Franca;;
-3545001;Salesï¿½polis;ER Sao Paulo;;
-3545100;Salmourï¿½o;ER Presidente Prudente;;
-3545159;Saltinho;ER Campinas;;
-3545209;Salto;ER Sorocaba;;
-3545308;Salto de Pirapora;ER Sorocaba;;
-3545407;Salto Grande;ER Marilia;;
-3545506;Sandovalina;ER Presidente Prudente;;
-3545605;Santa Adï¿½lia;ER Sao Jose do Rio Preto;;
-3545704;Santa Albertina;ER Sao Jose do Rio Preto;;
-3545803;Santa Bï¿½rbara D'Oeste;ER Campinas;;
-3546009;Santa Branca;ER Sao Jose dos Campos;;
-3546108;Santa Clara D'Oeste;ER Sao Jose do Rio Preto;;
-3546207;Santa Cruz da Conceiï¿½ï¿½o;ER Campinas;;
-3546256;Santa Cruz da Esperanï¿½a;ER Ribeirao Preto;;
-3546306;Santa Cruz das Palmeiras;ER Campinas;;
-3546405;Santa Cruz do Rio Pardo;ER Marilia;;
-3546504;Santa Ernestina;ER Araraquara;;
-3546603;Santa Fï¿½ do Sul;ER Sao Jose do Rio Preto;;
-3546702;Santa Gertrudes;ER Campinas;;
-3546801;Santa Isabel;ER Sao Paulo;;
-3546900;Santa Lï¿½cia;ER Araraquara;;
-3547007;Santa Maria da Serra;ER Campinas;;
-3547106;Santa Mercedes;ER Presidente Prudente;;
-3547205;Santana da Ponte Pensa;ER Sao Jose do Rio Preto;;
-3547304;Santana de Parnaï¿½ba;ER Sao Paulo;;
-3547403;Santa Rita D'Oeste;ER Sao Jose do Rio Preto;;
-3547502;Santa Rita do Passa Quatro;ER Araraquara;;
-3547601;Santa Rosa de Viterbo;ER Ribeirao Preto;;
-3547650;Santa Salete;ER Sao Jose do Rio Preto;;
-3547700;Santo Anastï¿½cio;ER Presidente Prudente;;
-3547809;Santo Andrï¿½;ER Sao Paulo;;
-3547908;Santo Antï¿½nio da Alegria;ER Ribeirao Preto;;
-3548005;Santo Antï¿½nio de Posse;ER Campinas;;
-3548054;Santo AntÃ´nio do AracanguÃ¡;ER Aracatuba;;
-3548104;Santo Antï¿½nio do Jardim;ER Campinas;;
-3548203;Santo Antï¿½nio do Pinhal;ER Sao Jose dos Campos;;
-3548302;Santo Expedito;ER Presidente Prudente;;
-3548401;SantÃ³polis do AguapeÃ­;ER Aracatuba;;
-3548500;Santos;ER Baixada Santista;;
-3548609;Sï¿½o Bento do Sapucaï¿½;ER Sao Jose dos Campos;;
-3548708;Sï¿½o Bernardo do Campo;ER Sao Paulo;;
-3548807;Sï¿½o Caetano do Sul;ER Sao Paulo;;
-3548906;Sï¿½o Carlos;ER Araraquara;;
-3549003;Sï¿½o Francisco;ER Sao Jose do Rio Preto;;
-3549102;Sï¿½o Joï¿½o da Boa Vista;ER Campinas;;
-3549201;Sï¿½o Joï¿½o das Duas Pontes;ER Sao Jose do Rio Preto;;
-3549250;SÃ£o JoÃ£o de Iracema;ER Aracatuba;;
-3549300;Sï¿½o Joï¿½o do Pau D'Alho;ER Presidente Prudente;;
-3549409;Sï¿½o Joaquim da Barra;ER Franca;;
-3549508;Sï¿½o Josï¿½ da Bela Vista;ER Franca;;
-3549607;Sï¿½o Josï¿½ do Barreiro;ER Sao Jose dos Campos;;
-3549706;Sï¿½o Josï¿½ do Rio Pardo;ER Campinas;;
-3549805;Sï¿½o Josï¿½ do Rio Preto;ER Sao Jose do Rio Preto;;
-3549904;Sï¿½o Josï¿½ dos Campos;ER Sao Jose dos Campos;;
-3549953;Sï¿½o Lourenï¿½o da Serra;ER Sao Paulo;;
-3550001;Sï¿½o Luis do Paraitinga;ER Sao Jose dos Campos;;
-3550100;Sï¿½o Manuel;ER Sorocaba;;
-3550209;Sï¿½o Miguel Arcanjo;ER Sorocaba;;
-3550308;Sï¿½o Paulo;ER Sao Paulo;;
-3550407;Sï¿½o Pedro;ER Campinas;;
-3550506;Sï¿½o Pedro do Turvo;ER Marilia;;
-3550605;Sï¿½o Roque;ER Sorocaba;;
-3550704;Sï¿½o Sebastiï¿½o;ER Sao Jose dos Campos;;
-3550803;Sï¿½o Sebastiï¿½o da Grama;ER Campinas;;
-3550902;Sï¿½o Simï¿½o;ER Ribeirao Preto;;
-3551009;Sï¿½o Vicente;ER Baixada Santista;;
-3551108;Sarapuï¿½;ER Sorocaba;;
-3551207;Sarutaiï¿½;ER Itapeva;;
-3551306;Sebastianï¿½polis do Sul;ER Sao Jose do Rio Preto;;
-3551405;Serra Azul;ER Ribeirao Preto;;
-3551504;Serrana;ER Ribeirao Preto;;
-3551603;Serra Negra;ER Campinas;;
-3551702;Sertï¿½ozinho;ER Ribeirao Preto;;
-3551801;Sete Barras;ER Vale do Ribeira;;
-3551900;Severï¿½nia;ER Barretos;;
-3552007;Silveiras;ER Sao Jose dos Campos;;
-3552106;Socorro;ER Campinas;;
-3552205;Sorocaba;ER Sorocaba;;
-3552304;Sud Mennucci;ER Aracatuba;;
-3552403;Sumarï¿½;ER Campinas;;
-3552502;Suzano;ER Sao Paulo;;
-3552551;SuzanÃ³polis;ER Aracatuba;;
-3552601;Tabapuï¿½;ER Sao Jose do Rio Preto;;
-3552700;Tabatinga;ER Araraquara;;
-3552809;Taboï¿½o Da Serra;ER Sao Paulo;;
-3552908;Taciba;ER Presidente Prudente;;
-3553005;Taguaï¿½;ER Itapeva;;
-3553104;Taiaï¿½u;ER Barretos;;
-3553203;Taiï¿½va;ER Barretos;;
-3553302;Tambaï¿½;ER Campinas;;
-3553401;Tanabi;ER Sao Jose do Rio Preto;;
-3553500;Tapiraï¿½;ER Sorocaba;;
-3553609;Tapiratiba;ER Campinas;;
-3553658;Taquaral;ER Ribeirao Preto;;
-3553708;Taquaritinga;ER Araraquara;;
-3553807;Taquarituba;ER Itapeva;;
-3553856;Taquarivaï¿½;ER Itapeva;;
-3553906;Tarabai;ER Presidente Prudente;;
-3553955;Tarumï¿½;ER Marilia;;
-3554003;Tatuï¿½;ER Sorocaba;;
-3554102;Taubatï¿½;ER Sao Jose dos Campos;;
-3554201;Tejupï¿½;ER Itapeva;;
-3554300;Teodoro Sampaio;ER Presidente Prudente;;
-3554409;Terra Roxa;ER Barretos;;
-3554508;Tietï¿½;ER Sorocaba;;
-3554607;Timburi;ER Marilia;;
-3554656;Torre de Pedra;ER Sorocaba;;
-3554706;Torrinha;ER Campinas;;
-3554755;Trabiju;ER Araraquara;;
-3554805;Tremembï¿½;ER Sao Jose dos Campos;;
-3554904;Trï¿½s Fronteiras;ER Sao Jose do Rio Preto;;
-3554953;Tuiuti;ER Campinas;;
-3555000;Tupï¿½;ER Marilia;;
-3555109;Tupi Paulista;ER Presidente Prudente;;
-3555208;TuriÃºba;ER Aracatuba;;
-3555307;Turmalina;ER Sao Jose do Rio Preto;;
-3555356;Ubarana;ER Sao Jose do Rio Preto;;
-3555406;Ubatuba;ER Sao Jose dos Campos;;
-3555505;Ubirajara;ER Bauru;;
-3555604;Uchoa;ER Sao Jose do Rio Preto;;
-3555703;Uniï¿½o Paulista;ER Sao Jose do Rio Preto;;
-3555802;Urï¿½nia;ER Sao Jose do Rio Preto;;
-3555901;Uru;ER Bauru;;
-3556008;Urupï¿½s;ER Sao Jose do Rio Preto;;
-3556107;Valentim Gentil;ER Sao Jose do Rio Preto;;
-3556206;Valinhos;ER Campinas;;
-3556305;ValparaÃ­so;ER Aracatuba;;
-3556354;Vargem;ER Campinas;;
-3556404;Vargem Grande do Sul;ER Campinas;;
-3556453;Vargem Grande Paulista;ER Sao Paulo;;
-3556503;Vï¿½rzea Paulista;ER Campinas;;
-3556602;Vera Cruz;ER Marilia;;
-3556701;Vinhedo;ER Campinas;;
-3556800;Viradouro;ER Barretos;;
-3556909;Vista Alegre do Alto;ER Barretos;;
-3556958;Vitï¿½ria Brasil;ER Sao Jose do Rio Preto;;
-3557006;Votorantim;ER Sorocaba;;
-3557105;Votuporanga;ER Sao Jose do Rio Preto;;
-3557154;Zacarias;ER Sao Jose do Rio Preto;;
-3557204;Chavantes;ER Marilia;;
-3557303;Estiva Gerbi;ER Campinas;;
-=======;;;;
-CODIGO_IBGE;MUNICIPIO;REGIONAL;GRUPO;COR
-3500105;Adamantina;ER Presidente Prudente;5;#FFD700
-3500204;Adolfo;ER Sao Jose do Rio Preto;2;#32CD32
-3500303;AguaÃ­;ER Campinas;1;#00BFFF
-3500402;Ãguas da Prata;ER Campinas;1;#00BFFF
-3500501;Ãguas de LindÃ³ia;ER Campinas;1;#00BFFF
-3500550;Ãguas de Santa BÃ¡rbara;ER Sorocaba;3;#FF7F50
-3500600;Ãguas de SÃ£o Pedro;ER Campinas;1;#00BFFF
-3500709;Agudos;ER Bauru;3;#FF7F50
-3500758;Alambari;ER Sorocaba;3;#FF7F50
-3500808;Alfredo Marcondes;ER Presidente Prudente;5;#FFD700
-3500907;Altair;ER Barretos;5;#FFD700
-3501004;AltinÃ³polis;ER Ribeirao Preto;4;#9370DB
-3501103;Alto Alegre;ER Aracatuba;5;#FFD700
-3501152;AlumÃ­nio;ER Sorocaba;3;#FF7F50
-3501202;Ãlvares Florence;ER Sao Jose do Rio Preto;2;#32CD32
-3501301;Ãlvares Machado;ER Presidente Prudente;5;#FFD700
-3501400;Ãlvaro de Carvalho;ER Marilia;6;#FF6347
-3501509;AlvinlÃ¢ndia;ER Marilia;6;#FF6347
-3501608;Americana;ER Campinas;1;#00BFFF
-3501707;AmÃ©rico Brasiliense;ER Araraquara;3;#FF7F50
-3501806;AmÃ©rico de Campos;ER Sao Jose do Rio Preto;2;#32CD32
-3501905;Amparo;ER Campinas;1;#00BFFF
-3502002;AnalÃ¢ndia;ER Campinas;1;#00BFFF
-3502101;Andradina;ER Aracatuba;5;#FFD700
-3502200;Angatuba;ER Itapeva;2;#32CD32
-3502309;Anhembi;ER Sorocaba;3;#FF7F50
-3502408;Anhumas;ER Presidente Prudente;5;#FFD700
-3502507;Aparecida;ER Sao Jose dos Campos;6;#FF6347
-3502606;Aparecida D'Oeste;ER Sao Jose do Rio Preto;2;#32CD32
-3502705;ApiaÃ­;ER Itapeva;2;#32CD32
-3502754;AraÃ§ariguama;ER Sorocaba;3;#FF7F50
-3502804;AraÃ§atuba;ER Aracatuba;5;#FFD700
-3502903;AraÃ§oiaba da Serra;ER Sorocaba;3;#FF7F50
-3503000;Aramina;ER Franca;6;#FF6347
-3503109;Arandu;ER Itapeva;2;#32CD32
-3503158;ArapeÃ­;ER Sao Jose dos Campos;6;#FF6347
-3503208;Araraquara;ER Araraquara;3;#FF7F50
-3503307;Araras;ER Campinas;1;#00BFFF
-3503356;Arco Ãris;ER Marilia;6;#FF6347
-3503406;Arealva;ER Bauru;3;#FF7F50
-3503505;Areias;ER Sao Jose dos Campos;6;#FF6347
-3503604;AreiÃ³polis;ER Sorocaba;3;#FF7F50
-3503703;Ariranha;ER Sao Jose do Rio Preto;2;#32CD32
-3503802;Artur Nogueira;ER Campinas;1;#00BFFF
-3503901;ArujÃ¡;ER Sao Paulo;4;#9370DB
-3503950;AspÃ¡sia;ER Sao Jose do Rio Preto;2;#32CD32
-3504008;Assis;ER Marilia;6;#FF6347
-3504107;Atibaia;ER Campinas;1;#00BFFF
-3504206;Auriflama;ER Aracatuba;5;#FFD700
-3504305;AvaÃ­;ER Bauru;3;#FF7F50
-3504404;Avanhandava;ER Aracatuba;5;#FFD700
-3504503;AvarÃ©;ER Sorocaba;3;#FF7F50
-3504602;Bady Bassitt;ER Sao Jose do Rio Preto;2;#32CD32
-3504701;Balbinos;ER Bauru;3;#FF7F50
-3504800;BÃ¡lsamo;ER Sao Jose do Rio Preto;2;#32CD32
-3504909;Bananal;ER Sao Jose dos Campos;6;#FF6347
-3505005;BarÃ£o de Antonina;ER Itapeva;2;#32CD32
-3505104;Barbosa;ER Aracatuba;5;#FFD700
-3505203;Bariri;ER Bauru;3;#FF7F50
-3505302;Barra Bonita;ER Bauru;3;#FF7F50
-3505351;Barra do ChapÃ©u;ER Itapeva;2;#32CD32
-3505401;Barra do Turvo;ER Vale do Ribeira;4;#9370DB
-3505500;Barretos;ER Barretos;5;#FFD700
-3505609;Barrinha;ER Ribeirao Preto;4;#9370DB
-3505708;Barueri;ER Sao Paulo;4;#9370DB
-3505807;Bastos;ER Marilia;6;#FF6347
-3505906;Batatais;ER Franca;6;#FF6347
-3506003;Bauru;ER Bauru;3;#FF7F50
-3506102;Bebedouro;ER Barretos;5;#FFD700
-3506201;Bento de Abreu;ER Aracatuba;5;#FFD700
-3506300;Bernardino de Campos;ER Marilia;6;#FF6347
-3506359;Bertioga;ER Baixada Santista;1;#00BFFF
-3506409;Bilac;ER Aracatuba;5;#FFD700
-3506508;Birigui;ER Aracatuba;5;#FFD700
-3506607;Biritiba Mirim;ER Sao Paulo;4;#9370DB
-3506706;Boa EsperanÃ§a do Sul;ER Araraquara;3;#FF7F50
-3506805;Bocaina;ER Bauru;3;#FF7F50
-3506904;Bofete;ER Sorocaba;3;#FF7F50
-3507001;Boituva;ER Sorocaba;3;#FF7F50
-3507100;Bom Jesus dos PerdÃµes;ER Campinas;1;#00BFFF
-3507159;Bom Sucesso de ItararÃ©;ER Itapeva;2;#32CD32
-3507209;BorÃ¡;ER Marilia;6;#FF6347
-3507308;BoracÃ©ia;ER Bauru;3;#FF7F50
-3507407;Borborema;ER Araraquara;3;#FF7F50
-3507456;Borebi;ER Bauru;3;#FF7F50
-3507506;Botucatu;ER Sorocaba;3;#FF7F50
-3507605;BraganÃ§a Paulista;ER Campinas;1;#00BFFF
-3507704;BraÃºna;ER Aracatuba;5;#FFD700
-3507753;Brejo Alegre;ER Aracatuba;5;#FFD700
-3507803;Brodowski;ER Ribeirao Preto;4;#9370DB
-3507902;Brotas;ER Campinas;1;#00BFFF
-3508009;Buri;ER Itapeva;2;#32CD32
-3508108;Buritama;ER Aracatuba;5;#FFD700
-3508207;Buritizal;ER Franca;6;#FF6347
-3508306;CabrÃ¡lia Paulista;ER Bauru;3;#FF7F50
-3508405;CabreÃºva;ER Campinas;1;#00BFFF
-3508504;CaÃ§apava;ER Sao Jose dos Campos;6;#FF6347
-3508603;Cachoeira Paulista;ER Sao Jose dos Campos;6;#FF6347
-3508702;Caconde;ER Campinas;1;#00BFFF
-3508801;CafelÃ¢ndia;ER Bauru;3;#FF7F50
-3508900;Caiabu;ER Presidente Prudente;5;#FFD700
-3509007;Caieiras;ER Sao Paulo;4;#9370DB
-3509106;CaiuÃ¡;ER Presidente Prudente;5;#FFD700
-3509205;Cajamar;ER Sao Paulo;4;#9370DB
-3509254;Cajati;ER Vale do Ribeira;4;#9370DB
-3509304;Cajobi;ER Barretos;5;#FFD700
-3509403;Cajuru;ER Ribeirao Preto;4;#9370DB
-3509452;Campina do Monte Alegre;ER Itapeva;2;#32CD32
-3509502;Campinas;ER Campinas;1;#00BFFF
-3509601;Campo Limpo Paulista;ER Campinas;1;#00BFFF
-3509700;Campos do JordÃ£o;ER Sao Jose dos Campos;6;#FF6347
-3509809;Campos Novos Paulista;ER Marilia;6;#FF6347
-3509908;CananÃ©ia;ER Vale do Ribeira;4;#9370DB
-3509957;Canas;ER Sao Jose dos Campos;6;#FF6347
-3510005;CÃ¢ndido Mota;ER Marilia;6;#FF6347
-3510104;CÃ¢ndido Rodrigues;ER Araraquara;3;#FF7F50
-3510153;Canitar;ER Marilia;6;#FF6347
-3510203;CapÃ£o Bonito;ER Itapeva;2;#32CD32
-3510302;Capela do Alto;ER Sorocaba;3;#FF7F50
-3510401;Capivari;ER Campinas;1;#00BFFF
-3510500;Caraguatatuba;ER Sao Jose dos Campos;6;#FF6347
-3510609;Carapicuiba;ER Sao Paulo;4;#9370DB
-3510708;Cardoso;ER Sao Jose do Rio Preto;2;#32CD32
-3510807;Casa Branca;ER Campinas;1;#00BFFF
-3510906;CÃ¡ssia dos Coqueiros;ER Ribeirao Preto;4;#9370DB
-3511003;Castilho;ER Aracatuba;5;#FFD700
-3511102;Catanduva;ER Sao Jose do Rio Preto;2;#32CD32
-3511201;CatiguÃ¡;ER Sao Jose do Rio Preto;2;#32CD32
-3511300;Cedral;ER Sao Jose do Rio Preto;2;#32CD32
-3511409;Cerqueira Cesar;ER Sorocaba;3;#FF7F50
-3511508;Cerquilho;ER Sorocaba;3;#FF7F50
-3511607;CesÃ¡rio Lange;ER Sorocaba;3;#FF7F50
-3511706;Charqueada;ER Campinas;1;#00BFFF
-3511904;Clementina;ER Aracatuba;5;#FFD700
-3512001;Colina;ER Barretos;5;#FFD700
-3512100;ColÃ´mbia;ER Barretos;5;#FFD700
-3512209;Conchal;ER Campinas;1;#00BFFF
-3512308;Conchas;ER Sorocaba;3;#FF7F50
-3512407;CordeirÃ³polis;ER Campinas;1;#00BFFF
-3512506;Coroados;ER Aracatuba;5;#FFD700
-3512605;Coronel Macedo;ER Itapeva;2;#32CD32
-3512704;CorumbataÃ­;ER Campinas;1;#00BFFF
-3512803;CosmÃ³polis;ER Campinas;1;#00BFFF
-3512902;Cosmorama;ER Sao Jose do Rio Preto;2;#32CD32
-3513009;Cotia;ER Sao Paulo;4;#9370DB
-3513108;Cravinhos;ER Ribeirao Preto;4;#9370DB
-3513207;Cristais Paulista;ER Franca;6;#FF6347
-3513306;Cruzï¿½lia;ER Marilia;6;#FF6347
-3513405;Cruzeiro;ER Sao Jose dos Campos;6;#FF6347
-3513504;Cubatï¿½o;ER Baixada Santista;1;#00BFFF
-3513603;Cunha;ER Sao Jose dos Campos;6;#FF6347
-3513702;Descalvado;ER Araraquara;3;#FF7F50
-3513801;Diadema;ER Sao Paulo;4;#9370DB
-3513850;Dirce Reis;ER Sao Jose do Rio Preto;2;#32CD32
-3513900;Divinolï¿½ndia;ER Campinas;1;#00BFFF
-3514007;Dobrada;ER Araraquara;3;#FF7F50
-3514106;Dois Cï¿½rregos;ER Bauru;3;#FF7F50
-3514205;Dolcinï¿½polis;ER Sao Jose do Rio Preto;2;#32CD32
-3514304;Dourado;ER Araraquara;3;#FF7F50
-3514403;Dracena;ER Presidente Prudente;5;#FFD700
-3514502;Duartina;ER Bauru;3;#FF7F50
-3514601;Dumont;ER Ribeirao Preto;4;#9370DB
-3514700;Echaporï¿½;ER Marilia;6;#FF6347
-3514809;Eldorado;ER Vale do Ribeira;4;#9370DB
-3514908;Elias Fausto;ER Campinas;1;#00BFFF
-3514924;Elisiï¿½rio;ER Sao Jose do Rio Preto;2;#32CD32
-3514957;Embaï¿½ba;ER Barretos;5;#FFD700
-3515004;Embu das Artes;ER Sao Paulo;4;#9370DB
-3515103;Embu Guaï¿½u;ER Sao Paulo;4;#9370DB
-3515129;Emilianï¿½polis;ER Presidente Prudente;5;#FFD700
-3515152;Engenheiro Coelho;ER Campinas;1;#00BFFF
-3515186;Espï¿½rito Santo do Pinhal;ER Campinas;1;#00BFFF
-3515194;Espï¿½rito Santo do Turvo;ER Marilia;6;#FF6347
-3515202;Estrela D'Oeste;ER Sao Jose do Rio Preto;2;#32CD32
-3515301;Estrela do Norte;ER Presidente Prudente;5;#FFD700
-3515350;Euclides da Cunha Paulista;ER Presidente Prudente;5;#FFD700
-3515400;Fartura;ER Itapeva;2;#32CD32
-3515509;Fernandï¿½polis;ER Sao Jose do Rio Preto;2;#32CD32
-3515608;Fernando Prestes;ER Araraquara;3;#FF7F50
-3515657;Fernï¿½o;ER Marilia;6;#FF6347
-3515707;Ferraz de Vasconcelos;ER Sao Paulo;4;#9370DB
-3515806;Flora Rica;ER Presidente Prudente;5;#FFD700
-3515905;Floreal;ER Sao Jose do Rio Preto;2;#32CD32
-3516002;Flï¿½rida Paulista;ER Presidente Prudente;5;#FFD700
-3516101;Florï¿½nea;ER Marilia;6;#FF6347
-3516200;Franca;ER Franca;6;#FF6347
-3516309;Francisco Morato;ER Sao Paulo;4;#9370DB
-3516408;Franco da Rocha;ER Sao Paulo;4;#9370DB
-3516507;Gabriel Monteiro;ER Aracatuba;5;#FFD700
-3516606;Gï¿½lia;ER Marilia;6;#FF6347
-3516705;Garï¿½a;ER Marilia;6;#FF6347
-3516804;GastÃ£o Vidigal;ER Aracatuba;5;#FFD700
-3516853;Gaviï¿½o Peixoto;ER Araraquara;3;#FF7F50
-3516903;General Salgado;ER Aracatuba;5;#FFD700
-3517000;Getulina;ER Bauru;3;#FF7F50
-3517109;GlicÃ©rio;ER Aracatuba;5;#FFD700
-3517208;Guaiï¿½ara;ER Bauru;3;#FF7F50
-3517307;Guaimbï¿½;ER Bauru;3;#FF7F50
-3517406;Guaï¿½ra;ER Barretos;5;#FFD700
-3517505;Guapiaï¿½u;ER Sao Jose do Rio Preto;2;#32CD32
-3517604;Guapiara;ER Itapeva;2;#32CD32
-3517703;Guarï¿½;ER Franca;6;#FF6347
-3517802;GuaraÃ§aÃ­;ER Aracatuba;5;#FFD700
-3517901;Guaraci;ER Barretos;5;#FFD700
-3518008;Guarani D'Oeste;ER Sao Jose do Rio Preto;2;#32CD32
-3518107;Guarantï¿½;ER Bauru;3;#FF7F50
-3518206;Guararapes;ER Aracatuba;5;#FFD700
-3518305;Guararema;ER Sao Paulo;4;#9370DB
-3518404;Guaratinguetï¿½;ER Sao Jose dos Campos;6;#FF6347
-3518503;Guareï¿½;ER Sorocaba;3;#FF7F50
-3518602;Guariba;ER Ribeirao Preto;4;#9370DB
-3518701;Guarujï¿½;ER Baixada Santista;1;#00BFFF
-3518800;Guarulhos;ER Sao Paulo;4;#9370DB
-3518859;Guataparï¿½;ER Ribeirao Preto;4;#9370DB
-3518909;GuzolÃ¢ndia;ER Aracatuba;5;#FFD700
-3519006;Herculï¿½ndia;ER Marilia;6;#FF6347
-3519055;Holambra;ER Campinas;1;#00BFFF
-3519071;Hortolï¿½ndia;ER Campinas;1;#00BFFF
-3519105;Iacanga;ER Bauru;3;#FF7F50
-3519204;Iacri;ER Marilia;6;#FF6347
-3519253;Iaras;ER Sorocaba;3;#FF7F50
-3519303;Ibatï¿½;ER Araraquara;3;#FF7F50
-3519402;Ibirï¿½;ER Sao Jose do Rio Preto;2;#32CD32
-3519501;Ibirarema;ER Marilia;6;#FF6347
-3519600;Ibitinga;ER Araraquara;3;#FF7F50
-3519709;Ibiï¿½na;ER Sorocaba;3;#FF7F50
-3519808;Icï¿½m;ER Sao Jose do Rio Preto;2;#32CD32
-3519907;Iepï¿½;ER Presidente Prudente;5;#FFD700
-3520004;Igaraï¿½u do Tietï¿½;ER Bauru;3;#FF7F50
-3520103;Igarapava;ER Franca;6;#FF6347
-3520202;Igaratï¿½;ER Sao Jose dos Campos;6;#FF6347
-3520301;Iguape;ER Vale do Ribeira;4;#9370DB
-3520400;Ilhabela;ER Sao Jose dos Campos;6;#FF6347
-3520426;Ilha Comprida;ER Vale do Ribeira;4;#9370DB
-3520442;Ilha Solteira;ER Aracatuba;5;#FFD700
-3520509;Indaiatuba;ER Campinas;1;#00BFFF
-3520608;Indiana;ER Presidente Prudente;5;#FFD700
-3520707;Indiaporï¿½;ER Sao Jose do Rio Preto;2;#32CD32
-3520806;Inï¿½bia Paulista;ER Presidente Prudente;5;#FFD700
-3520905;Ipaussu;ER Marilia;6;#FF6347
-3521002;Iperï¿½;ER Sorocaba;3;#FF7F50
-3521101;Ipeï¿½na;ER Campinas;1;#00BFFF
-3521150;Ipiguï¿½;ER Sao Jose do Rio Preto;2;#32CD32
-3521200;Iporanga;ER Itapeva;2;#32CD32
-3521309;Ipuï¿½;ER Franca;6;#FF6347
-3521408;Iracemï¿½polis;ER Campinas;1;#00BFFF
-3521507;Irapuï¿½;ER Sao Jose do Rio Preto;2;#32CD32
-3521606;Irapuru;ER Presidente Prudente;5;#FFD700
-3521705;Itaberï¿½;ER Itapeva;2;#32CD32
-3521804;Itaï¿½;ER Itapeva;2;#32CD32
-3521903;Itajobi;ER Sao Jose do Rio Preto;2;#32CD32
-3522000;Itaju;ER Bauru;3;#FF7F50
-3522109;Itanhaï¿½m;ER Baixada Santista;1;#00BFFF
-3522158;Itaï¿½ca;ER Itapeva;2;#32CD32
-3522208;Itapecerica da Serra;ER Sao Paulo;4;#9370DB
-3522307;Itapetininga;ER Sorocaba;3;#FF7F50
-3522406;Itapeva;ER Itapeva;2;#32CD32
-3522505;Itapevi;ER Sao Paulo;4;#9370DB
-3522604;Itapira;ER Campinas;1;#00BFFF
-3522653;Itapirapuï¿½ Paulista;ER Itapeva;2;#32CD32
-3522703;Itï¿½polis;ER Araraquara;3;#FF7F50
-3522802;Itaporanga;ER Itapeva;2;#32CD32
-3522901;Itapuï¿½;ER Bauru;3;#FF7F50
-3523008;Itapura;ER Aracatuba;5;#FFD700
-3523107;Itaquaquecetuba;ER Sao Paulo;4;#9370DB
-3523206;Itararï¿½;ER Itapeva;2;#32CD32
-3523305;Itariri;ER Vale do Ribeira;4;#9370DB
-3523404;Itatiba;ER Campinas;1;#00BFFF
-3523503;Itatinga;ER Sorocaba;3;#FF7F50
-3523602;Itirapina;ER Campinas;1;#00BFFF
-3523701;Itirapuï¿½;ER Franca;6;#FF6347
-3523800;Itobi;ER Campinas;1;#00BFFF
-3523909;Itu;ER Sorocaba;3;#FF7F50
-3524006;Itupeva;ER Campinas;1;#00BFFF
-3524105;Ituverava;ER Franca;6;#FF6347
-3524204;Jaborandi;ER Barretos;5;#FFD700
-3524303;Jaboticabal;ER Ribeirao Preto;4;#9370DB
-3524402;Jacareï¿½;ER Sao Jose dos Campos;6;#FF6347
-3524501;Jaci;ER Sao Jose do Rio Preto;2;#32CD32
-3524600;Jacupiranga;ER Vale do Ribeira;4;#9370DB
-3524709;Jaguariï¿½na;ER Campinas;1;#00BFFF
-3524808;Jales;ER Sao Jose do Rio Preto;2;#32CD32
-3524907;Jambeiro;ER Sao Jose dos Campos;6;#FF6347
-3525003;Jandira;ER Sao Paulo;4;#9370DB
-3525102;Jardinï¿½polis;ER Ribeirao Preto;4;#9370DB
-3525201;Jarinu;ER Campinas;1;#00BFFF
-3525300;Jaï¿½;ER Bauru;3;#FF7F50
-3525409;Jeriquara;ER Franca;6;#FF6347
-3525508;Joanï¿½polis;ER Campinas;1;#00BFFF
-3525607;Joï¿½o Ramalho;ER Marilia;6;#FF6347
-3525706;Josï¿½ Bonifï¿½cio;ER Sao Jose do Rio Preto;2;#32CD32
-3525805;Jï¿½lio Mesquita;ER Marilia;6;#FF6347
-3525854;Jumirim;ER Sorocaba;3;#FF7F50
-3525904;Jundiaï¿½;ER Campinas;1;#00BFFF
-3526001;Junqueirï¿½polis;ER Presidente Prudente;5;#FFD700
-3526100;Juquiï¿½;ER Vale do Ribeira;4;#9370DB
-3526209;Juquitiba;ER Sao Paulo;4;#9370DB
-3526308;Lagoinha;ER Sao Jose dos Campos;6;#FF6347
-3526407;Laranjal Paulista;ER Sorocaba;3;#FF7F50
-3526506;LavÃ­nia;ER Aracatuba;5;#FFD700
-3526605;Lavrinhas;ER Sao Jose dos Campos;6;#FF6347
-3526704;Leme;ER Campinas;1;#00BFFF
-3526803;Lenï¿½ï¿½is Paulista;ER Bauru;3;#FF7F50
-3526902;Limeira;ER Campinas;1;#00BFFF
-3527009;Lindï¿½ia;ER Campinas;1;#00BFFF
-3527108;Lins;ER Bauru;3;#FF7F50
-3527207;Lorena;ER Sao Jose dos Campos;6;#FF6347
-3527256;Lourdes;ER Aracatuba;5;#FFD700
-3527306;Louveira;ER Campinas;1;#00BFFF
-3527405;Lucï¿½lia;ER Presidente Prudente;5;#FFD700
-3527504;Lucianï¿½polis;ER Bauru;3;#FF7F50
-3527603;Luis Antï¿½nio;ER Ribeirao Preto;4;#9370DB
-3527702;LuiziÃ¢nia;ER Aracatuba;5;#FFD700
-3527801;Lupï¿½rcio;ER Marilia;6;#FF6347
-3527900;Lutï¿½cia;ER Marilia;6;#FF6347
-3528007;Macatuba;ER Bauru;3;#FF7F50
-3528106;Macaubal;ER Sao Jose do Rio Preto;2;#32CD32
-3528205;Macedï¿½nia;ER Sao Jose do Rio Preto;2;#32CD32
-3528304;Magda;ER Sao Jose do Rio Preto;2;#32CD32
-3528403;Mairinque;ER Sorocaba;3;#FF7F50
-3528502;Mairiporï¿½;ER Sao Paulo;4;#9370DB
-3528601;Manduri;ER Sorocaba;3;#FF7F50
-3528700;Marabï¿½ Paulista;ER Presidente Prudente;5;#FFD700
-3528809;Maracaï¿½;ER Marilia;6;#FF6347
-3528858;Marapoama;ER Sao Jose do Rio Preto;2;#32CD32
-3528908;Mariï¿½polis;ER Presidente Prudente;5;#FFD700
-3529005;Marï¿½lia;ER Marilia;6;#FF6347
-3529104;Marinï¿½polis;ER Sao Jose do Rio Preto;2;#32CD32
-3529203;Martinï¿½polis;ER Presidente Prudente;5;#FFD700
-3529302;Matï¿½o;ER Araraquara;3;#FF7F50
-3529401;Mauï¿½;ER Sao Paulo;4;#9370DB
-3529500;Mendonï¿½a;ER Sao Jose do Rio Preto;2;#32CD32
-3529609;Meridiano;ER Sao Jose do Rio Preto;2;#32CD32
-3529658;Mesï¿½polis;ER Sao Jose do Rio Preto;2;#32CD32
-3529708;Miguelï¿½polis;ER Franca;6;#FF6347
-3529807;Mineiros do Tietï¿½;ER Bauru;3;#FF7F50
-3529906;Miracatu;ER Vale do Ribeira;4;#9370DB
-3530003;Mira Estrela;ER Sao Jose do Rio Preto;2;#32CD32
-3530102;MirandÃ³polis;ER Aracatuba;5;#FFD700
-3530201;Mirante do Paranapanema;ER Presidente Prudente;5;#FFD700
-3530300;Mirassol;ER Sao Jose do Rio Preto;2;#32CD32
-3530409;Mirassolï¿½ndia;ER Sao Jose do Rio Preto;2;#32CD32
-3530508;Mococa;ER Campinas;1;#00BFFF
-3530607;Mogi das Cruzes;ER Sao Paulo;4;#9370DB
-3530706;Mogi Guaï¿½u;ER Campinas;1;#00BFFF
-3530805;Mogi Mirim;ER Campinas;1;#00BFFF
-3530904;Mombuca;ER Campinas;1;#00BFFF
-3531001;Monï¿½ï¿½es;ER Sao Jose do Rio Preto;2;#32CD32
-3531100;Mongaguï¿½;ER Baixada Santista;1;#00BFFF
-3531209;Monte Alegre do Sul;ER Campinas;1;#00BFFF
-3531308;Monte Alto;ER Ribeirao Preto;4;#9370DB
-3531407;Monte Aprazï¿½vel;ER Sao Jose do Rio Preto;2;#32CD32
-3531506;Monte Azul Paulista;ER Barretos;5;#FFD700
-3531605;Monte Castelo;ER Presidente Prudente;5;#FFD700
-3531704;Monteiro Lobato;ER Sao Jose dos Campos;6;#FF6347
-3531803;Monte Mor;ER Campinas;1;#00BFFF
-3531902;Morro Agudo;ER Franca;6;#FF6347
-3532009;Morungaba;ER Campinas;1;#00BFFF
-3532058;Motuca;ER Araraquara;3;#FF7F50
-3532108;Murutinga do Sul;ER Aracatuba;5;#FFD700
-3532157;Nantes;ER Presidente Prudente;5;#FFD700
-3532207;Narandiba;ER Presidente Prudente;5;#FFD700
-3532306;Natividade da Serra;ER Sao Jose dos Campos;6;#FF6347
-3532405;Nazarï¿½ Paulista;ER Campinas;1;#00BFFF
-3532504;Neves Paulista;ER Sao Jose do Rio Preto;2;#32CD32
-3532603;Nhandeara;ER Sao Jose do Rio Preto;2;#32CD32
-3532702;Nipoï¿½;ER Sao Jose do Rio Preto;2;#32CD32
-3532801;Nova Alianï¿½a;ER Sao Jose do Rio Preto;2;#32CD32
-3532827;Nova Campina;ER Itapeva;2;#32CD32
-3532843;Nova Canaï¿½ Paulista;ER Sao Jose do Rio Preto;2;#32CD32
-3532868;Nova Castilho;ER Aracatuba;5;#FFD700
-3532900;Nova Europa;ER Araraquara;3;#FF7F50
-3533007;Nova Granada;ER Sao Jose do Rio Preto;2;#32CD32
-3533106;Nova Guataporanga;ER Presidente Prudente;5;#FFD700
-3533205;Nova IndependÃªncia;ER Aracatuba;5;#FFD700
-3533254;Novais;ER Sao Jose do Rio Preto;2;#32CD32
-3533304;Nova LuzitÃ¢nia;ER Aracatuba;5;#FFD700
-3533403;Nova Odessa;ER Campinas;1;#00BFFF
-3533502;Novo Horizonte;ER Sao Jose do Rio Preto;2;#32CD32
-3533601;Nuporanga;ER Franca;6;#FF6347
-3533700;Ocauï¿½u;ER Marilia;6;#FF6347
-3533809;ï¿½leo;ER Marilia;6;#FF6347
-3533908;Olï¿½mpia;ER Barretos;5;#FFD700
-3534005;Onda Verde;ER Sao Jose do Rio Preto;2;#32CD32
-3534104;Oriente;ER Marilia;6;#FF6347
-3534203;Orindiï¿½va;ER Sao Jose do Rio Preto;2;#32CD32
-3534302;Orlï¿½ndia;ER Franca;6;#FF6347
-3534401;Osasco;ER Sao Paulo;4;#9370DB
-3534500;Oscar Bressane;ER Marilia;6;#FF6347
-3534609;Osvaldo Cruz;ER Presidente Prudente;5;#FFD700
-3534708;Ourinhos;ER Marilia;6;#FF6347
-3534757;Ouroeste;ER Sao Jose do Rio Preto;2;#32CD32
-3534807;Ouro Verde;ER Presidente Prudente;5;#FFD700
-3534906;Pacaembu;ER Presidente Prudente;5;#FFD700
-3535002;Palestina;ER Sao Jose do Rio Preto;2;#32CD32
-3535101;Palmares Paulista;ER Sao Jose do Rio Preto;2;#32CD32
-3535200;Palmeira D'Oeste;ER Sao Jose do Rio Preto;2;#32CD32
-3535309;Palmital;ER Marilia;6;#FF6347
-3535408;Panorama;ER Presidente Prudente;5;#FFD700
-3535507;Paraguaï¿½u Paulista;ER Marilia;6;#FF6347
-3535606;Paraibuna;ER Sao Jose dos Campos;6;#FF6347
-3535705;Paraï¿½so;ER Sao Jose do Rio Preto;2;#32CD32
-3535804;Paranapanema;ER Itapeva;2;#32CD32
-3535903;Paranapuï¿½;ER Sao Jose do Rio Preto;2;#32CD32
-3536000;Parapuï¿½;ER Marilia;6;#FF6347
-3536109;Pardinho;ER Sorocaba;3;#FF7F50
-3536208;Pariquera Aï¿½u;ER Vale do Ribeira;4;#9370DB
-3536257;Parisi;ER Sao Jose do Rio Preto;2;#32CD32
-3536307;Patrocï¿½nio Paulista;ER Franca;6;#FF6347
-3536406;Paulicï¿½ia;ER Presidente Prudente;5;#FFD700
-3536505;Paulï¿½nia;ER Campinas;1;#00BFFF
-3536570;Paulistï¿½nia;ER Bauru;3;#FF7F50
-3536604;Paulo de Faria;ER Sao Jose do Rio Preto;2;#32CD32
-3536703;Pederneiras;ER Bauru;3;#FF7F50
-3536802;Pedra Bela;ER Campinas;1;#00BFFF
-3536901;Pedranï¿½polis;ER Sao Jose do Rio Preto;2;#32CD32
-3537008;Pedregulho;ER Franca;6;#FF6347
-3537107;Pedreira;ER Campinas;1;#00BFFF
-3537156;Pedrinhas Paulista;ER Marilia;6;#FF6347
-3537206;Pedro de Toledo;ER Vale do Ribeira;4;#9370DB
-3537305;PenÃ¡polis;ER Aracatuba;5;#FFD700
-3537404;Pereira Barreto;ER Aracatuba;5;#FFD700
-3537503;Pereiras;ER Sorocaba;3;#FF7F50
-3537602;Peruï¿½be;ER Baixada Santista;1;#00BFFF
-3537701;Piacatu;ER Aracatuba;5;#FFD700
-3537800;Piedade;ER Sorocaba;3;#FF7F50
-3537909;Pilar do Sul;ER Sorocaba;3;#FF7F50
-3538006;Pindamonhangaba;ER Sao Jose dos Campos;6;#FF6347
-3538105;Pindorama;ER Sao Jose do Rio Preto;2;#32CD32
-3538204;Pinhalzinho;ER Campinas;1;#00BFFF
-3538303;Piquerobi;ER Presidente Prudente;5;#FFD700
-3538501;Piquete;ER Sao Jose dos Campos;6;#FF6347
-3538600;Piracaia;ER Campinas;1;#00BFFF
-3538709;Piracicaba;ER Campinas;1;#00BFFF
-3538808;Piraju;ER Itapeva;2;#32CD32
-3538907;Pirajuï¿½;ER Bauru;3;#FF7F50
-3539004;Pirangi;ER Barretos;5;#FFD700
-3539103;Pirapora do Bom Jesus;ER Sao Paulo;4;#9370DB
-3539202;Pirapozinho;ER Presidente Prudente;5;#FFD700
-3539301;Pirassununga;ER Campinas;1;#00BFFF
-3539400;Piratininga;ER Bauru;3;#FF7F50
-3539509;Pitangueiras;ER Ribeirao Preto;4;#9370DB
-3539608;Planalto;ER Sao Jose do Rio Preto;2;#32CD32
-3539707;Platina;ER Marilia;6;#FF6347
-3539806;Poï¿½;ER Sao Paulo;4;#9370DB
-3539905;Poloni;ER Sao Jose do Rio Preto;2;#32CD32
-3540002;Pompï¿½ia;ER Marilia;6;#FF6347
-3540101;Pongaï¿½;ER Bauru;3;#FF7F50
-3540200;Pontal;ER Ribeirao Preto;4;#9370DB
-3540259;Pontalinda;ER Sao Jose do Rio Preto;2;#32CD32
-3540309;Pontes Gestal;ER Sao Jose do Rio Preto;2;#32CD32
-3540408;Populina;ER Sao Jose do Rio Preto;2;#32CD32
-3540507;Porangaba;ER Sorocaba;3;#FF7F50
-3540606;Porto Feliz;ER Sorocaba;3;#FF7F50
-3540705;Porto Ferreira;ER Araraquara;3;#FF7F50
-3540754;Potim;ER Sao Jose dos Campos;6;#FF6347
-3540804;Potirendaba;ER Sao Jose do Rio Preto;2;#32CD32
-3540853;Pracinha;ER Presidente Prudente;5;#FFD700
-3540903;Pradï¿½polis;ER Ribeirao Preto;4;#9370DB
-3541000;Praia Grande;ER Baixada Santista;1;#00BFFF
-3541059;Pratï¿½nia;ER Sorocaba;3;#FF7F50
-3541109;Presidente Alves;ER Bauru;3;#FF7F50
-3541208;Presidente Bernardes;ER Presidente Prudente;5;#FFD700
-3541307;Presidente Epitï¿½cio;ER Presidente Prudente;5;#FFD700
-3541406;Presidente Prudente;ER Presidente Prudente;5;#FFD700
-3541505;Presidente Venceslau;ER Presidente Prudente;5;#FFD700
-3541604;Promissï¿½o;ER Bauru;3;#FF7F50
-3541653;Quadra;ER Sorocaba;3;#FF7F50
-3541703;Quatï¿½;ER Marilia;6;#FF6347
-3541802;Queiroz;ER Marilia;6;#FF6347
-3541901;Queluz;ER Sao Jose dos Campos;6;#FF6347
-3542008;Quintana;ER Marilia;6;#FF6347
-3542107;Rafard;ER Campinas;1;#00BFFF
-3542206;Rancharia;ER Presidente Prudente;5;#FFD700
-3542305;Redenï¿½ï¿½o da Serra;ER Sao Jose dos Campos;6;#FF6347
-3542404;Regente Feijï¿½;ER Presidente Prudente;5;#FFD700
-3542503;Reginï¿½polis;ER Bauru;3;#FF7F50
-3542602;Registro;ER Vale do Ribeira;4;#9370DB
-3542701;Restinga;ER Franca;6;#FF6347
-3542800;Ribeira;ER Itapeva;2;#32CD32
-3542909;Ribeirï¿½o Bonito;ER Araraquara;3;#FF7F50
-3543006;Ribeirï¿½o Branco;ER Itapeva;2;#32CD32
-3543105;Ribeirï¿½o Corrente;ER Franca;6;#FF6347
-3543204;Ribeirï¿½o do Sul;ER Marilia;6;#FF6347
-3543238;Ribeirï¿½o dos ï¿½ndios;ER Presidente Prudente;5;#FFD700
-3543253;Ribeirï¿½o Grande;ER Itapeva;2;#32CD32
-3543303;Ribeirï¿½o Pires;ER Sao Paulo;4;#9370DB
-3543402;Ribeirï¿½o Preto;ER Ribeirao Preto;4;#9370DB
-3543501;Riversul;ER Itapeva;2;#32CD32
-3543600;Rifaina;ER Franca;6;#FF6347
-3543709;Rincï¿½o;ER Araraquara;3;#FF7F50
-3543808;Rinï¿½polis;ER Marilia;6;#FF6347
-3543907;Rio Claro;ER Campinas;1;#00BFFF
-3544004;Rio das Pedras;ER Campinas;1;#00BFFF
-3544103;Rio Grande da Serra;ER Sao Paulo;4;#9370DB
-3544202;Riolï¿½ndia;ER Sao Jose do Rio Preto;2;#32CD32
-3544251;Rosana;ER Presidente Prudente;5;#FFD700
-3544301;Roseira;ER Sao Jose dos Campos;6;#FF6347
-3544400;RubiÃ¡cea;ER Aracatuba;5;#FFD700
-3544509;Rubinï¿½ia;ER Sao Jose do Rio Preto;2;#32CD32
-3544608;Sabino;ER Bauru;3;#FF7F50
-3544707;Sagres;ER Presidente Prudente;5;#FFD700
-3544806;Sales;ER Sao Jose do Rio Preto;2;#32CD32
-3544905;Sales Oliveira;ER Franca;6;#FF6347
-3545001;Salesï¿½polis;ER Sao Paulo;4;#9370DB
-3545100;Salmourï¿½o;ER Presidente Prudente;5;#FFD700
-3545159;Saltinho;ER Campinas;1;#00BFFF
-3545209;Salto;ER Sorocaba;3;#FF7F50
-3545308;Salto de Pirapora;ER Sorocaba;3;#FF7F50
-3545407;Salto Grande;ER Marilia;6;#FF6347
-3545506;Sandovalina;ER Presidente Prudente;5;#FFD700
-3545605;Santa Adï¿½lia;ER Sao Jose do Rio Preto;2;#32CD32
-3545704;Santa Albertina;ER Sao Jose do Rio Preto;2;#32CD32
-3545803;Santa Bï¿½rbara D'Oeste;ER Campinas;1;#00BFFF
-3546009;Santa Branca;ER Sao Jose dos Campos;6;#FF6347
-3546108;Santa Clara D'Oeste;ER Sao Jose do Rio Preto;2;#32CD32
-3546207;Santa Cruz da Conceiï¿½ï¿½o;ER Campinas;1;#00BFFF
-3546256;Santa Cruz da Esperanï¿½a;ER Ribeirao Preto;4;#9370DB
-3546306;Santa Cruz das Palmeiras;ER Campinas;1;#00BFFF
-3546405;Santa Cruz do Rio Pardo;ER Marilia;6;#FF6347
-3546504;Santa Ernestina;ER Araraquara;3;#FF7F50
-3546603;Santa Fï¿½ do Sul;ER Sao Jose do Rio Preto;2;#32CD32
-3546702;Santa Gertrudes;ER Campinas;1;#00BFFF
-3546801;Santa Isabel;ER Sao Paulo;4;#9370DB
-3546900;Santa Lï¿½cia;ER Araraquara;3;#FF7F50
-3547007;Santa Maria da Serra;ER Campinas;1;#00BFFF
-3547106;Santa Mercedes;ER Presidente Prudente;5;#FFD700
-3547205;Santana da Ponte Pensa;ER Sao Jose do Rio Preto;2;#32CD32
-3547304;Santana de Parnaï¿½ba;ER Sao Paulo;4;#9370DB
-3547403;Santa Rita D'Oeste;ER Sao Jose do Rio Preto;2;#32CD32
-3547502;Santa Rita do Passa Quatro;ER Araraquara;3;#FF7F50
-3547601;Santa Rosa de Viterbo;ER Ribeirao Preto;4;#9370DB
-3547650;Santa Salete;ER Sao Jose do Rio Preto;2;#32CD32
-3547700;Santo Anastï¿½cio;ER Presidente Prudente;5;#FFD700
-3547809;Santo Andrï¿½;ER Sao Paulo;4;#9370DB
-3547908;Santo Antï¿½nio da Alegria;ER Ribeirao Preto;4;#9370DB
-3548005;Santo Antï¿½nio de Posse;ER Campinas;1;#00BFFF
-3548054;Santo AntÃ´nio do AracanguÃ¡;ER Aracatuba;5;#FFD700
-3548104;Santo Antï¿½nio do Jardim;ER Campinas;1;#00BFFF
-3548203;Santo Antï¿½nio do Pinhal;ER Sao Jose dos Campos;6;#FF6347
-3548302;Santo Expedito;ER Presidente Prudente;5;#FFD700
-3548401;SantÃ³polis do AguapeÃ­;ER Aracatuba;5;#FFD700
-3548500;Santos;ER Baixada Santista;1;#00BFFF
-3548609;Sï¿½o Bento do Sapucaï¿½;ER Sao Jose dos Campos;6;#FF6347
-3548708;Sï¿½o Bernardo do Campo;ER Sao Paulo;4;#9370DB
-3548807;Sï¿½o Caetano do Sul;ER Sao Paulo;4;#9370DB
-3548906;Sï¿½o Carlos;ER Araraquara;3;#FF7F50
-3549003;Sï¿½o Francisco;ER Sao Jose do Rio Preto;2;#32CD32
-3549102;Sï¿½o Joï¿½o da Boa Vista;ER Campinas;1;#00BFFF
-3549201;Sï¿½o Joï¿½o das Duas Pontes;ER Sao Jose do Rio Preto;2;#32CD32
-3549250;SÃ£o JoÃ£o de Iracema;ER Aracatuba;5;#FFD700
-3549300;Sï¿½o Joï¿½o do Pau D'Alho;ER Presidente Prudente;5;#FFD700
-3549409;Sï¿½o Joaquim da Barra;ER Franca;6;#FF6347
-3549508;Sï¿½o Josï¿½ da Bela Vista;ER Franca;6;#FF6347
-3549607;Sï¿½o Josï¿½ do Barreiro;ER Sao Jose dos Campos;6;#FF6347
-3549706;Sï¿½o Josï¿½ do Rio Pardo;ER Campinas;1;#00BFFF
-3549805;Sï¿½o Josï¿½ do Rio Preto;ER Sao Jose do Rio Preto;2;#32CD32
-3549904;Sï¿½o Josï¿½ dos Campos;ER Sao Jose dos Campos;6;#FF6347
-3549953;Sï¿½o Lourenï¿½o da Serra;ER Sao Paulo;4;#9370DB
-3550001;Sï¿½o Luis do Paraitinga;ER Sao Jose dos Campos;6;#FF6347
-3550100;Sï¿½o Manuel;ER Sorocaba;3;#FF7F50
-3550209;Sï¿½o Miguel Arcanjo;ER Sorocaba;3;#FF7F50
-3550308;Sï¿½o Paulo;ER Sao Paulo;4;#9370DB
-3550407;Sï¿½o Pedro;ER Campinas;1;#00BFFF
-3550506;Sï¿½o Pedro do Turvo;ER Marilia;6;#FF6347
-3550605;Sï¿½o Roque;ER Sorocaba;3;#FF7F50
-3550704;Sï¿½o Sebastiï¿½o;ER Sao Jose dos Campos;6;#FF6347
-3550803;Sï¿½o Sebastiï¿½o da Grama;ER Campinas;1;#00BFFF
-3550902;Sï¿½o Simï¿½o;ER Ribeirao Preto;4;#9370DB
-3551009;Sï¿½o Vicente;ER Baixada Santista;1;#00BFFF
-3551108;Sarapuï¿½;ER Sorocaba;3;#FF7F50
-3551207;Sarutaiï¿½;ER Itapeva;2;#32CD32
-3551306;Sebastianï¿½polis do Sul;ER Sao Jose do Rio Preto;2;#32CD32
-3551405;Serra Azul;ER Ribeirao Preto;4;#9370DB
-3551504;Serrana;ER Ribeirao Preto;4;#9370DB
-3551603;Serra Negra;ER Campinas;1;#00BFFF
-3551702;Sertï¿½ozinho;ER Ribeirao Preto;4;#9370DB
-3551801;Sete Barras;ER Vale do Ribeira;4;#9370DB
-3551900;Severï¿½nia;ER Barretos;5;#FFD700
-3552007;Silveiras;ER Sao Jose dos Campos;6;#FF6347
-3552106;Socorro;ER Campinas;1;#00BFFF
-3552205;Sorocaba;ER Sorocaba;3;#FF7F50
-3552304;Sud Mennucci;ER Aracatuba;5;#FFD700
-3552403;Sumarï¿½;ER Campinas;1;#00BFFF
-3552502;Suzano;ER Sao Paulo;4;#9370DB
-3552551;SuzanÃ³polis;ER Aracatuba;5;#FFD700
-3552601;Tabapuï¿½;ER Sao Jose do Rio Preto;2;#32CD32
-3552700;Tabatinga;ER Araraquara;3;#FF7F50
-3552809;Taboï¿½o Da Serra;ER Sao Paulo;4;#9370DB
-3552908;Taciba;ER Presidente Prudente;5;#FFD700
-3553005;Taguaï¿½;ER Itapeva;2;#32CD32
-3553104;Taiaï¿½u;ER Barretos;5;#FFD700
-3553203;Taiï¿½va;ER Barretos;5;#FFD700
-3553302;Tambaï¿½;ER Campinas;1;#00BFFF
-3553401;Tanabi;ER Sao Jose do Rio Preto;2;#32CD32
-3553500;Tapiraï¿½;ER Sorocaba;3;#FF7F50
-3553609;Tapiratiba;ER Campinas;1;#00BFFF
-3553658;Taquaral;ER Ribeirao Preto;4;#9370DB
-3553708;Taquaritinga;ER Araraquara;3;#FF7F50
-3553807;Taquarituba;ER Itapeva;2;#32CD32
-3553856;Taquarivaï¿½;ER Itapeva;2;#32CD32
-3553906;Tarabai;ER Presidente Prudente;5;#FFD700
-3553955;Tarumï¿½;ER Marilia;6;#FF6347
-3554003;Tatuï¿½;ER Sorocaba;3;#FF7F50
-3554102;Taubatï¿½;ER Sao Jose dos Campos;6;#FF6347
-3554201;Tejupï¿½;ER Itapeva;2;#32CD32
-3554300;Teodoro Sampaio;ER Presidente Prudente;5;#FFD700
-3554409;Terra Roxa;ER Barretos;5;#FFD700
-3554508;Tietï¿½;ER Sorocaba;3;#FF7F50
-3554607;Timburi;ER Marilia;6;#FF6347
-3554656;Torre de Pedra;ER Sorocaba;3;#FF7F50
-3554706;Torrinha;ER Campinas;1;#00BFFF
-3554755;Trabiju;ER Araraquara;3;#FF7F50
-3554805;Tremembï¿½;ER Sao Jose dos Campos;6;#FF6347
-3554904;Trï¿½s Fronteiras;ER Sao Jose do Rio Preto;2;#32CD32
-3554953;Tuiuti;ER Campinas;1;#00BFFF
-3555000;Tupï¿½;ER Marilia;6;#FF6347
-3555109;Tupi Paulista;ER Presidente Prudente;5;#FFD700
-3555208;TuriÃºba;ER Aracatuba;5;#FFD700
-3555307;Turmalina;ER Sao Jose do Rio Preto;2;#32CD32
-3555356;Ubarana;ER Sao Jose do Rio Preto;2;#32CD32
-3555406;Ubatuba;ER Sao Jose dos Campos;6;#FF6347
-3555505;Ubirajara;ER Bauru;3;#FF7F50
-3555604;Uchoa;ER Sao Jose do Rio Preto;2;#32CD32
-3555703;Uniï¿½o Paulista;ER Sao Jose do Rio Preto;2;#32CD32
-3555802;Urï¿½nia;ER Sao Jose do Rio Preto;2;#32CD32
-3555901;Uru;ER Bauru;3;#FF7F50
-3556008;Urupï¿½s;ER Sao Jose do Rio Preto;2;#32CD32
-3556107;Valentim Gentil;ER Sao Jose do Rio Preto;2;#32CD32
-3556206;Valinhos;ER Campinas;1;#00BFFF
-3556305;ValparaÃ­so;ER Aracatuba;5;#FFD700
-3556354;Vargem;ER Campinas;1;#00BFFF
-3556404;Vargem Grande do Sul;ER Campinas;1;#00BFFF
-3556453;Vargem Grande Paulista;ER Sao Paulo;4;#9370DB
-3556503;Vï¿½rzea Paulista;ER Campinas;1;#00BFFF
-3556602;Vera Cruz;ER Marilia;6;#FF6347
-3556701;Vinhedo;ER Campinas;1;#00BFFF
-3556800;Viradouro;ER Barretos;5;#FFD700
-3556909;Vista Alegre do Alto;ER Barretos;5;#FFD700
-3556958;Vitï¿½ria Brasil;ER Sao Jose do Rio Preto;2;#32CD32
-3557006;Votorantim;ER Sorocaba;3;#FF7F50
-3557105;Votuporanga;ER Sao Jose do Rio Preto;2;#32CD32
-3557154;Zacarias;ER Sao Jose do Rio Preto;2;#32CD32
-3557204;Chavantes;ER Marilia;6;#FF6347
-3557303;Estiva Gerbi;ER Campinas;1;#00BFFF
->>>>>>> b0aa4dd (Commit 11 mapa refinado);;;;
+CODIGO_IBGE;MUNICIPIO;REGIONAL;PREFEITO;DIRETOR_REGIONAL;ATENDENTE(RAMAL);OBSERVACAO
+3500105;Adamantina;ER Presidente Prudente;José Carlos Martins Tiveron;Silvio Ushijima;Sandra (4021) / Thais (4020);Populacao gosta muito de bolo de abacaxi recheado com doce de leite regado no champagne
+3500204;Adolfo;ER Sao Jose do Rio Preto;Ricardo Di Giorgio Robles;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3500303;Aguai;ER Campinas;Gilberto Luiz Moraes Selber;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3500402;Aguas da Prata;ER Campinas;Carlos Henrique Fortes Dezena;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3500501;Aguas de Lindoia;ER Campinas;Geraldo Mantovani Filho;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3500550;Aguas de Santa Barbara;ER Sorocaba;Wilian José De Oliveira Meana;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3500600;Aguas de Sao Pedro;ER Campinas;João Victor Barboza;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3500709;Agudos;ER Bauru;Rafael Lima Fernandes;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3500758;Alambari;ER Sorocaba;João Paulo Dantas Pinto;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3500808;Alfredo Marcondes;ER Presidente Prudente;Celso Pirani Passos;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3500907;Altair;ER Barretos;Marco Antonio Ferreira;Raphael Dutra;Sandra (4021) / Thais (4020);
+3501004;Altinopolis;ER Ribeirao Preto;Huelder Donizete Malagutti Ferreira;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3501103;Alto Alegre;ER Aracatuba;Carlos Sussumi Ivama;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3501152;Aluminio;ER Sorocaba;Ana Paula De Cassia Netto;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3501202;Alvares Florence;ER Sao Jose do Rio Preto;Adilson Batista Leite;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3501301;Alvares Machado;ER Presidente Prudente;Luiz Francisco Boigues;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3501400;Alvaro de Carvalho;ER Marilia;Adilson De Oliveira Lopes;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3501509;Alvinlandia;ER Marilia;Antonio Ferreira De Moraes Junior;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3501608;Americana;ER Campinas;Francisco Antonio Sardelli;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3501707;Americo Brasiliense;ER Araraquara;Terezinha Aparecida Viveiros De Souza;Jorge Bredan;Elaine (4016) / Iris (4015);
+3501806;Americo de Campos;ER Sao Jose do Rio Preto;Rafael Gimenez Marioto;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3501905;Amparo;ER Campinas;Carlos Alberto Martins;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3502002;Analandia;ER Campinas;Silvana Marcia Perin Campbell Penna;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3502101;Andradina;ER Aracatuba;Mário Celso Lopes;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3502200;Angatuba;ER Itapeva;Nicolas Basile Rochel;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3502309;Anhembi;ER Sorocaba;Jairo De Gois;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3502408;Anhumas;ER Presidente Prudente;Adailton Cesar Menossi;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3502507;Aparecida;ER Sao Jose dos Campos;José Luiz Rodrigues;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3502606;Aparecida D'Oeste;ER Sao Jose do Rio Preto;Izaias Aparecido Sanchez;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3502705;Apiai;ER Itapeva;Sergio Victor Borges Barbosa;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3502754;Aracariguama;ER Sorocaba;Rodrigo De Andrade;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3502804;Aracatuba;ER Aracatuba;Lucas Pavan Zanatta;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3502903;Aracoiaba da Serra;ER Sorocaba;José Carlos De Quevedo Júnior;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3503000;Aramina;ER Franca;Luís Sérgio Celeste Jorge;Valter Sene;Danielle (4019) / Andre (4018);
+3503109;Arandu;ER Itapeva;Flávio Carlomagno Galhego;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3503158;Arapei;ER Sao Jose dos Campos;Renê Lucio Gonçalves;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3503208;Araraquara;ER Araraquara;Luis Cláudio Lapena Barreto;Jorge Bredan;Elaine (4016) / Iris (4015);
+3503307;Araras;ER Campinas;Irineu Norival Maretto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3503356;Arco Iris;ER Marilia;Aldo Mansano Fernandes;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3503406;Arealva;ER Bauru;Paulo Juliano Nocolielo Junior;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3503505;Areias;ER Sao Jose dos Campos;Rodrigo José Ramos De Oliveira;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3503604;Areiopolis;ER Sorocaba;Michel Hnerique Augusto;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3503703;Ariranha;ER Sao Jose do Rio Preto;Emerson Antonio Trovó;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3503802;Artur Nogueira;ER Campinas;Lucas Sia Rissato;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3503901;Aruja;ER Sao Paulo;Luis Antonio De Camargo;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3503950;Aspasia;ER Sao Jose do Rio Preto;Ivan De Paula;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3504008;Assis;ER Marilia;Telma Gonçalves Carneiro Spera De Andrad;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3504107;Atibaia;ER Campinas;Daniel Da Rocha Martini;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3504206;Auriflama;ER Aracatuba;Katia Conceição Morita De Carvalho;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3504305;Avai;ER Bauru;Hellen Fernandes Rodrigues Coelho;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3504404;Avanhandava;ER Aracatuba;Norberto César Beraldo;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3504503;Avare;ER Sorocaba;Roberto De Araujo;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3504602;Bady Bassitt;ER Sao Jose do Rio Preto;Janimeiri Catelani Buzzi;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3504701;Balbinos;ER Bauru;José Marcio Rigotto;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3504800;Balsamo;ER Sao Jose do Rio Preto;José Eduardo Naliati Junior;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3504909;Bananal;ER Sao Jose dos Campos;William Landim Da Silva;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3505005;Barao de Antonina;ER Itapeva;Rodrigo Waldemar Marques;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3505104;Barbosa;ER Aracatuba;Rodrigo Primo Antunes;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3505203;Bariri;ER Bauru;Airton Luis Pegoraro;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3505302;Barra Bonita;ER Bauru;Manoel Fabiano Ferreira Filho;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3505351;Barra do Chapeu;ER Itapeva;Ivanil Norberto Pereira Nolasco;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3505401;Barra do Turvo;ER Vale do Ribeira;Victor Maruyama;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3505500;Barretos;ER Barretos;Odair De Moura E Silva;Raphael Dutra;Sandra (4021) / Thais (4020);
+3505609;Barrinha;ER Ribeirao Preto;Maria Lucia Teresinha Grotta;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3505708;Barueri;ER Sao Paulo;José Roberto Piteri;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3505807;Bastos;ER Marilia;Kleber Lopes De Sousa;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3505906;Batatais;ER Franca;Luis Fernando Benedini Gaspar Júnior;Valter Sene;Danielle (4019) / Andre (4018);
+3506003;Bauru;ER Bauru;Suellen Silva Rosim;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3506102;Bebedouro;ER Barretos;Lucas Gibin Seren;Raphael Dutra;Sandra (4021) / Thais (4020);
+3506201;Bento de Abreu;ER Aracatuba;Terezinha Do Carmo Salesse;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3506300;Bernardino de Campos;ER Marilia;Wilson José Garcia;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3506359;Bertioga;ER Baixada Santista;Marcelo Heleno Vilares;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3506409;Bilac;ER Aracatuba;Antônio Ferreira Loureiro;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3506508;Birigui;ER Aracatuba;Samanta Paula Albani Borini;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3506607;Biritiba Mirim;ER Sao Paulo;Carlos Alberto Taino Junior;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3506706;Boa Esperanca do Sul;ER Araraquara;José Manoel De Souza;Jorge Bredan;Elaine (4016) / Iris (4015);
+3506805;Bocaina;ER Bauru;Caio Augusto Crepaldi;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3506904;Bofete;ER Sorocaba;Eugênio Carlos Alves;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3507001;Boituva;ER Sorocaba;Edson José Marcusso;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3507100;Bom Jesus dos Perdoes;ER Campinas;Sérgio Ferreira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3507159;Bom Sucesso de Itarare;ER Itapeva;Dirceu Pacheco De Oliveira;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3507209;Bora;ER Marilia;Luiz Carlos Rodrigues;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3507308;Boraceia;ER Bauru;Marcos Vinicio Bilancieri;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3507407;Borborema;ER Araraquara;Sheila Maria Gonçalves De Oliveira;Jorge Bredan;Elaine (4016) / Iris (4015);
+3507456;Borebi;ER Bauru;Anderson Pinheiro Goes;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3507506;Botucatu;ER Sorocaba;Fábio Vieira De Souza Leite;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3507605;Braganca Paulista;ER Campinas;Edmir José Abi Chedid;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3507704;Brauna;ER Aracatuba;Maicon Aparecido Subires Ribeiro;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3507753;Brejo Alegre;ER Aracatuba;Rafael Alves Dos Santos;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3507803;Brodowski;ER Ribeirao Preto;Fábio Maximiniano Vercezi Severi;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3507902;Brotas;ER Campinas;Alexsandra Berto Brandão;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3508009;Buri;ER Itapeva;Germano Almeida Peschel;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3508108;Buritama;ER Aracatuba;Tiago Luiz De Oliveira;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3508207;Buritizal;ER Franca;Daniel Sarreta;Valter Sene;Danielle (4019) / Andre (4018);
+3508306;Cabralia Paulista;ER Bauru;Odemil Ortiz De Camargo;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3508405;Cabreuva;ER Campinas;Noemi Medeiros Bernardes;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3508504;Cacapava;ER Sao Jose dos Campos;Yan Lopes De Almeida;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3508603;Cachoeira Paulista;ER Sao Jose dos Campos;Breno Barbosa Anaya Xavier;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3508702;Caconde;ER Campinas;José Afonso De Paiva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3508801;Cafelandia;ER Bauru;Taís Fernanda Maimoni Contieri Santana;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3508900;Caiabu;ER Presidente Prudente;Suelen Nara Matos Mative;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3509007;Caieiras;ER Sao Paulo;Gilmar Soares Vicente;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3509106;Caiua;ER Presidente Prudente;Jayme Salvador Alves;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3509205;Cajamar;ER Sao Paulo;Kauan Berto Sousa Santos;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3509254;Cajati;ER Vale do Ribeira;Luiz Henrique Koga;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3509304;Cajobi;ER Barretos;Marcio Donizeti Barbaelli;Raphael Dutra;Sandra (4021) / Thais (4020);
+3509403;Cajuru;ER Ribeirao Preto;Alex Moretini;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3509452;Campina do Monte Alegre;ER Itapeva;Marcelo Lisboa Machado;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3509502;Campinas;ER Campinas;Dário Jorge Giolo Saadi;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3509601;Campo Limpo Paulista;ER Campinas;Adeildo Nogueira Da Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3509700;Campos do Jordao;ER Sao Jose dos Campos;Carlos Eduardo Pereira Da Silva;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3509809;Campos Novos Paulista;ER Marilia;Flavio Fermino Euflauzino;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3509908;Cananeia;ER Vale do Ribeira;André Nogueira Sanches;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3509957;Canas;ER Sao Jose dos Campos;Gustavo Zanin Lucena Famadas;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3510005;Candido Mota;ER Marilia;Eraldo José Pereira;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3510104;Candido Rodrigues;ER Araraquara;Tiago Alex Ravazzi;Jorge Bredan;Elaine (4016) / Iris (4015);
+3510153;Canitar;ER Marilia;Joel Rodrigues;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3510203;Capao Bonito;ER Itapeva;Julio Fernando Galvão Dias;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3510302;Capela do Alto;ER Sorocaba;Henrique Daniel Leme;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3510401;Capivari;ER Campinas;Vitor Hugo Riccomini;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3510500;Caraguatatuba;ER Sao Jose dos Campos;Mateus Veneziani Da Silva;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3510609;Carapicuiba;ER Sao Paulo;José Roberto Da Silva;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3510708;Cardoso;ER Sao Jose do Rio Preto;Luís Paulo Bednarski Pedrassolli;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3510807;Casa Branca;ER Campinas;Antônio Eduardo Marçon Nogueira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3510906;Cassia dos Coqueiros;ER Ribeirao Preto;Silvio Santos Dos Reis Faria;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3511003;Castilho;ER Aracatuba;Paulo Duarte Boaventura;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3511102;Catanduva;ER Sao Jose do Rio Preto;Osvaldo De Oliveira Rosa;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3511201;Catigua;ER Sao Jose do Rio Preto;Claudemir José Grava;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3511300;Cedral;ER Sao Jose do Rio Preto;Irineo Beolchi Junior;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3511409;Cerqueira Cesar;ER Sorocaba;Diego Augusto Berti Cinto;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3511508;Cerquilho;ER Sorocaba;Paulo Roberto Pilon;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3511607;Cesario Lange;ER Sorocaba;Ramiro De Campos;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3511706;Charqueada;ER Campinas;Rodrigo De Arruda;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3511904;Clementina;ER Aracatuba;Gilson Roberto Rodrigues Criolézio;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3512001;Colina;ER Barretos;Valdemir Antonio Moralles;Raphael Dutra;Sandra (4021) / Thais (4020);
+3512100;Colombia;ER Barretos;Julio Cesar Dos Santos;Raphael Dutra;Sandra (4021) / Thais (4020);
+3512209;Conchal;ER Campinas;Orlando Caleffi Junior;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3512308;Conchas;ER Sorocaba;Paulo Nunes De Almeida;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3512407;Cordeiropolis;ER Campinas;Maria Cristina Degaspari Abrahão Saad;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3512506;Coroados;ER Aracatuba;Roberto Carrilho Alves;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3512605;Coronel Macedo;ER Itapeva;Diego Garcia Batista;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3512704;Corumbatai;ER Campinas;João Batista Altarugio Filho;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3512803;Cosmopolis;ER Campinas;Antonio Claudio Felisbino Junior;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3512902;Cosmorama;ER Sao Jose do Rio Preto;Nelson Narciso Da Silveira Junior;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3513009;Cotia;ER Sao Paulo;Wellington Aparecido Alfredo;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3513108;Cravinhos;ER Ribeirao Preto;Itamar Gomes Bueno;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3513207;Cristais Paulista;ER Franca;Elson Gomes Dos Santos;Valter Sene;Danielle (4019) / Andre (4018);
+3513306;Cruzalia;ER Marilia;Arildo Osmar De Moro;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3513405;Cruzeiro;ER Sao Jose dos Campos;José Kleber Lima Silveira Junior;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3513504;Cubatao;ER Baixada Santista;Cesar Da Silva Nascimento;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3513603;Cunha;ER Sao Jose dos Campos;Rodrigo Sérgio Do Nascimento;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3513702;Descalvado;ER Araraquara;Luis Guilherme Panone;Jorge Bredan;Elaine (4016) / Iris (4015);
+3513801;Diadema;ER Sao Paulo;Takaharu Yamauchi;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3513850;Dirce Reis;ER Sao Jose do Rio Preto;Marcelo José Bernardo;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3513900;Divinolandia;ER Campinas;Antônio De Pádua Aquisti;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3514007;Dobrada;ER Araraquara;Antonio Carlos De Mattos Santos;Jorge Bredan;Elaine (4016) / Iris (4015);
+3514106;Dois Corregos;ER Bauru;Alceu Antonio Mazziero;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3514205;Dolcinopolis;ER Sao Jose do Rio Preto;Diego Aparecido Pereira Miguel;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3514304;Dourado;ER Araraquara;Luiz Antonio Rogante Junior;Jorge Bredan;Elaine (4016) / Iris (4015);
+3514403;Dracena;ER Presidente Prudente;Geni Pereira Lobo Pesin;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3514502;Duartina;ER Bauru;Suzy Helena Simão Blagitz Ferraz;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3514601;Dumont;ER Ribeirao Preto;Rogerson Aparecido Bujarloin Ruiz;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3514700;Echapora;ER Marilia;Ronaldo Gazeta;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3514809;Eldorado;ER Vale do Ribeira;Noel Castelo Da Costa;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3514908;Elias Fausto;ER Campinas;Joaquim Antônio De Campos Bicudo;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3514924;ElisiArio;ER Sao Jose do Rio Preto;Cassio Roberto Bertelli;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3514957;Embauba;ER Barretos;Nercilio Pinheiro Da Silva;Raphael Dutra;Sandra (4021) / Thais (4020);
+3515004;Embu das Artes;ER Sao Paulo;Hugo Do Prado Santos;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3515103;Embu Guacu;ER Sao Paulo;André George Neres De Farias;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3515129;Emilianopolis;ER Presidente Prudente;Elton Munhoz De Souza;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3515152;Engenheiro Coelho;ER Campinas;Pedro Franco De Oliveira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3515186;Espirito Santo do Pinhal;ER Campinas;Sergio Del Bianchi Junior;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3515194;Espirito Santo do Turvo;ER Marilia;Gilberto Nascimento Bertolino;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3515202;Estrela D'Oeste;ER Sao Jose do Rio Preto;Pedro De Senzi Neto;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3515301;Estrela do Norte;ER Presidente Prudente;Alberto Martins De Oliveira;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3515350;Euclides da Cunha Paulista;ER Presidente Prudente;Domingos Mente Lopes;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3515400;Fartura;ER Itapeva;Luiz Marcos De Souza;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3515509;Fernandopolis;ER Sao Jose do Rio Preto;João Paulo Sales Cantarella;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3515608;Fernando Prestes;ER Araraquara;Mariel Sebastião Rocha;Jorge Bredan;Elaine (4016) / Iris (4015);
+3515657;Fernao;ER Marilia;Eber Rogério Assis;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3515707;Ferraz de Vasconcelos;ER Sao Paulo;Priscila Conceição Gambale Vieira Matos;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3515806;Flora Rica;ER Presidente Prudente;Fabio Luiz Florentino De Faria;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3515905;Floreal;ER Sao Jose do Rio Preto;Raul Scalon;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3516002;Florida Paulista;ER Presidente Prudente;José Andriotti;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3516101;Florinea;ER Marilia;Sergio Lopes Da Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3516200;Franca;ER Franca;Alexandre Augusto Ferreira;Valter Sene;Danielle (4019) / Andre (4018);
+3516309;Francisco Morato;ER Sao Paulo;Ildo Da Silva Gusmão;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3516408;Franco da Rocha;ER Sao Paulo;Lorena Rodrigues Oliveira;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3516507;Gabriel Monteiro;ER Aracatuba;Renée Crema Vidoto;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3516606;Galia;ER Marilia;José Silvino Zaniboni Junior;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3516705;Garca;ER Marilia;José Alcides Faneco;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3516804;Gastao Vidigal;ER Aracatuba;Daniel Guarnieri Criado;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3516853;Gaviao Peixoto;ER Araraquara;Adriano Marçal Da Silva;Jorge Bredan;Elaine (4016) / Iris (4015);
+3516903;General Salgado;ER Aracatuba;Thiago Francisquini Viana;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3517000;Getulina;ER Bauru;Mario Tadeu Celestino Ribeiro;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3517109;Glicerio;ER Aracatuba;Hairton Kelsine Carvalho Oliveira;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3517208;Guaicara;ER Bauru;Flavia Ramos Bittencourt Leão Cabral;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3517307;Guaimbe;ER Bauru;Marcia Helena Pereira Cabral Achilles;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3517406;Guaira;ER Barretos;Antonio Manoel Da Silva Junior;Raphael Dutra;Sandra (4021) / Thais (4020);
+3517505;Guapiacu;ER Sao Jose do Rio Preto;Carlos Cesar Zaitune;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3517604;Guapiara;ER Itapeva;José Matheus Rodolfo De Freitas;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3517703;Guara;ER Franca;Filipe Furtado Da Rocha;Valter Sene;Danielle (4019) / Andre (4018);
+3517802;Guaracai;ER Aracatuba;Airton José Gomes;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3517901;Guaraci;ER Barretos;Renato Azeda Ribeiro De Aguiar;Raphael Dutra;Sandra (4021) / Thais (4020);
+3518008;Guarani D'Oeste;ER Sao Jose do Rio Preto;Edimilson Pires Do Carmo;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3518107;Guaranta;ER Bauru;Marcos Roberto Frugeri;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3518206;Guararapes;ER Aracatuba;Alex Peramo De Arruda;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3518305;Guararema;ER Sao Paulo;José Luiz Eroles Freire;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3518404;Guaratingueta;ER Sao Jose dos Campos;Antonio Gilberto Filippo Fernandes Junio;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3518503;Guarei;ER Sorocaba;Reinaldo Vicente De Souza;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3518602;Guariba;ER Ribeirao Preto;Dr Francisco Dias Mançano Junior;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3518701;Guaruja;ER Baixada Santista;Farid Said Madi;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3518800;Guarulhos;ER Sao Paulo;Lucas Sanches Promessia;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3518859;Guatapara;ER Ribeirao Preto;Ailton Aparecido Da Silva;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3518909;Guzolandia;ER Aracatuba;Luiz Antônio Pereira De Carvalho;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3519006;Herculandia;ER Marilia;Paulo Sergio De Oliveira;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3519055;Holambra;ER Campinas;Fernando Henrique Capato;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3519071;Hortolandia;ER Campinas;José Nazareno Zezé Gomes;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3519105;Iacanga;ER Bauru;Aparecida De Fátima Pinheiro;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3519204;Iacri;ER Marilia;Cleber Rogerio Cerbantes Panhozzi;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3519253;Iaras;ER Sorocaba;Patrick Hernandes Morales;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3519303;Ibate;ER Araraquara;Ronaldo Rodrigo Venturi;Jorge Bredan;Elaine (4016) / Iris (4015);
+3519402;Ibira;ER Sao Jose do Rio Preto;Nivaldo Domingos Negrão;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3519501;Ibirarema;ER Marilia;José Benedito Camacho;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3519600;Ibitinga;ER Araraquara;Florisvaldo Antônio Fiorentino;Jorge Bredan;Elaine (4016) / Iris (4015);
+3519709;Ibiuna;ER Sorocaba;Mario Pires De Oliveira Filho;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3519808;Icem;ER Sao Jose do Rio Preto;Aparecida Salisso;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3519907;Iepe;ER Presidente Prudente;Marta Patricia Stonis Da Costa;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3520004;Igaracu do Tiete;ER Bauru;Carlos Alberto Varasquim;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3520103;Igarapava;ER Franca;José Humberto Lacerda Rodrigues;Valter Sene;Danielle (4019) / Andre (4018);
+3520202;Igarata;ER Sao Jose dos Campos;Gabriel Gomes Prianti De Jesus;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3520301;Iguape;ER Vale do Ribeira;Salvador José Barbora Junior;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3520400;Ilhabela;ER Sao Jose dos Campos;Antonio Luiz Colucci;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3520426;Ilha Comprida;ER Vale do Ribeira;Maristela Osorio De Marques Cardona;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3520442;Ilha Solteira;ER Aracatuba;Rodrigo Batista Gonçalves;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3520509;Indaiatuba;ER Campinas;Custódio Tavares Dias Neto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3520608;Indiana;ER Presidente Prudente;Wheslen Thiego Scaione Cachoeira;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3520707;Indiapora;ER Sao Jose do Rio Preto;Bernadete Aparecida Santana Ribeiro Spon;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3520806;Inubia Paulista;ER Presidente Prudente;Fernando Rossi;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3520905;Ipaussu;ER Marilia;Luiz Carlos Souto;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3521002;Ipero;ER Sorocaba;Leonardo Roberto Folim;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3521101;Ipeuna;ER Campinas;Maria Luisa Zanoni Prata;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3521150;Ipigua;ER Sao Jose do Rio Preto;Efraim Garcia Lopes;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3521200;Iporanga;ER Itapeva;Marcos Dos Santos Domingos;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3521309;Ipua;ER Franca;Ronywerton Marcelo Alves Pereira;Valter Sene;Danielle (4019) / Andre (4018);
+3521408;Iracemapolis;ER Campinas;Nelita Cristina Michel Franceschini;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3521507;Irapua;ER Sao Jose do Rio Preto;Reni Aparecida Da Silva;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3521606;Irapuru;ER Presidente Prudente;Ademar Calegão;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3521705;Itabera;ER Itapeva;Celio Ronaldo Gomes De Lima;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3521804;Itai;ER Itapeva;José Ramiro Antunes Prado;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3521903;Itajobi;ER Sao Jose do Rio Preto;Sidiomar Ujaque;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3522000;Itaju;ER Bauru;Jerri De Souza Neiva;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3522109;Itanhaem;ER Baixada Santista;Tiago Rodrigues Cervantes;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3522158;Itaoca;ER Itapeva;Frederico Dias Batista;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3522208;Itapecerica da Serra;ER Sao Paulo;Ramon Pires Corsini;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3522307;Itapetininga;ER Sorocaba;Jeferson Rodrigo Brun;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3522406;Itapeva;ER Itapeva;Adriana Duch Machado;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3522505;Itapevi;ER Sao Paulo;Marcos Ferreira Godoy;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3522604;Itapira;ER Campinas;António Hélio Nicolai;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3522653;Itapirapua Paulista;ER Itapeva;Julio Cesar Do Amaral;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3522703;Itapolis;ER Araraquara;Vladimir Do Carmo Reggiani;Jorge Bredan;Elaine (4016) / Iris (4015);
+3522802;Itaporanga;ER Itapeva;Fabio Bruno Gurgel Benini;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3522901;Itapui;ER Bauru;Maria Clélia Viaro Pichelli;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3523008;Itapura;ER Aracatuba;Sergino Da Silva Prado;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3523107;Itaquaquecetuba;ER Sao Paulo;Eduardo Boigues Queroz;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3523206;Itarare;ER Itapeva;João Jorge Fadel Filho;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3523305;Itariri;ER Vale do Ribeira;Carlos Rocha Ribeiro;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3523404;Itatiba;ER Campinas;Thomás Antonio Capeletto De Oliveira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3523503;Itatinga;ER Sorocaba;Paulo Henrique De Oliveira Roque;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3523602;Itirapina;ER Campinas;Maria Da Graça Zucchi Moraes;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3523701;Itirapua;ER Franca;Gerson Luiz Alves;Valter Sene;Danielle (4019) / Andre (4018);
+3523800;Itobi;ER Campinas;Joaquim Cândido Filho;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3523909;Itu;ER Sorocaba;Herculano Castilho Passos Junior;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3524006;Itupeva;ER Campinas;Rogerio Cavalin;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3524105;Ituverava;ER Franca;Luiz Antonio Araujo;Valter Sene;Danielle (4019) / Andre (4018);
+3524204;Jaborandi;ER Barretos;Silvio Vaz De Almeida;Raphael Dutra;Sandra (4021) / Thais (4020);
+3524303;Jaboticabal;ER Ribeirao Preto;Emerson Rodrigo Camargo;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3524402;Jacarei;ER Sao Jose dos Campos;Celso Florêncio De Souza;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3524501;Jaci;ER Sao Jose do Rio Preto;Valéria Perpetuo Guimarães Henrique;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3524600;Jacupiranga;ER Vale do Ribeira;João Batista De Andrade;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3524709;Jaguariuna;ER Campinas;David Hilario Neto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3524808;Jales;ER Sao Jose do Rio Preto;Luis Henrique Dos Santos Moreira;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3524907;Jambeiro;ER Sao Jose dos Campos;Aries Marioto Ferreira;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3525003;Jandira;ER Sao Paulo;Henri Hajime Sato;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3525102;Jardinopolis;ER Ribeirao Preto;Antônio Carlos Degan;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3525201;Jarinu;ER Campinas;Débora Cristina Prado Belinello;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3525300;Jau;ER Bauru;Jorge Ivan Cassaro;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3525409;Jeriquara;ER Franca;Elaine Pinheiro De Paula Mansano Garcia;Valter Sene;Danielle (4019) / Andre (4018);
+3525508;Joanopolis;ER Campinas;Cristiano Benedito;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3525607;Joao Ramalho;ER Marilia;Dirce Da Conceição Bubola Valejo;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3525706;Jose Bonifacio;ER Sao Jose do Rio Preto;Marcelo Cataruci De Almeida;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3525805;Julio Mesquita;ER Marilia;Elton Francisco De Brito;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3525854;Jumirim;ER Sorocaba;Daniel Vieira;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3525904;Jundiai;ER Campinas;Gustavo Martinelli;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3526001;Junqueiropolis;ER Presidente Prudente;Elio Furini Neto;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3526100;Juquia;ER Vale do Ribeira;Cicero Cirilo Dos Santos;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3526209;Juquitiba;ER Sao Paulo;Willians Soares Rodrigues;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3526308;Lagoinha;ER Sao Jose dos Campos;José Guilherme Correa Gomes;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3526407;Laranjal Paulista;ER Sorocaba;Antonio Valdecir Berto Filho;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3526506;Lavinia;ER Aracatuba;Salvador Cazuo Matsunaka;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3526605;Lavrinhas;ER Sao Jose dos Campos;Marcos Vinicius Franqueira Garcia;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3526704;Leme;ER Campinas;Claudemir Aparecido Borges;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3526803;Lencois Paulista;ER Bauru;André Paccola Sasso;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3526902;Limeira;ER Campinas;Murilo Berbet Avigo Félix;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3527009;Lindoia;ER Campinas;Luciano Francisco De Godoi Lopes;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3527108;Lins;ER Bauru;João Luis Lopes Pandolfi;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3527207;Lorena;ER Sao Jose dos Campos;Sylvio Ballerini;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3527256;Lourdes;ER Aracatuba;Odécio Rodrigues Da Silva;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3527306;Louveira;ER Campinas;Paulo Alberto Finamore;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3527405;Lucelia;ER Presidente Prudente;Tatiana Guilhermino Tazinazzio;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3527504;Lucianopolis;ER Bauru;Ademir Mantovanelli;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3527603;Luis Antonio;ER Ribeirao Preto;Rodrigo Mello Marques;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3527702;Luiziania;ER Aracatuba;Raphael Saraiva Barreto;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3527801;Lupercio;ER Marilia;Cleber Menegucci;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3527900;Lutecia;ER Marilia;Laudemir Leati;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3528007;Macatuba;ER Bauru;Anderson Ferreira;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3528106;Macaubal;ER Sao Jose do Rio Preto;Acácio Tardoque Ferreira;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3528205;Macedonia;ER Sao Jose do Rio Preto;Reginaldo Eloy Marcomini Dos Reis;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3528304;Magda;ER Sao Jose do Rio Preto;Rodolfo Ferreira Kama;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3528403;Mairinque;ER Sorocaba;Carlos Eduardo Thomaz Pedroso;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3528502;Mairipora;ER Sao Paulo;Walid Ali Hamid;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3528601;Manduri;ER Sorocaba;Paulo Roberto Martins;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3528700;Maraba Paulista;ER Presidente Prudente;Aparecido Nascimento Sobral;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3528809;Maracai;ER Marilia;Paulo Eduardo Da Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3528858;Marapoama;ER Sao Jose do Rio Preto;Lourenço Lorenceti;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3528908;Mariapolis;ER Presidente Prudente;Ricardo Mitsuro Watanabe;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3529005;Marilia;ER Marilia;Vinicius Almeida Camarinha;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3529104;Marinopolis;ER Sao Jose do Rio Preto;Evaldo Ribeiro;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3529203;Martinopolis;ER Presidente Prudente;Valdeci Soares Dos Santos Filho;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3529302;Matao;ER Araraquara;Aparecido Ferrari;Jorge Bredan;Elaine (4016) / Iris (4015);
+3529401;Maua;ER Sao Paulo;Francisco Marcelo De Oliveira;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3529500;Mendonca;ER Sao Jose do Rio Preto;Juliano Souza De Oliveira;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3529609;Meridiano;ER Sao Jose do Rio Preto;Fábio Paschoalinoto;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3529658;Mesopolis;ER Sao Jose do Rio Preto;Alex Rocha Pimentel;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3529708;Miguelopolis;ER Franca;Julio Ferreira Do Carmo;Valter Sene;Danielle (4019) / Andre (4018);
+3529807;Mineiros do Tiete;ER Bauru;Luiz Gustavo Ferrarez;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3529906;Miracatu;ER Vale do Ribeira;Vinicius Brandão De Queiroz;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3530003;Mira Estrela;ER Sao Jose do Rio Preto;Gleice Aparecida Castrequini;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3530102;Mirandopolis;ER Aracatuba;Ederson Pantaleão De Souza;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3530201;Mirante do Paranapanema;ER Presidente Prudente;Eduardo Quesada Piazzalunga;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3530300;Mirassol;ER Sao Jose do Rio Preto;Edson Antonio Ermenegildo;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3530409;Mirassolandia;ER Sao Jose do Rio Preto;Célia Aparecida Fiamenghi Dos Santos Mat;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3530508;Mococa;ER Campinas;Eduardo Ribeiro Barison;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3530607;Mogi das Cruzes;ER Sao Paulo;Maria Luisa Piccolomini Bertaiolli;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3530706;Mogi Guacu;ER Campinas;Rodrigo Falsetti;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3530805;Mogi Mirim;ER Campinas;Paulo De Oliveira E Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3530904;Mombuca;ER Campinas;Everton Tiago Mora Pedroso;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3531001;Moncoes;ER Sao Jose do Rio Preto;Douglas Antônio Honorato;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3531100;Mongagua;ER Baixada Santista;Luiz Berbiz De Oliveira;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3531209;Monte Alegre do Sul;ER Campinas;José Rafael Vezzan;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3531308;Monte Alto;ER Ribeirao Preto;Maria Helena Aguiar Rettondini;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3531407;Monte Aprazivel;ER Sao Jose do Rio Preto;João Roberto Camargo;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3531506;Monte Azul Paulista;ER Barretos;Mardqueu Silvio França;Raphael Dutra;Sandra (4021) / Thais (4020);
+3531605;Monte Castelo;ER Presidente Prudente;Edson Carlos Oliveira Da Silva;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3531704;Monteiro Lobato;ER Sao Jose dos Campos;Edmar José De Araújo;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3531803;Monte Mor;ER Campinas;Murilo Antônio De Sousa Rinaldo;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3531902;Morro Agudo;ER Franca;Leandro César Silva Valadares;Valter Sene;Danielle (4019) / Andre (4018);
+3532009;Morungaba;ER Campinas;Luis Fernando Miguel;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3532058;Motuca;ER Araraquara;Fabio De Menezes Chaves;Jorge Bredan;Elaine (4016) / Iris (4015);
+3532108;Murutinga do Sul;ER Aracatuba;Cristiano Eleuterio Soares Da Silva;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3532157;Nantes;ER Presidente Prudente;Marllon Jaffer Albano De Oliveira;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3532207;Narandiba;ER Presidente Prudente;Danillo Carvalho Dos Santos;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3532306;Natividade da Serra;ER Sao Jose dos Campos;Evail Augusto Dos Santos;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3532405;Nazare Paulista;ER Campinas;Avanilde Aparecida Gonzaga Canedo;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3532504;Neves Paulista;ER Sao Jose do Rio Preto;Edenilson Alexandre Roselli;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3532603;Nhandeara;ER Sao Jose do Rio Preto;Antônio Marques Do Nascimento Junior;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3532702;Nipoa;ER Sao Jose do Rio Preto;José Pedro Rampim;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3532801;Nova Alianca;ER Sao Jose do Rio Preto;Jurandir Barbosa De Morais;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3532827;Nova Campina;ER Itapeva;Antônio Isael De Oliveira Junior;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3532843;Nova Canaa Paulista;ER Sao Jose do Rio Preto;Thais Cristina Costa Moreira;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3532868;Nova Castilho;ER Aracatuba;Maicon Garcia Pirola;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3532900;Nova Europa;ER Araraquara;Lidiane Luize Rodrigues;Jorge Bredan;Elaine (4016) / Iris (4015);
+3533007;Nova Granada;ER Sao Jose do Rio Preto;Luiz Augusto Salvador;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3533106;Nova Guataporanga;ER Presidente Prudente;Jose Mauro Lourencetti;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3533205;Nova Independencia;ER Aracatuba;Fernando Macchi Santana;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3533254;Novais;ER Sao Jose do Rio Preto;Paulo César Dias Pinheiro;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3533304;Nova Luzitania;ER Aracatuba;Miguel José Araujo Junior;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3533403;Nova Odessa;ER Campinas;Cláudio José Schooder;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3533502;Novo Horizonte;ER Sao Jose do Rio Preto;Fabiano De Mello Belentani;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3533601;Nuporanga;ER Franca;Daniel Viana Melo;Valter Sene;Danielle (4019) / Andre (4018);
+3533700;Ocaucu;ER Marilia;João Benedito Costa E Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3533809;Oleo;ER Marilia;Jordão Antonio Vidotto;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3533908;Olimpia;ER Barretos;Eugenio Jose Zuliani;Raphael Dutra;Sandra (4021) / Thais (4020);
+3534005;Onda Verde;ER Sao Jose do Rio Preto;Nilson Neves De Souza;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3534104;Oriente;ER Marilia;Geraldo Matheus Moris;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3534203;Orindiuva;ER Sao Jose do Rio Preto;Mireli Cristina Leite Ruvieri Martins;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3534302;Orlandia;ER Franca;Jorge Gabriel Grasi;Valter Sene;Danielle (4019) / Andre (4018);
+3534401;Osasco;ER Sao Paulo;Gerson Dias Pessoa;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3534500;Oscar Bressane;ER Marilia;Anselmo Giroto;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3534609;Osvaldo Cruz;ER Presidente Prudente;Vera Lucia Alves;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3534708;Ourinhos;ER Marilia;Guilherme Andrew Gonçalves Da Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3534757;Ouroeste;ER Sao Jose do Rio Preto;Sebastião Carlos Silva;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3534807;Ouro Verde;ER Presidente Prudente;Julio Cesar De Mori Vecchiati;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3534906;Pacaembu;ER Presidente Prudente;João Francisco Mugnai Neves;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3535002;Palestina;ER Sao Jose do Rio Preto;Reinaldo Aparecido Da Cunha;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3535101;Palmares Paulista;ER Sao Jose do Rio Preto;Lucas Aparecido Da Assumção;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3535200;Palmeira D'Oeste;ER Sao Jose do Rio Preto;Valdir Semensati De Moraes;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3535309;Palmital;ER Marilia;Luis Gustavo Mendes Moraes;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3535408;Panorama;ER Presidente Prudente;Daniel Gênova;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3535507;Paraguacu Paulista;ER Marilia;Antonio Takashi Sasada;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3535606;Paraibuna;ER Sao Jose dos Campos;Heloisa Antunes De Farias Santos;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3535705;Paraiso;ER Sao Jose do Rio Preto;Osvalte José Bovoni;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3535804;Paranapanema;ER Itapeva;Rodolfo Hessel Fanganiello;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3535903;Paranapua;ER Sao Jose do Rio Preto;Daniel Junior Duran Pinatto;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3536000;Parapua;ER Marilia;Milton Mitio Iwayama;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3536109;Pardinho;ER Sorocaba;Cristiano Camargo Moreira;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3536208;Pariquera Acu;ER Vale do Ribeira;Wagner Bento Da Costa;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3536257;Parisi;ER Sao Jose do Rio Preto;Oclair Barão Bento;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3536307;Patrocinio Paulista;ER Franca;Mário Marcelo Carraro Bertelli;Valter Sene;Danielle (4019) / Andre (4018);
+3536406;Pauliceia;ER Presidente Prudente;Antonio Simonato;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3536505;Paulinia;ER Campinas;Danilo Henrique Macedo De Barros;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3536570;Paulistania;ER Bauru;Luiz Carlos Marques;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3536604;Paulo de Faria;ER Sao Jose do Rio Preto;Dirceu Cassia Filho;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3536703;Pederneiras;ER Bauru;Ivana Maria Bertolini Camarinha;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3536802;Pedra Bela;ER Campinas;Vanderlei Lopes Da Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3536901;Pedranopolis;ER Sao Jose do Rio Preto;Fausto Luano Rosa;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3537008;Pedregulho;ER Franca;Carlos Eduardo Barbosa Teixeira;Valter Sene;Danielle (4019) / Andre (4018);
+3537107;Pedreira;ER Campinas;Fabio Vinicius Polidoro;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3537156;Pedrinhas Paulista;ER Marilia;Freddie Costa Nicolau;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3537206;Pedro de Toledo;ER Vale do Ribeira;Paulo Eduardo Alves Ferreira;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3537305;Penapolis;ER Aracatuba;Carlos Henrique Rossi Catalani;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3537404;Pereira Barreto;ER Aracatuba;Herminio Barbosa Komatsu;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3537503;Pereiras;ER Sorocaba;Osmar Pasqualino Rodrigues Ramos Junior;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3537602;Peruibe;ER Baixada Santista;Felipe Antonio Colaço Bernardo;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3537701;Piacatu;ER Aracatuba;Ricardo Francisco Lemes Da Silva;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3537800;Piedade;ER Sorocaba;Geraldo Pinto De Camargo Filho;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3537909;Pilar do Sul;ER Sorocaba;Clayton Alvaro Machado;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3538006;Pindamonhangaba;ER Sao Jose dos Campos;Ricardo Alberto Pereira Piorino;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3538105;Pindorama;ER Sao Jose do Rio Preto;Geraldo Felippe Junior;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3538204;Pinhalzinho;ER Campinas;Sebastião Zanardi;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3538303;Piquerobi;ER Presidente Prudente;Adriana Crivelli Biffe;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3538501;Piquete;ER Sao Jose dos Campos;Romulo Kazimierz Luszczynski;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3538600;Piracaia;ER Campinas;André Henrique Rogério;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3538709;Piracicaba;ER Campinas;Helio Donizete Zanatta;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3538808;Piraju;ER Itapeva;Carlos Alberto Camargo Lima;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3538907;Pirajui;ER Bauru;Rosalina Sônia Dos Santos;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3539004;Pirangi;ER Barretos;Vanderlei Robson De Oliveira;Raphael Dutra;Sandra (4021) / Thais (4020);
+3539103;Pirapora do Bom Jesus;ER Sao Paulo;Gregório Rodrigues Pontes Maglio;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3539202;Pirapozinho;ER Presidente Prudente;Lucas Padovan Dos Santos Pavani;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3539301;Pirassununga;ER Campinas;Fernando Lubrechet;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3539400;Piratininga;ER Bauru;Carlos Alessandro Franco Borro De Matos;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3539509;Pitangueiras;ER Ribeirao Preto;Dimas Tadeu Bolsan;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3539608;Planalto;ER Sao Jose do Rio Preto;Rosimeire Barbosa Silvério;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3539707;Platina;ER Marilia;Donizete Aparecido Ferreira De Lima;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3539806;Poa;ER Sao Paulo;Saulo De Oliveira Souza;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3539905;Poloni;ER Sao Jose do Rio Preto;Andreia Luzia Fachini Brait;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3540002;Pompeia;ER Marilia;Diogo Montefusco Ceschim Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3540101;Pongai;ER Bauru;Gilhiard Henrique De Bortoli;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3540200;Pontal;ER Ribeirao Preto;José Carlos Neves Silva;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3540259;Pontalinda;ER Sao Jose do Rio Preto;Sisinio De Oliveira Leão;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3540309;Pontes Gestal;ER Sao Jose do Rio Preto;Marcel Dias Leite;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3540408;Populina;ER Sao Jose do Rio Preto;João Cézar Robles Brandini;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3540507;Porangaba;ER Sorocaba;João Carlos Alves Barros;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3540606;Porto Feliz;ER Sorocaba;Célio Peixoto Dos Santos;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3540705;Porto Ferreira;ER Araraquara;André Luís Anchão Braga;Jorge Bredan;Elaine (4016) / Iris (4015);
+3540754;Potim;ER Sao Jose dos Campos;Emerson Kiogi Tanaka;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3540804;Potirendaba;ER Sao Jose do Rio Preto;Gislaine Montanari Franzotti;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3540853;Pracinha;ER Presidente Prudente;Laercio Biasi;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3540903;Pradopolis;ER Ribeirao Preto;Saulo Emanuel Atique Filho;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3541000;Praia Grande;ER Baixada Santista;Alberto Pereira Mourão;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3541059;Pratania;ER Sorocaba;Osmir José Felix;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3541109;Presidente Alves;ER Bauru;Cristiano Dos Santos;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3541208;Presidente Bernardes;ER Presidente Prudente;Cleberson Duarte De Souza;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3541307;Presidente Epitacio;ER Presidente Prudente;André Ferraz Lima;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3541406;Presidente Prudente;ER Presidente Prudente;Milton Carlos De Mello;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3541505;Presidente Venceslau;ER Presidente Prudente;Bárbara Medeiros Vilches;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3541604;Promissao;ER Bauru;Hamilton Luis Foz;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3541653;Quadra;ER Sorocaba;Lheonides De Oliveira Andrade;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3541703;Quata;ER Marilia;Marcio Bidoia;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3541802;Queiroz;ER Marilia;Walter Rodrigo Da Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3541901;Queluz;ER Sao Jose dos Campos;José Celso Bueno;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3542008;Quintana;ER Marilia;Fernando Itapuã Branco Nunes;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3542107;Rafard;ER Campinas;Fábio Dos Santos;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3542206;Rancharia;ER Presidente Prudente;Homero Pinelli Severo Lins;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3542305;Redencao da Serra;ER Sao Jose dos Campos;Jucimar Ferreira Da Silva;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3542404;Regente Feijo;ER Presidente Prudente;Marco Antonio Pereira Da Rocha;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3542503;Reginopolis;ER Bauru;Jefferson Augusto Rodrigues Buava;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3542602;Registro;ER Vale do Ribeira;Samuel Moreira Da Silva Junior;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3542701;Restinga;ER Franca;Felipe Talvani Sontini;Valter Sene;Danielle (4019) / Andre (4018);
+3542800;Ribeira;ER Itapeva;Ari Do Carmo Santos;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3542909;Ribeirao Bonito;ER Araraquara;Paulo Antonio Gobato Veiga;Jorge Bredan;Elaine (4016) / Iris (4015);
+3543006;Ribeirao Branco;ER Itapeva;Antonio Carlos Camargo Ribas;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3543105;Ribeirao Corrente;ER Franca;Ana Lourinete Costa Lobo Montanher;Valter Sene;Danielle (4019) / Andre (4018);
+3543204;Ribeirao do Sul;ER Marilia;Eliana Maria Rorato Manso;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3543238;Ribeirao dos Indios;ER Presidente Prudente;Valdeci José Fernandes;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3543253;Ribeirao Grande;ER Itapeva;Marcelo Luis Nunes;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3543303;Ribeirao Pires;ER Sao Paulo;Luiz Gustavo Pinheiro Volpi;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3543402;Ribeirao Preto;ER Ribeirao Preto;Ricardo Augusto Machado Da Silva;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3543501;Riversul;ER Itapeva;Marcos Roberto Dos Santos;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3543600;Rifaina;ER Franca;Wilson Alves Da Silva Junior;Valter Sene;Danielle (4019) / Andre (4018);
+3543709;Rincao;ER Araraquara;Braz Rodrigues;Jorge Bredan;Elaine (4016) / Iris (4015);
+3543808;Rinopolis;ER Marilia;Graziela De Lima Tomé Trevisan;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3543907;Rio Claro;ER Campinas;Gustavo Ramos Perissinotto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3544004;Rio das Pedras;ER Campinas;Marcos Buzetto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3544103;Rio Grande da Serra;ER Sao Paulo;Ricardo Akira Ono Auriani;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3544202;Riolandia;ER Sao Jose do Rio Preto;Antonio Carlos Santana Da Silva;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3544251;Rosana;ER Presidente Prudente;Claudemir Peres Francisco De Oliveira;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3544301;Roseira;ER Sao Jose dos Campos;Fernando Augusto De Siqueira;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3544400;Rubiacea;ER Aracatuba;Júlio César Felismino;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3544509;Rubineia;ER Sao Jose do Rio Preto;Alex Olivo;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3544608;Sabino;ER Bauru;Fernando Henrique Florindo;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3544707;Sagres;ER Presidente Prudente;Roberto Batista Pires;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3544806;Sales;ER Sao Jose do Rio Preto;Josemar Francisco De Abreu;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3544905;Sales Oliveira;ER Franca;Fabio Godoy Graton;Valter Sene;Danielle (4019) / Andre (4018);
+3545001;Salesopolis;ER Sao Paulo;Rodolfo Rodrigues Marcondes;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3545100;Salmourao;ER Presidente Prudente;Sônia Cristina Jacon Gabau;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3545159;Saltinho;ER Campinas;Hélio Franzol Bernardino;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3545209;Salto;ER Sorocaba;José Geraldo Garcia;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3545308;Salto de Pirapora;ER Sorocaba;Matheus Marum De Campos;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3545407;Salto Grande;ER Marilia;Mario Luciano Rosa;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3545506;Sandovalina;ER Presidente Prudente;Marcos Mendes Da Silva;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3545605;Santa Adelia;ER Sao Jose do Rio Preto;Ciro Cesar Costa;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3545704;Santa Albertina;ER Sao Jose do Rio Preto;Gerson Formigoni Junior;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3545803;Santa Barbara D'Oeste;ER Campinas;Rafael Piovezan;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3546009;Santa Branca;ER Sao Jose dos Campos;Adriano Marchesani Levorin;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3546108;Santa Clara D'Oeste;ER Sao Jose do Rio Preto;José Basilio De Faria;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3546207;Santa Cruz da Conceicao;ER Campinas;Carlos Eduardo Aranha De Albuquerque;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3546256;Santa Cruz da Esperanca;ER Ribeirao Preto;Marcos Antonio Bazilio;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3546306;Santa Cruz das Palmeiras;ER Campinas;Luiz Fernando Stocco;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3546405;Santa Cruz do Rio Pardo;ER Marilia;Otacílio Parras Assis;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3546504;Santa Ernestina;ER Araraquara;José Carlos Simão;Jorge Bredan;Elaine (4016) / Iris (4015);
+3546603;Santa Fe do Sul;ER Sao Jose do Rio Preto;Evandro Farias Mura;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3546702;Santa Gertrudes;ER Campinas;Lázaro Noé Da Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3546801;Santa Isabel;ER Sao Paulo;Carlos Augusto Chinchilla Alfonzo;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3546900;Santa Lucia;ER Araraquara;Antonio Carlos Abuabud Junior;Jorge Bredan;Elaine (4016) / Iris (4015);
+3547007;Santa Maria da Serra;ER Campinas;Josias Zani Neto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3547106;Santa Mercedes;ER Presidente Prudente;Valdir Verona;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3547205;Santana da Ponte Pensa;ER Sao Jose do Rio Preto;Vagner Hernandes;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3547304;Santana de Parnaiba;ER Sao Paulo;Elvis Leonardo Cezar;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3547403;Santa Rita D'Oeste;ER Sao Jose do Rio Preto;Osmar Sampaio;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3547502;Santa Rita do Passa Quatro;ER Araraquara;Marcelo Simão;Jorge Bredan;Elaine (4016) / Iris (4015);
+3547601;Santa Rosa de Viterbo;ER Ribeirao Preto;Omar Nagib Moussa;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3547650;Santa Salete;ER Sao Jose do Rio Preto;Julio César Martins Miliatti;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3547700;Santo Anastacio;ER Presidente Prudente;Luiz Infante;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3547809;Santo Andre;ER Sao Paulo;Gilvan Ferreira De Souza Júnior;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3547908;Santo Antonio da Alegria;ER Ribeirao Preto;Denilson De Carvalho;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3548005;Santo Antonio de Posse;ER Campinas;José Ricardo Cortez;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3548054;Santo Antonio do Aracangua;ER Aracatuba;Luiz Carlos Dos Reis Nonato;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3548104;Santo Antonio do Jardim;ER Campinas;Osvaldo Moreira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3548203;Santo Antonio do Pinhal;ER Sao Jose dos Campos;Anderson José Mendonça;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3548302;Santo Expedito;ER Presidente Prudente;Anderson José Betio;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3548401;Santopolis do Aguapei;ER Aracatuba;Gerson Alves De Lima Junior;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3548500;Santos;ER Baixada Santista;Rogério Pereira Dos Santos;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3548609;Sao Bento do Sapucai;ER Sao Jose dos Campos;Gilberto Donizete De Souza;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3548708;Sao Bernardo do Campo;ER Sao Paulo;Marcelo De Lima Fernandes;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3548807;Sao Caetano do Sul;ER Sao Paulo;Anacleto Campanella Júnior;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3548906;Sao Carlos;ER Araraquara;Antonio Donato Netto;Jorge Bredan;Elaine (4016) / Iris (4015);
+3549003;Sao Francisco;ER Sao Jose do Rio Preto;Sebastião De Oliveira Baptista;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3549102;Sao Joao da Boa Vista;ER Campinas;Vanderlei Borges De Carvalho;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3549201;Sao Joao das Duas Pontes;ER Sao Jose do Rio Preto;José Carlos Baruci Junior;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3549250;Sao Joao de Iracema;ER Aracatuba;Luiz Augusto Torres;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3549300;Sao Joao do Pau D'Alho;ER Presidente Prudente;Lucas De Oliveira Barbosa;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3549409;Sao Joaquim da Barra;ER Franca;Wagner José Schmidt;Valter Sene;Danielle (4019) / Andre (4018);
+3549508;Sao Jose da Bela Vista;ER Franca;Walter Cássio Carvalho Faccirolli;Valter Sene;Danielle (4019) / Andre (4018);
+3549607;Sao Jose do Barreiro;ER Sao Jose dos Campos;Luis Eduardo Santos Ribeiro;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3549706;Sao Jose do Rio Pardo;ER Campinas;Marcio Callegari Zanetti;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3549805;Sao Jose do Rio Preto;ER Sao Jose do Rio Preto;Fábio Rogério Cândido;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3549904;Sao Jose dos Campos;ER Sao Jose dos Campos;Anderson Farias Ferreira;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3549953;Sao Lourenco da Serra;ER Sao Paulo;Felipe Geferson Seme Amed;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3550001;Sao Luis do Paraitinga;ER Sao Jose dos Campos;Alex Eusébio Torres;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3550100;Sao Manuel;ER Sorocaba;Odirlei José Felix;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3550209;Sao Miguel Arcanjo;ER Sorocaba;Elias Rodrigues De Paula;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3550308;Sao Paulo;ER Sao Paulo;Ricardo Luis Reis Nunes;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3550407;Sao Pedro;ER Campinas;Thiago Silvério Da Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3550506;Sao Pedro do Turvo;ER Marilia;Luiz Felipe De Castro Tavares;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3550605;Sao Roque;ER Sorocaba;Marcos Augusto Issa Henriques De Araújo;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3550704;Sao Sebastiao;ER Sao Jose dos Campos;Reinaldo Alves Moreira Filho;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3550803;Sao Sebastiao da Grama;ER Campinas;José Francisco Martha;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3550902;Sao Simao;ER Ribeirao Preto;Izaias Leão De Souza;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3551009;Sao Vicente;ER Baixada Santista;Kayo Felype Nachtajler Amado;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3551108;Sarapui;ER Sorocaba;Gustavo De Souza Barros Vieira;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3551207;Sarutaia;ER Itapeva;João Antonio Fuloni;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3551306;Sebastianopolis do Sul;ER Sao Jose do Rio Preto;José Antônio Abreu Do Valle;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3551405;Serra Azul;ER Ribeirao Preto;Debora Cristina Ribeiro Da Silva;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3551504;Serrana;ER Ribeirao Preto;Leonardo Caressato Capiteli;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3551603;Serra Negra;ER Campinas;Elmir Kalil Abi Chedid;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3551702;Sertaozinho;ER Ribeirao Preto;José Alberto Gimenez;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3551801;Sete Barras;ER Vale do Ribeira;Ítalo Donizeth Costa Roberto;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3551900;Severinia;ER Barretos;Guilherme Augusto De Almeida Secchieri;Raphael Dutra;Sandra (4021) / Thais (4020);
+3552007;Silveiras;ER Sao Jose dos Campos;Edson Mendes Mota;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3552106;Socorro;ER Campinas;Mauricio De Oliveira Santos;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3552205;Sorocaba;ER Sorocaba;Rodrigo Maganhato;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3552304;Sud Mennucci;ER Aracatuba;José Urbino Dos Santos Neto;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3552403;Sumare;ER Campinas;Henrique Stein Sciascio;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3552502;Suzano;ER Sao Paulo;Pedro Charles Shirakawa Ishi;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3552551;Suzanapolis;ER Aracatuba;Gerso Antonio De Oliveria;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3552601;Tabapua;ER Sao Jose do Rio Preto;Silvio Cesar Sartorello;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3552700;Tabatinga;ER Araraquara;Valter Valentim Camargo;Jorge Bredan;Elaine (4016) / Iris (4015);
+3552809;Taboao Da Serra;ER Sao Paulo;Daniel Plana Bogalho;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3552908;Taciba;ER Presidente Prudente;Izidoro Arcesti Ricci;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3553005;Taguai;ER Itapeva;Eder Carlos Fogaça Da Cruz;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3553104;Taiacu;ER Barretos;Sueli Aparecida Mendes Biancardi;Raphael Dutra;Sandra (4021) / Thais (4020);
+3553203;Taiuva;ER Barretos;Mauro Vicente Bersi;Raphael Dutra;Sandra (4021) / Thais (4020);
+3553302;Tambau;ER Campinas;Leonardo Teixeira Spiga Real;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3553401;Tanabi;ER Sao Jose do Rio Preto;Alexandre Silveira Bertolini;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3553500;Tapirai;ER Sorocaba;Araldo Todesco;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3553609;Tapiratiba;ER Campinas;Ramon Jesus Vieira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3553658;Taquaral;ER Ribeirao Preto;Ari Fernando Jacinto;Rogerio Rossini (Pio);Cido (4012) / Cidinha (4011);
+3553708;Taquaritinga;ER Araraquara;Fulvio Zuppani;Jorge Bredan;Elaine (4016) / Iris (4015);
+3553807;Taquarituba;ER Itapeva;Éder Miano Pereira;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3553856;Taquarivai;ER Itapeva;Rubens Carlos Souto De Barros;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3553906;Tarabai;ER Presidente Prudente;Rubens Pinaffi Junior;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3553955;Taruma;ER Marilia;Adriana Balejo Piedade Da Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3554003;Tatui;ER Sorocaba;Miguel Lopes Cardoso Junior;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3554102;Taubate;ER Sao Jose dos Campos;Sérgio Luiz Victor Júnior;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3554201;Tejupa;ER Itapeva;Valter Boranelli;Rosana Nascimento;Fabiana (4023) / Lais (4022);
+3554300;Teodoro Sampaio;ER Presidente Prudente;Claudio Evangelista Da Silva Junior;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3554409;Terra Roxa;ER Barretos;Rogerio Rafael Furlin;Raphael Dutra;Sandra (4021) / Thais (4020);
+3554508;Tiete;ER Sorocaba;Jose Carlos Regonha Junior;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3554607;Timburi;ER Marilia;Cristiano Da Cunha Amorim;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3554656;Torre de Pedra;ER Sorocaba;Ciro Luiz Pedroso;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3554706;Torrinha;ER Campinas;Ari Rodolfo Buzato;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3554755;Trabiju;ER Araraquara;Marcelo Rodrigues Fonseca;Jorge Bredan;Elaine (4016) / Iris (4015);
+3554805;Tremembe;ER Sao Jose dos Campos;Clemente Antonio De Lima Neto;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3554904;Tres Fronteiras;ER Sao Jose do Rio Preto;Flávio Luiz Renda De Oliveira;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3554953;Tuiuti;ER Campinas;Alexandre Tadeu Gonçalves;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3555000;Tupa;ER Marilia;Renan Victor Pontelli;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3555109;Tupi Paulista;ER Presidente Prudente;Juliano Vigiliato Guiro;Silvio Ushijima;Sandra (4021) / Thais (4020);
+3555208;Turiuba;ER Aracatuba;Jorge Augusto Molina;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3555307;Turmalina;ER Sao Jose do Rio Preto;Priscilla Tatiana Dias Massoni;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3555356;Ubarana;ER Sao Jose do Rio Preto;Vanderlei Rodrigues Da Cruz;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3555406;Ubatuba;ER Sao Jose dos Campos;Flávia Comitte Do Nascimento;Sem diretor ate o momento;Danielle (4019) / Andre (4018);
+3555505;Ubirajara;ER Bauru;Leila Alvim Bordim;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3555604;Uchoa;ER Sao Jose do Rio Preto;José Claudio Martins;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3555703;Uniao Paulista;ER Sao Jose do Rio Preto;Kendrea Alves Papile Cavatão;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3555802;Urania;ER Sao Jose do Rio Preto;Ivan Soubhia Garcia;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3555901;Uru;ER Bauru;Robson Eduardo Forte;Marcelo Graziani;Elaine (4016) / Iris (4015);
+3556008;Urupes;ER Sao Jose do Rio Preto;Roberto Cacciari Filho;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3556107;Valentim Gentil;ER Sao Jose do Rio Preto;Claudinei Carvassan Rodrigues;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3556206;Valinhos;ER Campinas;Franklin Duarte Da Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3556305;Valparaiso;ER Aracatuba;Carlos Alexandre Pereira;Elisabete dos Santos;Sandra (4021) / Thais (4020);
+3556354;Vargem;ER Campinas;Leodécio Alves De Lima;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3556404;Vargem Grande do Sul;ER Campinas;Celso Luis Ribeiro;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3556453;Vargem Grande Paulista;ER Sao Paulo;Piter Aparecido Dos Santos;Sem diretor ate o momento;Cido (4012) / Cidinha (4011);
+3556503;Varzea Paulista;ER Campinas;Rodolfo Wilson Rodrigues Braga;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3556602;Vera Cruz;ER Marilia;Rodolfo Silva Davoli;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3556701;Vinhedo;ER Campinas;Dario Pacheco De Morais;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
+3556800;Viradouro;ER Barretos;Nilton Augusto Alves Filho;Raphael Dutra;Sandra (4021) / Thais (4020);
+3556909;Vista Alegre do Alto;ER Barretos;Nelson Antonio Rozani;Raphael Dutra;Sandra (4021) / Thais (4020);
+3556958;Vitoria Brasil;ER Sao Jose do Rio Preto;Paulo Henrique Miotto;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3557006;Votorantim;ER Sorocaba;Weber Maganhato Júnior;Fabiano Doretto;Elaine (4016) / Iris (4015);
+3557105;Votuporanga;ER Sao Jose do Rio Preto;Jorge Augusto Seba;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3557154;Zacarias;ER Sao Jose do Rio Preto;Heder Jean Bruno De Oliveira;Igor Goncalves;Fabiana (4023) / Lais (4022);
+3557204;Chavantes;ER Marilia;Luiz Filipe De Paula Jacinto;Walter Ihoshi;Danielle (4019) / Andre (4018);
+3557303;Estiva Gerbi;ER Campinas;Marcio Roberto Pavan;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);
