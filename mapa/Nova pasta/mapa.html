@@ -31,9 +31,8 @@
 <body>
 
 <div id="filtro">
-  <strong>Filtrar por Regional:</strong>
+  <strong>Buscar por município:</strong>
   <input type="text" id="busca" placeholder="Buscar município..." />
-  <button id="buscarBtn">Buscar</button>
   <div class="checkbox-group" id="checkboxes"></div>
   <button id="selectAll">Selecionar todos</button>
   <button id="reset">Resetar</button>
@@ -53,27 +52,25 @@
   let geojsonData;
   let geojsonLayer;
   const regionalPorCodigo = {};
+  const diretorPorCodigo = {};
+  const atendentePorCodigo = {};
+  const observacaoPorCodigo = {};
   const regioes = new Set();
 
   const coresPorRegional = {
     'ER Campinas': '#00BFFF',
     'ER Baixada Santista': '#00BFFF',
-
     'ER Sao Jose do Rio Preto': '#32CD32',
     'ER Itapeva': '#32CD32',
-
     'ER Sorocaba': '#FF7F50',
     'ER Bauru': '#FF7F50',
     'ER Araraquara': '#FF7F50',
-
     'ER Ribeirao Preto': '#9370DB',
     'ER Sao Paulo': '#9370DB',
     'ER Vale do Ribeira': '#9370DB',
-
     'ER Presidente Prudente': '#FFD700',
     'ER Barretos': '#FFD700',
     'ER Aracatuba': '#FFD700',
-
     'ER Marilia': '#820101',
     'ER Sao Jose dos Campos': '#820101',
     'ER Franca': '#820101'
@@ -88,8 +85,15 @@
         result.data.forEach(row => {
           const codigo = row.CODIGO_IBGE?.trim();
           const regional = row.REGIONAL?.trim();
+          const diretor = row.DIRETOR_REGIONAL?.trim();
+          const atendente = row["ATENDENTE(RAMAL)"]?.trim();
+          const observacao = row.OBSERVACAO?.trim();
+
           if (codigo && regional) {
             regionalPorCodigo[codigo] = regional;
+            diretorPorCodigo[codigo] = diretor;
+            atendentePorCodigo[codigo] = atendente;
+            observacaoPorCodigo[codigo] = observacao;
             regioes.add(regional);
           }
         });
@@ -121,6 +125,9 @@
         data.features.forEach(f => {
           const codigo = f.properties?.id?.toString();
           f.properties.regional = regionalPorCodigo[codigo] || 'Desconhecida';
+          f.properties.diretor = diretorPorCodigo[codigo] || 'N/A';
+          f.properties.atendente = atendentePorCodigo[codigo] || 'N/A';
+          f.properties.observacao = observacaoPorCodigo[codigo] || '';
         });
         geojsonData = data;
         atualizarMapa();
@@ -155,26 +162,45 @@
       onEachFeature: (feature, layer) => {
         const nome = feature.properties.name || feature.properties.MUNICIPIO;
         const reg = feature.properties.regional;
-        layer.bindPopup(`<strong>${nome}</strong><br>Regional: ${reg}`);
+        const diretor = feature.properties.diretor;
+        const atendente = feature.properties.atendente;
+        const obs = feature.properties.observacao;
+
+        const popupContent = `
+          <strong>${nome}</strong><br>
+          Regional: ${reg}<br>
+          Diretor Regional: ${diretor}<br>
+          Atendente: ${atendente}<br>
+          ${obs ? `<em>Obs:</em> ${obs}` : ''}
+        `;
+
+        layer.bindPopup(popupContent);
+
+        layer.on('mouseover', function () {
+          this.openPopup();
+        });
+
+        layer.on('mouseout', function () {
+          this.closePopup();
+        });
       }
     }).addTo(map);
   }
 
-  // Função normalizar texto (remove acentos e caixa alta)
   function normalizarTexto(texto) {
     return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
   }
 
-  // Buscar por município
-  document.getElementById('buscarBtn').addEventListener('click', () => {
+  function buscarMunicipio() {
     const termo = normalizarTexto(document.getElementById('busca').value);
     if (!termo) return;
 
     let encontrado = false;
 
     geojsonLayer.eachLayer(layer => {
-      const nome = layer.feature.properties.name || layer.feature.properties.MUNICIPIO || '';
-      if (normalizarTexto(nome).includes(termo)) {
+      const nomeOriginal = layer.feature.properties.name || layer.feature.properties.MUNICIPIO || '';
+      const nomeSemAcento = normalizarTexto(nomeOriginal);
+      if (nomeSemAcento.includes(termo)) {
         map.fitBounds(layer.getBounds());
         layer.openPopup();
         encontrado = true;
@@ -184,9 +210,14 @@
     if (!encontrado) {
       alert("Município não encontrado.");
     }
+  }
+
+  document.getElementById('busca').addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      buscarMunicipio();
+    }
   });
 
-  // Botões
   document.getElementById('reset').addEventListener('click', () => {
     document.querySelectorAll('#checkboxes input').forEach(cb => cb.checked = false);
     atualizarMapa();

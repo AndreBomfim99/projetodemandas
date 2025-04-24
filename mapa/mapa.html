@@ -31,7 +31,7 @@
 <body>
 
 <div id="filtro">
-  <strong>Filtrar por Regional:</strong>
+  <strong>Buscar por município:</strong>
   <input type="text" id="busca" placeholder="Buscar município..." />
   <div class="checkbox-group" id="checkboxes"></div>
   <button id="selectAll">Selecionar todos</button>
@@ -55,6 +55,7 @@
   const diretorPorCodigo = {};
   const atendentePorCodigo = {};
   const observacaoPorCodigo = {};
+  const prefeitoPorCodigo = {};
   const regioes = new Set();
 
   const coresPorRegional = {
@@ -88,12 +89,14 @@
           const diretor = row.DIRETOR_REGIONAL?.trim();
           const atendente = row["ATENDENTE(RAMAL)"]?.trim();
           const observacao = row.OBSERVACAO?.trim();
+          const prefeito = row.PREFEITO?.trim();
 
           if (codigo && regional) {
             regionalPorCodigo[codigo] = regional;
             diretorPorCodigo[codigo] = diretor;
             atendentePorCodigo[codigo] = atendente;
             observacaoPorCodigo[codigo] = observacao;
+            prefeitoPorCodigo[codigo] = prefeito;
             regioes.add(regional);
           }
         });
@@ -128,6 +131,7 @@
           f.properties.diretor = diretorPorCodigo[codigo] || 'N/A';
           f.properties.atendente = atendentePorCodigo[codigo] || 'N/A';
           f.properties.observacao = observacaoPorCodigo[codigo] || '';
+          f.properties.prefeito = prefeitoPorCodigo[codigo] || 'N/A';
         });
         geojsonData = data;
         atualizarMapa();
@@ -162,6 +166,7 @@
       onEachFeature: (feature, layer) => {
         const nome = feature.properties.name || feature.properties.MUNICIPIO;
         const reg = feature.properties.regional;
+        const prefeito = feature.properties.prefeito;
         const diretor = feature.properties.diretor;
         const atendente = feature.properties.atendente;
         const obs = feature.properties.observacao;
@@ -169,9 +174,10 @@
         const popupContent = `
           <strong>${nome}</strong><br>
           Regional: ${reg}<br>
+          Prefeito: ${prefeito}<br>
           Diretor Regional: ${diretor}<br>
-          Atendente: ${atendente}<br>
-          ${obs ? `<em>Obs:</em> ${obs}` : ''}
+          Atendente (Ramal): ${atendente}<br>
+          ${obs ? `<strong>Obs:</strong> ${obs}` : ''}
         `;
 
         layer.bindPopup(popupContent);
