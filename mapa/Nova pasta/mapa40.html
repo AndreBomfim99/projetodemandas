@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mapa SP por Regional</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; }
+    #map { height: 90vh; }
+    #filtro {
+      padding: 10px;
+      background: #f1f1f1;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+    }
+    .checkbox-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    #busca {
+      padding: 5px;
+      font-size: 14px;
+      min-width: 200px;
+    }
+  </style>
+</head>
+<body>
+
+<div id="filtro">
+  <strong>Buscar por município:</strong>
+  <input type="text" id="busca" placeholder="Buscar município..." />
+  <div class="checkbox-group" id="checkboxes"></div>
+  <button id="selectAll">Selecionar todos</button>
+  <button id="reset">Resetar</button>
+</div>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
+<script>
+  const map = L.map('map').setView([-22.9, -47.0], 7);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap'
+  }).addTo(map);
+
+  let geojsonData;
+  let geojsonLayer;
+  let layerDestacado = null;
+  const regionalPorCodigo = {};
+  const diretorPorCodigo = {};
+  const atendentePorCodigo = {};
+  const observacaoPorCodigo = {};
+  const prefeitoPorCodigo = {};
+  const maisPorCodigo = {};
+  const regioes = new Set();
+
+  const coresPorRegional = {
+    'ER Campinas': '#00BFFF',
+    'ER Baixada Santista': '#00BFFF',
+    'ER Sao Jose do Rio Preto': '#32CD32',
+    'ER Itapeva': '#32CD32',
+    'ER Sorocaba': '#FF7F50',
+    'ER Bauru': '#FF7F50',
+    'ER Araraquara': '#FF7F50',
+    'ER Ribeirao Preto': '#9370DB',
+    'ER Sao Paulo': '#9370DB',
+    'ER Vale do Ribeira': '#9370DB',
+    'ER Presidente Prudente': '#FFD700',
+    'ER Barretos': '#FFD700',
+    'ER Aracatuba': '#FFD700',
+    'ER Marilia': '#820101',
+    'ER Sao Jose dos Campos': '#820101',
+    'ER Franca': '#820101'
+  };
+
+  function carregarCSV() {
+    Papa.parse('indice.csv', {
+      download: true,
+      header: true,
+      delimiter: ";",
+      complete: function(result) {
+        result.data.forEach(row => {
+          const codigo = row.CODIGO_IBGE?.trim();
+          const regional = row.REGIONAL?.trim();
+          const diretor = row.DIRETOR_REGIONAL?.trim();
+          const atendente = row["ATENDENTE(RAMAL)"]?.trim();
+          const observacao = row.OBSERVACAO?.trim();
+          const prefeito = row.PREFEITO?.trim();
+          const mais = row.Mais?.trim();
+
+          if (codigo && regional) {
+            regionalPorCodigo[codigo] = regional;
+            diretorPorCodigo[codigo] = diretor;
+            atendentePorCodigo[codigo] = atendente;
+            observacaoPorCodigo[codigo] = observacao;
+            prefeitoPorCodigo[codigo] = prefeito;
+            maisPorCodigo[codigo] = mais;
+            regioes.add(regional);
+          }
+        });
+        criarCheckboxes(Array.from(regioes).sort());
+        carregarGeoJSON();
+      }
+    });
+  }
+
+  function criarCheckboxes(lista) {
+    const container = document.getElementById('checkboxes');
+    lista.forEach(regional => {
+      const label = document.createElement('label');
+      const input = document.createElement('input');
+      input.type = 'checkbox';
+      input.value = regional;
+      input.checked = false;
+      input.addEventListener('change', atualizarMapa);
+      label.appendChild(input);
+      label.appendChild(document.createTextNode(regional));
+      container.appendChild(label);
+    });
+  }
+
+  function carregarGeoJSON() {
+    fetch('estado_sp.json')
+      .then(res => res.json())
+      .then(data => {
+        data.features.forEach(f => {
+          const codigo = f.properties?.id?.toString();
+          f.properties.regional = regionalPorCodigo[codigo] || 'Desconhecida';
+          f.properties.diretor = diretorPorCodigo[codigo] || 'N/A';
+          f.properties.atendente = atendentePorCodigo[codigo] || 'N/A';
+          f.properties.observacao = observacaoPorCodigo[codigo] || '';
+          f.properties.prefeito = prefeitoPorCodigo[codigo] || 'N/A';
+          f.properties.mais = maisPorCodigo[codigo] || '';
+        });
+        geojsonData = data;
+        atualizarMapa();
+      });
+  }
+
+  function atualizarMapa() {
+    if (geojsonLayer) map.removeLayer(geojsonLayer);
+
+    const selecionadas = Array.from(document.querySelectorAll('#checkboxes input:checked'))
+                              .map(cb => cb.value);
+
+    geojsonLayer = L.geoJSON(geojsonData, {
+      style: feature => {
+        const regional = feature.properties.regional;
+        if (selecionadas.includes(regional)) {
+          return {
+            color: '#900',
+            weight: 1,
+            fillOpacity: 0.5,
+            fillColor: coresPorRegional[regional] || '#ff0000'
+          };
+        } else {
+          return {
+            color: '#555',
+            weight: 1,
+            fillOpacity: 0.4,
+            fillColor: '#cccccc'
+          };
+        }
+      },
+      onEachFeature: (feature, layer) => {
+        const nome = feature.properties.name || feature.properties.MUNICIPIO;
+        const reg = feature.properties.regional;
+        const prefeito = feature.properties.prefeito;
+        const diretor = feature.properties.diretor;
+        const atendente = feature.properties.atendente;
+        const obs = feature.properties.observacao;
+        const mais = feature.properties.mais;
+
+        const popupContent = `
+          <strong>${nome}</strong><br>
+          Regional: ${reg}<br>
+          Prefeito: ${prefeito}<br>
+          Diretor Regional: ${diretor}<br>
+          Atendente (Ramal): ${atendente}<br>
+          ${obs ? `<strong>Obs:</strong> ${obs}<br>` : ''}
+          ${mais ? `<a href="${mais}" target="_blank">Mais informações</a>` : ''}
+        `;
+
+        layer.bindPopup(popupContent);
+
+        layer.on('mouseover', function () {
+          this.openPopup();
+        });
+
+        layer.on('mouseout', function () {
+          this.closePopup();
+        });
+      }
+    }).addTo(map);
+  }
+
+  function normalizarTexto(texto) {
+    return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  }
+
+  function buscarMunicipio() {
+    const termo = normalizarTexto(document.getElementById('busca').value);
+    if (!termo) return;
+
+    let encontrado = false;
+
+    geojsonLayer.eachLayer(layer => {
+      const nomeOriginal = layer.feature.properties.name || layer.feature.properties.MUNICIPIO || '';
+      const nomeSemAcento = normalizarTexto(nomeOriginal);
+      if (nomeSemAcento.includes(termo)) {
+        if (layerDestacado) geojsonLayer.resetStyle(layerDestacado);
+        map.fitBounds(layer.getBounds());
+        layer.openPopup();
+        layer.setStyle({ weight: 4, color: '#000', fillOpacity: 0.7 });
+        layerDestacado = layer;
+        encontrado = true;
+      }
+    });
+
+    if (!encontrado) {
+      alert("Município não encontrado.");
+    }
+  }
+
+  document.getElementById('busca').addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      buscarMunicipio();
+    }
+  });
+
+  document.getElementById('reset').addEventListener('click', () => {
+    document.querySelectorAll('#checkboxes input').forEach(cb => cb.checked = false);
+    atualizarMapa();
+  });
+
+  document.getElementById('selectAll').addEventListener('click', () => {
+    document.querySelectorAll('#checkboxes input').forEach(cb => cb.checked = true);
+    atualizarMapa();
+  });
+
+  carregarCSV();
+</script>
+</body>
+</html>
