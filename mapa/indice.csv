@@ -1,646 +1,646 @@
-CODIGO_IBGE;MUNICIPIO;REGIONAL;PREFEITO;DIRETOR_REGIONAL;ATENDENTE(RAMAL);OBSERVACAO;Mais
-3500105;Adamantina;ER Presidente Prudente;José Carlos Martins Tiveron;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3500204;Adolfo;ER Sao Jose do Rio Preto;Ricardo Di Giorgio Robles;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3500303;Aguai;ER Campinas;Gilberto Luiz Moraes Selber;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3500402;Aguas da Prata;ER Campinas;Carlos Henrique Fortes Dezena;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3500501;Aguas de Lindoia;ER Campinas;Geraldo Mantovani Filho;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3500550;Aguas de Santa Barbara;ER Sorocaba;Wilian José De Oliveira Meana;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3500600;Aguas de Sao Pedro;ER Campinas;João Victor Barboza;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3500709;Agudos;ER Bauru;Rafael Lima Fernandes;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3500758;Alambari;ER Sorocaba;João Paulo Dantas Pinto;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3500808;Alfredo Marcondes;ER Presidente Prudente;Celso Pirani Passos;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3500907;Altair;ER Barretos;Marco Antonio Ferreira;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3501004;Altinopolis;ER Ribeirao Preto;Huelder Donizete Malagutti Ferreira;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3501103;Alto Alegre;ER Aracatuba;Carlos Sussumi Ivama;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3501152;Aluminio;ER Sorocaba;Ana Paula De Cassia Netto;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3501202;Alvares Florence;ER Sao Jose do Rio Preto;Adilson Batista Leite;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3501301;Alvares Machado;ER Presidente Prudente;Luiz Francisco Boigues;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3501400;Alvaro de Carvalho;ER Marilia;Adilson De Oliveira Lopes;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3501509;Alvinlandia;ER Marilia;Antonio Ferreira De Moraes Junior;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3501608;Americana;ER Campinas;Francisco Antonio Sardelli;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3501707;Americo Brasiliense;ER Araraquara;Terezinha Aparecida Viveiros De Souza;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3501806;Americo de Campos;ER Sao Jose do Rio Preto;Rafael Gimenez Marioto;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3501905;Amparo;ER Campinas;Carlos Alberto Martins;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3502002;Analandia;ER Campinas;Silvana Marcia Perin Campbell Penna;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3502101;Andradina;ER Aracatuba;Mário Celso Lopes;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3502200;Angatuba;ER Itapeva;Nicolas Basile Rochel;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3502309;Anhembi;ER Sorocaba;Jairo De Gois;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3502408;Anhumas;ER Presidente Prudente;Adailton Cesar Menossi;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3502507;Aparecida;ER Sao Jose dos Campos;José Luiz Rodrigues;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3502606;Aparecida D'Oeste;ER Sao Jose do Rio Preto;Izaias Aparecido Sanchez;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3502705;Apiai;ER Itapeva;Sergio Victor Borges Barbosa;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3502754;Aracariguama;ER Sorocaba;Rodrigo De Andrade;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3502804;Aracatuba;ER Aracatuba;Lucas Pavan Zanatta;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3502903;Aracoiaba da Serra;ER Sorocaba;José Carlos De Quevedo Júnior;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3503000;Aramina;ER Franca;Luís Sérgio Celeste Jorge;Valter Sene;Danielle (4019) / Andre (4018);;
-3503109;Arandu;ER Itapeva;Flávio Carlomagno Galhego;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3503158;Arapei;ER Sao Jose dos Campos;Renê Lucio Gonçalves;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3503208;Araraquara;ER Araraquara;Luis Cláudio Lapena Barreto;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3503307;Araras;ER Campinas;Irineu Norival Maretto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3503356;Arco Iris;ER Marilia;Aldo Mansano Fernandes;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3503406;Arealva;ER Bauru;Paulo Juliano Nocolielo Junior;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3503505;Areias;ER Sao Jose dos Campos;Rodrigo José Ramos De Oliveira;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3503604;Areiopolis;ER Sorocaba;Michel Hnerique Augusto;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3503703;Ariranha;ER Sao Jose do Rio Preto;Emerson Antonio Trovó;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3503802;Artur Nogueira;ER Campinas;Lucas Sia Rissato;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3503901;Aruja;ER Sao Paulo;Luis Antonio De Camargo;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3503950;Aspasia;ER Sao Jose do Rio Preto;Ivan De Paula;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3504008;Assis;ER Marilia;Telma Gonçalves Carneiro Spera De Andrad;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3504107;Atibaia;ER Campinas;Daniel Da Rocha Martini;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3504206;Auriflama;ER Aracatuba;Katia Conceição Morita De Carvalho;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3504305;Avai;ER Bauru;Hellen Fernandes Rodrigues Coelho;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3504404;Avanhandava;ER Aracatuba;Norberto César Beraldo;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3504503;Avare;ER Sorocaba;Roberto De Araujo;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3504602;Bady Bassitt;ER Sao Jose do Rio Preto;Janimeiri Catelani Buzzi;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3504701;Balbinos;ER Bauru;José Marcio Rigotto;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3504800;Balsamo;ER Sao Jose do Rio Preto;José Eduardo Naliati Junior;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3504909;Bananal;ER Sao Jose dos Campos;William Landim Da Silva;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3505005;Barao de Antonina;ER Itapeva;Rodrigo Waldemar Marques;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3505104;Barbosa;ER Aracatuba;Rodrigo Primo Antunes;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3505203;Bariri;ER Bauru;Airton Luis Pegoraro;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3505302;Barra Bonita;ER Bauru;Manoel Fabiano Ferreira Filho;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3505351;Barra do Chapeu;ER Itapeva;Ivanil Norberto Pereira Nolasco;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3505401;Barra do Turvo;ER Vale do Ribeira;Victor Maruyama;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3505500;Barretos;ER Barretos;Odair De Moura E Silva;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3505609;Barrinha;ER Ribeirao Preto;Maria Lucia Teresinha Grotta;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3505708;Barueri;ER Sao Paulo;José Roberto Piteri;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3505807;Bastos;ER Marilia;Kleber Lopes De Sousa;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3505906;Batatais;ER Franca;Luis Fernando Benedini Gaspar Júnior;Valter Sene;Danielle (4019) / Andre (4018);;
-3506003;Bauru;ER Bauru;Suellen Silva Rosim;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3506102;Bebedouro;ER Barretos;Lucas Gibin Seren;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3506201;Bento de Abreu;ER Aracatuba;Terezinha Do Carmo Salesse;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3506300;Bernardino de Campos;ER Marilia;Wilson José Garcia;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3506359;Bertioga;ER Baixada Santista;Marcelo Heleno Vilares;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3506409;Bilac;ER Aracatuba;Antônio Ferreira Loureiro;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3506508;Birigui;ER Aracatuba;Samanta Paula Albani Borini;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3506607;Biritiba Mirim;ER Sao Paulo;Carlos Alberto Taino Junior;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3506706;Boa Esperanca do Sul;ER Araraquara;José Manoel De Souza;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3506805;Bocaina;ER Bauru;Caio Augusto Crepaldi;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3506904;Bofete;ER Sorocaba;Eugênio Carlos Alves;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3507001;Boituva;ER Sorocaba;Edson José Marcusso;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3507100;Bom Jesus dos Perdoes;ER Campinas;Sérgio Ferreira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3507159;Bom Sucesso de Itarare;ER Itapeva;Dirceu Pacheco De Oliveira;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3507209;Bora;ER Marilia;Luiz Carlos Rodrigues;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3507308;Boraceia;ER Bauru;Marcos Vinicio Bilancieri;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3507407;Borborema;ER Araraquara;Sheila Maria Gonçalves De Oliveira;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3507456;Borebi;ER Bauru;Anderson Pinheiro Goes;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3507506;Botucatu;ER Sorocaba;Fábio Vieira De Souza Leite;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3507605;Braganca Paulista;ER Campinas;Edmir José Abi Chedid;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3507704;Brauna;ER Aracatuba;Maicon Aparecido Subires Ribeiro;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3507753;Brejo Alegre;ER Aracatuba;Rafael Alves Dos Santos;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3507803;Brodowski;ER Ribeirao Preto;Fábio Maximiniano Vercezi Severi;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3507902;Brotas;ER Campinas;Alexsandra Berto Brandão;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3508009;Buri;ER Itapeva;Germano Almeida Peschel;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3508108;Buritama;ER Aracatuba;Tiago Luiz De Oliveira;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3508207;Buritizal;ER Franca;Daniel Sarreta;Valter Sene;Danielle (4019) / Andre (4018);;
-3508306;Cabralia Paulista;ER Bauru;Odemil Ortiz De Camargo;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3508405;Cabreuva;ER Campinas;Noemi Medeiros Bernardes;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3508504;Cacapava;ER Sao Jose dos Campos;Yan Lopes De Almeida;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3508603;Cachoeira Paulista;ER Sao Jose dos Campos;Breno Barbosa Anaya Xavier;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3508702;Caconde;ER Campinas;José Afonso De Paiva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3508801;Cafelandia;ER Bauru;Taís Fernanda Maimoni Contieri Santana;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3508900;Caiabu;ER Presidente Prudente;Suelen Nara Matos Mative;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3509007;Caieiras;ER Sao Paulo;Gilmar Soares Vicente;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3509106;Caiua;ER Presidente Prudente;Jayme Salvador Alves;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3509205;Cajamar;ER Sao Paulo;Kauan Berto Sousa Santos;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3509254;Cajati;ER Vale do Ribeira;Luiz Henrique Koga;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3509304;Cajobi;ER Barretos;Marcio Donizeti Barbaelli;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3509403;Cajuru;ER Ribeirao Preto;Alex Moretini;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3509452;Campina do Monte Alegre;ER Itapeva;Marcelo Lisboa Machado;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3509502;Campinas;ER Campinas;Dário Jorge Giolo Saadi;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3509601;Campo Limpo Paulista;ER Campinas;Adeildo Nogueira Da Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3509700;Campos do Jordao;ER Sao Jose dos Campos;Carlos Eduardo Pereira Da Silva;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3509809;Campos Novos Paulista;ER Marilia;Flavio Fermino Euflauzino;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3509908;Cananeia;ER Vale do Ribeira;André Nogueira Sanches;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3509957;Canas;ER Sao Jose dos Campos;Gustavo Zanin Lucena Famadas;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3510005;Candido Mota;ER Marilia;Eraldo José Pereira;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3510104;Candido Rodrigues;ER Araraquara;Tiago Alex Ravazzi;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3510153;Canitar;ER Marilia;Joel Rodrigues;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3510203;Capao Bonito;ER Itapeva;Julio Fernando Galvão Dias;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3510302;Capela do Alto;ER Sorocaba;Henrique Daniel Leme;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3510401;Capivari;ER Campinas;Vitor Hugo Riccomini;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3510500;Caraguatatuba;ER Sao Jose dos Campos;Mateus Veneziani Da Silva;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3510609;Carapicuiba;ER Sao Paulo;José Roberto Da Silva;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3510708;Cardoso;ER Sao Jose do Rio Preto;Luís Paulo Bednarski Pedrassolli;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3510807;Casa Branca;ER Campinas;Antônio Eduardo Marçon Nogueira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3510906;Cassia dos Coqueiros;ER Ribeirao Preto;Silvio Santos Dos Reis Faria;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3511003;Castilho;ER Aracatuba;Paulo Duarte Boaventura;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3511102;Catanduva;ER Sao Jose do Rio Preto;Osvaldo De Oliveira Rosa;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3511201;Catigua;ER Sao Jose do Rio Preto;Claudemir José Grava;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3511300;Cedral;ER Sao Jose do Rio Preto;Irineo Beolchi Junior;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3511409;Cerqueira Cesar;ER Sorocaba;Diego Augusto Berti Cinto;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3511508;Cerquilho;ER Sorocaba;Paulo Roberto Pilon;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3511607;Cesario Lange;ER Sorocaba;Ramiro De Campos;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3511706;Charqueada;ER Campinas;Rodrigo De Arruda;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3511904;Clementina;ER Aracatuba;Gilson Roberto Rodrigues Criolézio;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3512001;Colina;ER Barretos;Valdemir Antonio Moralles;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3512100;Colombia;ER Barretos;Julio Cesar Dos Santos;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3512209;Conchal;ER Campinas;Orlando Caleffi Junior;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3512308;Conchas;ER Sorocaba;Paulo Nunes De Almeida;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3512407;Cordeiropolis;ER Campinas;Maria Cristina Degaspari Abrahão Saad;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3512506;Coroados;ER Aracatuba;Roberto Carrilho Alves;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3512605;Coronel Macedo;ER Itapeva;Diego Garcia Batista;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3512704;Corumbatai;ER Campinas;João Batista Altarugio Filho;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3512803;Cosmopolis;ER Campinas;Antonio Claudio Felisbino Junior;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3512902;Cosmorama;ER Sao Jose do Rio Preto;Nelson Narciso Da Silveira Junior;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3513009;Cotia;ER Sao Paulo;Wellington Aparecido Alfredo;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3513108;Cravinhos;ER Ribeirao Preto;Itamar Gomes Bueno;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3513207;Cristais Paulista;ER Franca;Elson Gomes Dos Santos;Valter Sene;Danielle (4019) / Andre (4018);;
-3513306;Cruzalia;ER Marilia;Arildo Osmar De Moro;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3513405;Cruzeiro;ER Sao Jose dos Campos;José Kleber Lima Silveira Junior;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3513504;Cubatao;ER Baixada Santista;Cesar Da Silva Nascimento;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3513603;Cunha;ER Sao Jose dos Campos;Rodrigo Sérgio Do Nascimento;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3513702;Descalvado;ER Araraquara;Luis Guilherme Panone;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3513801;Diadema;ER Sao Paulo;Takaharu Yamauchi;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3513850;Dirce Reis;ER Sao Jose do Rio Preto;Marcelo José Bernardo;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3513900;Divinolandia;ER Campinas;Antônio De Pádua Aquisti;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3514007;Dobrada;ER Araraquara;Antonio Carlos De Mattos Santos;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3514106;Dois Corregos;ER Bauru;Alceu Antonio Mazziero;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3514205;Dolcinopolis;ER Sao Jose do Rio Preto;Diego Aparecido Pereira Miguel;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3514304;Dourado;ER Araraquara;Luiz Antonio Rogante Junior;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3514403;Dracena;ER Presidente Prudente;Geni Pereira Lobo Pesin;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3514502;Duartina;ER Bauru;Suzy Helena Simão Blagitz Ferraz;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3514601;Dumont;ER Ribeirao Preto;Rogerson Aparecido Bujarloin Ruiz;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3514700;Echapora;ER Marilia;Ronaldo Gazeta;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3514809;Eldorado;ER Vale do Ribeira;Noel Castelo Da Costa;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3514908;Elias Fausto;ER Campinas;Joaquim Antônio De Campos Bicudo;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3514924;ElisiArio;ER Sao Jose do Rio Preto;Cassio Roberto Bertelli;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3514957;Embauba;ER Barretos;Nercilio Pinheiro Da Silva;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3515004;Embu das Artes;ER Sao Paulo;Hugo Do Prado Santos;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3515103;Embu Guacu;ER Sao Paulo;André George Neres De Farias;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3515129;Emilianopolis;ER Presidente Prudente;Elton Munhoz De Souza;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3515152;Engenheiro Coelho;ER Campinas;Pedro Franco De Oliveira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3515186;Espirito Santo do Pinhal;ER Campinas;Sergio Del Bianchi Junior;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3515194;Espirito Santo do Turvo;ER Marilia;Gilberto Nascimento Bertolino;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3515202;Estrela D'Oeste;ER Sao Jose do Rio Preto;Pedro De Senzi Neto;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3515301;Estrela do Norte;ER Presidente Prudente;Alberto Martins De Oliveira;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3515350;Euclides da Cunha Paulista;ER Presidente Prudente;Domingos Mente Lopes;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3515400;Fartura;ER Itapeva;Luiz Marcos De Souza;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3515509;Fernandopolis;ER Sao Jose do Rio Preto;João Paulo Sales Cantarella;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3515608;Fernando Prestes;ER Araraquara;Mariel Sebastião Rocha;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3515657;Fernao;ER Marilia;Eber Rogério Assis;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3515707;Ferraz de Vasconcelos;ER Sao Paulo;Priscila Conceição Gambale Vieira Matos;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3515806;Flora Rica;ER Presidente Prudente;Fabio Luiz Florentino De Faria;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3515905;Floreal;ER Sao Jose do Rio Preto;Raul Scalon;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3516002;Florida Paulista;ER Presidente Prudente;José Andriotti;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3516101;Florinea;ER Marilia;Sergio Lopes Da Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3516200;Franca;ER Franca;Alexandre Augusto Ferreira;Valter Sene;Danielle (4019) / Andre (4018);;
-3516309;Francisco Morato;ER Sao Paulo;Ildo Da Silva Gusmão;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3516408;Franco da Rocha;ER Sao Paulo;Lorena Rodrigues Oliveira;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3516507;Gabriel Monteiro;ER Aracatuba;Renée Crema Vidoto;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3516606;Galia;ER Marilia;José Silvino Zaniboni Junior;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3516705;Garca;ER Marilia;José Alcides Faneco;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3516804;Gastao Vidigal;ER Aracatuba;Daniel Guarnieri Criado;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3516853;Gaviao Peixoto;ER Araraquara;Adriano Marçal Da Silva;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3516903;General Salgado;ER Aracatuba;Thiago Francisquini Viana;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3517000;Getulina;ER Bauru;Mario Tadeu Celestino Ribeiro;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3517109;Glicerio;ER Aracatuba;Hairton Kelsine Carvalho Oliveira;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3517208;Guaicara;ER Bauru;Flavia Ramos Bittencourt Leão Cabral;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3517307;Guaimbe;ER Bauru;Marcia Helena Pereira Cabral Achilles;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3517406;Guaira;ER Barretos;Antonio Manoel Da Silva Junior;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3517505;Guapiacu;ER Sao Jose do Rio Preto;Carlos Cesar Zaitune;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3517604;Guapiara;ER Itapeva;José Matheus Rodolfo De Freitas;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3517703;Guara;ER Franca;Filipe Furtado Da Rocha;Valter Sene;Danielle (4019) / Andre (4018);;
-3517802;Guaracai;ER Aracatuba;Airton José Gomes;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3517901;Guaraci;ER Barretos;Renato Azeda Ribeiro De Aguiar;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3518008;Guarani D'Oeste;ER Sao Jose do Rio Preto;Edimilson Pires Do Carmo;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3518107;Guaranta;ER Bauru;Marcos Roberto Frugeri;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3518206;Guararapes;ER Aracatuba;Alex Peramo De Arruda;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3518305;Guararema;ER Sao Paulo;José Luiz Eroles Freire;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3518404;Guaratingueta;ER Sao Jose dos Campos;Antonio Gilberto Filippo Fernandes Junio;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3518503;Guarei;ER Sorocaba;Reinaldo Vicente De Souza;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3518602;Guariba;ER Ribeirao Preto;Dr Francisco Dias Mançano Junior;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3518701;Guaruja;ER Baixada Santista;Farid Said Madi;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3518800;Guarulhos;ER Sao Paulo;Lucas Sanches Promessia;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3518859;Guatapara;ER Ribeirao Preto;Ailton Aparecido Da Silva;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3518909;Guzolandia;ER Aracatuba;Luiz Antônio Pereira De Carvalho;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3519006;Herculandia;ER Marilia;Paulo Sergio De Oliveira;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3519055;Holambra;ER Campinas;Fernando Henrique Capato;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3519071;Hortolandia;ER Campinas;José Nazareno Zezé Gomes;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3519105;Iacanga;ER Bauru;Aparecida De Fátima Pinheiro;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3519204;Iacri;ER Marilia;Cleber Rogerio Cerbantes Panhozzi;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3519253;Iaras;ER Sorocaba;Patrick Hernandes Morales;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3519303;Ibate;ER Araraquara;Ronaldo Rodrigo Venturi;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3519402;Ibira;ER Sao Jose do Rio Preto;Nivaldo Domingos Negrão;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3519501;Ibirarema;ER Marilia;José Benedito Camacho;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3519600;Ibitinga;ER Araraquara;Florisvaldo Antônio Fiorentino;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3519709;Ibiuna;ER Sorocaba;Mario Pires De Oliveira Filho;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3519808;Icem;ER Sao Jose do Rio Preto;Aparecida Salisso;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3519907;Iepe;ER Presidente Prudente;Marta Patricia Stonis Da Costa;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3520004;Igaracu do Tiete;ER Bauru;Carlos Alberto Varasquim;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3520103;Igarapava;ER Franca;José Humberto Lacerda Rodrigues;Valter Sene;Danielle (4019) / Andre (4018);;
-3520202;Igarata;ER Sao Jose dos Campos;Gabriel Gomes Prianti De Jesus;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3520301;Iguape;ER Vale do Ribeira;Salvador José Barbora Junior;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3520400;Ilhabela;ER Sao Jose dos Campos;Antonio Luiz Colucci;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3520426;Ilha Comprida;ER Vale do Ribeira;Maristela Osorio De Marques Cardona;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3520442;Ilha Solteira;ER Aracatuba;Rodrigo Batista Gonçalves;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3520509;Indaiatuba;ER Campinas;Custódio Tavares Dias Neto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3520608;Indiana;ER Presidente Prudente;Wheslen Thiego Scaione Cachoeira;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3520707;Indiapora;ER Sao Jose do Rio Preto;Bernadete Aparecida Santana Ribeiro Spon;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3520806;Inubia Paulista;ER Presidente Prudente;Fernando Rossi;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3520905;Ipaussu;ER Marilia;Luiz Carlos Souto;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3521002;Ipero;ER Sorocaba;Leonardo Roberto Folim;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3521101;Ipeuna;ER Campinas;Maria Luisa Zanoni Prata;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3521150;Ipigua;ER Sao Jose do Rio Preto;Efraim Garcia Lopes;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3521200;Iporanga;ER Itapeva;Marcos Dos Santos Domingos;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3521309;Ipua;ER Franca;Ronywerton Marcelo Alves Pereira;Valter Sene;Danielle (4019) / Andre (4018);;
-3521408;Iracemapolis;ER Campinas;Nelita Cristina Michel Franceschini;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3521507;Irapua;ER Sao Jose do Rio Preto;Reni Aparecida Da Silva;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3521606;Irapuru;ER Presidente Prudente;Ademar Calegão;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3521705;Itabera;ER Itapeva;Celio Ronaldo Gomes De Lima;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3521804;Itai;ER Itapeva;José Ramiro Antunes Prado;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3521903;Itajobi;ER Sao Jose do Rio Preto;Sidiomar Ujaque;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3522000;Itaju;ER Bauru;Jerri De Souza Neiva;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3522109;Itanhaem;ER Baixada Santista;Tiago Rodrigues Cervantes;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3522158;Itaoca;ER Itapeva;Frederico Dias Batista;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3522208;Itapecerica da Serra;ER Sao Paulo;Ramon Pires Corsini;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3522307;Itapetininga;ER Sorocaba;Jeferson Rodrigo Brun;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3522406;Itapeva;ER Itapeva;Adriana Duch Machado;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3522505;Itapevi;ER Sao Paulo;Marcos Ferreira Godoy;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3522604;Itapira;ER Campinas;António Hélio Nicolai;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3522653;Itapirapua Paulista;ER Itapeva;Julio Cesar Do Amaral;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3522703;Itapolis;ER Araraquara;Vladimir Do Carmo Reggiani;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3522802;Itaporanga;ER Itapeva;Fabio Bruno Gurgel Benini;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3522901;Itapui;ER Bauru;Maria Clélia Viaro Pichelli;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3523008;Itapura;ER Aracatuba;Sergino Da Silva Prado;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3523107;Itaquaquecetuba;ER Sao Paulo;Eduardo Boigues Queroz;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3523206;Itarare;ER Itapeva;João Jorge Fadel Filho;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3523305;Itariri;ER Vale do Ribeira;Carlos Rocha Ribeiro;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3523404;Itatiba;ER Campinas;Thomás Antonio Capeletto De Oliveira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3523503;Itatinga;ER Sorocaba;Paulo Henrique De Oliveira Roque;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3523602;Itirapina;ER Campinas;Maria Da Graça Zucchi Moraes;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3523701;Itirapua;ER Franca;Gerson Luiz Alves;Valter Sene;Danielle (4019) / Andre (4018);;
-3523800;Itobi;ER Campinas;Joaquim Cândido Filho;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3523909;Itu;ER Sorocaba;Herculano Castilho Passos Junior;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3524006;Itupeva;ER Campinas;Rogerio Cavalin;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3524105;Ituverava;ER Franca;Luiz Antonio Araujo;Valter Sene;Danielle (4019) / Andre (4018);;
-3524204;Jaborandi;ER Barretos;Silvio Vaz De Almeida;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3524303;Jaboticabal;ER Ribeirao Preto;Emerson Rodrigo Camargo;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3524402;Jacarei;ER Sao Jose dos Campos;Celso Florêncio De Souza;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3524501;Jaci;ER Sao Jose do Rio Preto;Valéria Perpetuo Guimarães Henrique;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3524600;Jacupiranga;ER Vale do Ribeira;João Batista De Andrade;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3524709;Jaguariuna;ER Campinas;David Hilario Neto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3524808;Jales;ER Sao Jose do Rio Preto;Luis Henrique Dos Santos Moreira;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3524907;Jambeiro;ER Sao Jose dos Campos;Aries Marioto Ferreira;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3525003;Jandira;ER Sao Paulo;Henri Hajime Sato;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3525102;Jardinopolis;ER Ribeirao Preto;Antônio Carlos Degan;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3525201;Jarinu;ER Campinas;Débora Cristina Prado Belinello;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3525300;Jau;ER Bauru;Jorge Ivan Cassaro;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3525409;Jeriquara;ER Franca;Elaine Pinheiro De Paula Mansano Garcia;Valter Sene;Danielle (4019) / Andre (4018);;
-3525508;Joanopolis;ER Campinas;Cristiano Benedito;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3525607;Joao Ramalho;ER Marilia;Dirce Da Conceição Bubola Valejo;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3525706;Jose Bonifacio;ER Sao Jose do Rio Preto;Marcelo Cataruci De Almeida;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3525805;Julio Mesquita;ER Marilia;Elton Francisco De Brito;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3525854;Jumirim;ER Sorocaba;Daniel Vieira;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3525904;Jundiai;ER Campinas;Gustavo Martinelli;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3526001;Junqueiropolis;ER Presidente Prudente;Elio Furini Neto;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3526100;Juquia;ER Vale do Ribeira;Cicero Cirilo Dos Santos;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3526209;Juquitiba;ER Sao Paulo;Willians Soares Rodrigues;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3526308;Lagoinha;ER Sao Jose dos Campos;José Guilherme Correa Gomes;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3526407;Laranjal Paulista;ER Sorocaba;Antonio Valdecir Berto Filho;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3526506;Lavinia;ER Aracatuba;Salvador Cazuo Matsunaka;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3526605;Lavrinhas;ER Sao Jose dos Campos;Marcos Vinicius Franqueira Garcia;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3526704;Leme;ER Campinas;Claudemir Aparecido Borges;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3526803;Lencois Paulista;ER Bauru;André Paccola Sasso;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3526902;Limeira;ER Campinas;Murilo Berbet Avigo Félix;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3527009;Lindoia;ER Campinas;Luciano Francisco De Godoi Lopes;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3527108;Lins;ER Bauru;João Luis Lopes Pandolfi;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3527207;Lorena;ER Sao Jose dos Campos;Sylvio Ballerini;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3527256;Lourdes;ER Aracatuba;Odécio Rodrigues Da Silva;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3527306;Louveira;ER Campinas;Paulo Alberto Finamore;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3527405;Lucelia;ER Presidente Prudente;Tatiana Guilhermino Tazinazzio;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3527504;Lucianopolis;ER Bauru;Ademir Mantovanelli;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3527603;Luis Antonio;ER Ribeirao Preto;Rodrigo Mello Marques;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3527702;Luiziania;ER Aracatuba;Raphael Saraiva Barreto;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3527801;Lupercio;ER Marilia;Cleber Menegucci;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3527900;Lutecia;ER Marilia;Laudemir Leati;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3528007;Macatuba;ER Bauru;Anderson Ferreira;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3528106;Macaubal;ER Sao Jose do Rio Preto;Acácio Tardoque Ferreira;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3528205;Macedonia;ER Sao Jose do Rio Preto;Reginaldo Eloy Marcomini Dos Reis;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3528304;Magda;ER Sao Jose do Rio Preto;Rodolfo Ferreira Kama;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3528403;Mairinque;ER Sorocaba;Carlos Eduardo Thomaz Pedroso;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3528502;Mairipora;ER Sao Paulo;Walid Ali Hamid;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3528601;Manduri;ER Sorocaba;Paulo Roberto Martins;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3528700;Maraba Paulista;ER Presidente Prudente;Aparecido Nascimento Sobral;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3528809;Maracai;ER Marilia;Paulo Eduardo Da Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3528858;Marapoama;ER Sao Jose do Rio Preto;Lourenço Lorenceti;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3528908;Mariapolis;ER Presidente Prudente;Ricardo Mitsuro Watanabe;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3529005;Marilia;ER Marilia;Vinicius Almeida Camarinha;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3529104;Marinopolis;ER Sao Jose do Rio Preto;Evaldo Ribeiro;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3529203;Martinopolis;ER Presidente Prudente;Valdeci Soares Dos Santos Filho;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3529302;Matao;ER Araraquara;Aparecido Ferrari;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3529401;Maua;ER Sao Paulo;Francisco Marcelo De Oliveira;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3529500;Mendonca;ER Sao Jose do Rio Preto;Juliano Souza De Oliveira;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3529609;Meridiano;ER Sao Jose do Rio Preto;Fábio Paschoalinoto;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3529658;Mesopolis;ER Sao Jose do Rio Preto;Alex Rocha Pimentel;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3529708;Miguelopolis;ER Franca;Julio Ferreira Do Carmo;Valter Sene;Danielle (4019) / Andre (4018);;
-3529807;Mineiros do Tiete;ER Bauru;Luiz Gustavo Ferrarez;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3529906;Miracatu;ER Vale do Ribeira;Vinicius Brandão De Queiroz;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3530003;Mira Estrela;ER Sao Jose do Rio Preto;Gleice Aparecida Castrequini;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3530102;Mirandopolis;ER Aracatuba;Ederson Pantaleão De Souza;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3530201;Mirante do Paranapanema;ER Presidente Prudente;Eduardo Quesada Piazzalunga;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3530300;Mirassol;ER Sao Jose do Rio Preto;Edson Antonio Ermenegildo;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3530409;Mirassolandia;ER Sao Jose do Rio Preto;Célia Aparecida Fiamenghi Dos Santos Mat;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3530508;Mococa;ER Campinas;Eduardo Ribeiro Barison;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3530607;Mogi das Cruzes;ER Sao Paulo;Maria Luisa Piccolomini Bertaiolli;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3530706;Mogi Guacu;ER Campinas;Rodrigo Falsetti;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3530805;Mogi Mirim;ER Campinas;Paulo De Oliveira E Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3530904;Mombuca;ER Campinas;Everton Tiago Mora Pedroso;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3531001;Moncoes;ER Sao Jose do Rio Preto;Douglas Antônio Honorato;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3531100;Mongagua;ER Baixada Santista;Luiz Berbiz De Oliveira;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3531209;Monte Alegre do Sul;ER Campinas;José Rafael Vezzan;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3531308;Monte Alto;ER Ribeirao Preto;Maria Helena Aguiar Rettondini;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3531407;Monte Aprazivel;ER Sao Jose do Rio Preto;João Roberto Camargo;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3531506;Monte Azul Paulista;ER Barretos;Mardqueu Silvio França;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3531605;Monte Castelo;ER Presidente Prudente;Edson Carlos Oliveira Da Silva;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3531704;Monteiro Lobato;ER Sao Jose dos Campos;Edmar José De Araújo;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3531803;Monte Mor;ER Campinas;Murilo Antônio De Sousa Rinaldo;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3531902;Morro Agudo;ER Franca;Leandro César Silva Valadares;Valter Sene;Danielle (4019) / Andre (4018);;
-3532009;Morungaba;ER Campinas;Luis Fernando Miguel;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3532058;Motuca;ER Araraquara;Fabio De Menezes Chaves;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3532108;Murutinga do Sul;ER Aracatuba;Cristiano Eleuterio Soares Da Silva;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3532157;Nantes;ER Presidente Prudente;Marllon Jaffer Albano De Oliveira;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3532207;Narandiba;ER Presidente Prudente;Danillo Carvalho Dos Santos;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3532306;Natividade da Serra;ER Sao Jose dos Campos;Evail Augusto Dos Santos;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3532405;Nazare Paulista;ER Campinas;Avanilde Aparecida Gonzaga Canedo;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3532504;Neves Paulista;ER Sao Jose do Rio Preto;Edenilson Alexandre Roselli;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3532603;Nhandeara;ER Sao Jose do Rio Preto;Antônio Marques Do Nascimento Junior;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3532702;Nipoa;ER Sao Jose do Rio Preto;José Pedro Rampim;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3532801;Nova Alianca;ER Sao Jose do Rio Preto;Jurandir Barbosa De Morais;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3532827;Nova Campina;ER Itapeva;Antônio Isael De Oliveira Junior;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3532843;Nova Canaa Paulista;ER Sao Jose do Rio Preto;Thais Cristina Costa Moreira;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3532868;Nova Castilho;ER Aracatuba;Maicon Garcia Pirola;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3532900;Nova Europa;ER Araraquara;Lidiane Luize Rodrigues;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3533007;Nova Granada;ER Sao Jose do Rio Preto;Luiz Augusto Salvador;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3533106;Nova Guataporanga;ER Presidente Prudente;Jose Mauro Lourencetti;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3533205;Nova Independencia;ER Aracatuba;Fernando Macchi Santana;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3533254;Novais;ER Sao Jose do Rio Preto;Paulo César Dias Pinheiro;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3533304;Nova Luzitania;ER Aracatuba;Miguel José Araujo Junior;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3533403;Nova Odessa;ER Campinas;Cláudio José Schooder;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3533502;Novo Horizonte;ER Sao Jose do Rio Preto;Fabiano De Mello Belentani;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3533601;Nuporanga;ER Franca;Daniel Viana Melo;Valter Sene;Danielle (4019) / Andre (4018);;
-3533700;Ocaucu;ER Marilia;João Benedito Costa E Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3533809;Oleo;ER Marilia;Jordão Antonio Vidotto;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3533908;Olimpia;ER Barretos;Eugenio Jose Zuliani;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3534005;Onda Verde;ER Sao Jose do Rio Preto;Nilson Neves De Souza;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3534104;Oriente;ER Marilia;Geraldo Matheus Moris;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3534203;Orindiuva;ER Sao Jose do Rio Preto;Mireli Cristina Leite Ruvieri Martins;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3534302;Orlandia;ER Franca;Jorge Gabriel Grasi;Valter Sene;Danielle (4019) / Andre (4018);;
-3534401;Osasco;ER Sao Paulo;Gerson Dias Pessoa;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3534500;Oscar Bressane;ER Marilia;Anselmo Giroto;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3534609;Osvaldo Cruz;ER Presidente Prudente;Vera Lucia Alves;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3534708;Ourinhos;ER Marilia;Guilherme Andrew Gonçalves Da Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3534757;Ouroeste;ER Sao Jose do Rio Preto;Sebastião Carlos Silva;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3534807;Ouro Verde;ER Presidente Prudente;Julio Cesar De Mori Vecchiati;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3534906;Pacaembu;ER Presidente Prudente;João Francisco Mugnai Neves;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3535002;Palestina;ER Sao Jose do Rio Preto;Reinaldo Aparecido Da Cunha;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3535101;Palmares Paulista;ER Sao Jose do Rio Preto;Lucas Aparecido Da Assumção;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3535200;Palmeira D'Oeste;ER Sao Jose do Rio Preto;Valdir Semensati De Moraes;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3535309;Palmital;ER Marilia;Luis Gustavo Mendes Moraes;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3535408;Panorama;ER Presidente Prudente;Daniel Gênova;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3535507;Paraguacu Paulista;ER Marilia;Antonio Takashi Sasada;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3535606;Paraibuna;ER Sao Jose dos Campos;Heloisa Antunes De Farias Santos;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3535705;Paraiso;ER Sao Jose do Rio Preto;Osvalte José Bovoni;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3535804;Paranapanema;ER Itapeva;Rodolfo Hessel Fanganiello;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3535903;Paranapua;ER Sao Jose do Rio Preto;Daniel Junior Duran Pinatto;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3536000;Parapua;ER Marilia;Milton Mitio Iwayama;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3536109;Pardinho;ER Sorocaba;Cristiano Camargo Moreira;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3536208;Pariquera Acu;ER Vale do Ribeira;Wagner Bento Da Costa;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3536257;Parisi;ER Sao Jose do Rio Preto;Oclair Barão Bento;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3536307;Patrocinio Paulista;ER Franca;Mário Marcelo Carraro Bertelli;Valter Sene;Danielle (4019) / Andre (4018);;
-3536406;Pauliceia;ER Presidente Prudente;Antonio Simonato;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3536505;Paulinia;ER Campinas;Danilo Henrique Macedo De Barros;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3536570;Paulistania;ER Bauru;Luiz Carlos Marques;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3536604;Paulo de Faria;ER Sao Jose do Rio Preto;Dirceu Cassia Filho;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3536703;Pederneiras;ER Bauru;Ivana Maria Bertolini Camarinha;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3536802;Pedra Bela;ER Campinas;Vanderlei Lopes Da Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3536901;Pedranopolis;ER Sao Jose do Rio Preto;Fausto Luano Rosa;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3537008;Pedregulho;ER Franca;Carlos Eduardo Barbosa Teixeira;Valter Sene;Danielle (4019) / Andre (4018);;
-3537107;Pedreira;ER Campinas;Fabio Vinicius Polidoro;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3537156;Pedrinhas Paulista;ER Marilia;Freddie Costa Nicolau;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3537206;Pedro de Toledo;ER Vale do Ribeira;Paulo Eduardo Alves Ferreira;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3537305;Penapolis;ER Aracatuba;Carlos Henrique Rossi Catalani;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3537404;Pereira Barreto;ER Aracatuba;Herminio Barbosa Komatsu;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3537503;Pereiras;ER Sorocaba;Osmar Pasqualino Rodrigues Ramos Junior;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3537602;Peruibe;ER Baixada Santista;Felipe Antonio Colaço Bernardo;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3537701;Piacatu;ER Aracatuba;Ricardo Francisco Lemes Da Silva;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3537800;Piedade;ER Sorocaba;Geraldo Pinto De Camargo Filho;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3537909;Pilar do Sul;ER Sorocaba;Clayton Alvaro Machado;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3538006;Pindamonhangaba;ER Sao Jose dos Campos;Ricardo Alberto Pereira Piorino;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3538105;Pindorama;ER Sao Jose do Rio Preto;Geraldo Felippe Junior;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3538204;Pinhalzinho;ER Campinas;Sebastião Zanardi;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3538303;Piquerobi;ER Presidente Prudente;Adriana Crivelli Biffe;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3538501;Piquete;ER Sao Jose dos Campos;Romulo Kazimierz Luszczynski;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3538600;Piracaia;ER Campinas;André Henrique Rogério;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3538709;Piracicaba;ER Campinas;Helio Donizete Zanatta;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3538808;Piraju;ER Itapeva;Carlos Alberto Camargo Lima;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3538907;Pirajui;ER Bauru;Rosalina Sônia Dos Santos;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3539004;Pirangi;ER Barretos;Vanderlei Robson De Oliveira;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3539103;Pirapora do Bom Jesus;ER Sao Paulo;Gregório Rodrigues Pontes Maglio;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3539202;Pirapozinho;ER Presidente Prudente;Lucas Padovan Dos Santos Pavani;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3539301;Pirassununga;ER Campinas;Fernando Lubrechet;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3539400;Piratininga;ER Bauru;Carlos Alessandro Franco Borro De Matos;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3539509;Pitangueiras;ER Ribeirao Preto;Dimas Tadeu Bolsan;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3539608;Planalto;ER Sao Jose do Rio Preto;Rosimeire Barbosa Silvério;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3539707;Platina;ER Marilia;Donizete Aparecido Ferreira De Lima;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3539806;Poa;ER Sao Paulo;Saulo De Oliveira Souza;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3539905;Poloni;ER Sao Jose do Rio Preto;Andreia Luzia Fachini Brait;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3540002;Pompeia;ER Marilia;Diogo Montefusco Ceschim Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3540101;Pongai;ER Bauru;Gilhiard Henrique De Bortoli;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3540200;Pontal;ER Ribeirao Preto;José Carlos Neves Silva;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3540259;Pontalinda;ER Sao Jose do Rio Preto;Sisinio De Oliveira Leão;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3540309;Pontes Gestal;ER Sao Jose do Rio Preto;Marcel Dias Leite;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3540408;Populina;ER Sao Jose do Rio Preto;João Cézar Robles Brandini;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3540507;Porangaba;ER Sorocaba;João Carlos Alves Barros;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3540606;Porto Feliz;ER Sorocaba;Célio Peixoto Dos Santos;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3540705;Porto Ferreira;ER Araraquara;André Luís Anchão Braga;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3540754;Potim;ER Sao Jose dos Campos;Emerson Kiogi Tanaka;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3540804;Potirendaba;ER Sao Jose do Rio Preto;Gislaine Montanari Franzotti;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3540853;Pracinha;ER Presidente Prudente;Laercio Biasi;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3540903;Pradopolis;ER Ribeirao Preto;Saulo Emanuel Atique Filho;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3541000;Praia Grande;ER Baixada Santista;Alberto Pereira Mourão;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3541059;Pratania;ER Sorocaba;Osmir José Felix;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3541109;Presidente Alves;ER Bauru;Cristiano Dos Santos;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3541208;Presidente Bernardes;ER Presidente Prudente;Cleberson Duarte De Souza;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3541307;Presidente Epitacio;ER Presidente Prudente;André Ferraz Lima;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3541406;Presidente Prudente;ER Presidente Prudente;Milton Carlos De Mello;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3541505;Presidente Venceslau;ER Presidente Prudente;Bárbara Medeiros Vilches;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3541604;Promissao;ER Bauru;Hamilton Luis Foz;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3541653;Quadra;ER Sorocaba;Lheonides De Oliveira Andrade;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3541703;Quata;ER Marilia;Marcio Bidoia;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3541802;Queiroz;ER Marilia;Walter Rodrigo Da Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3541901;Queluz;ER Sao Jose dos Campos;José Celso Bueno;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3542008;Quintana;ER Marilia;Fernando Itapuã Branco Nunes;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3542107;Rafard;ER Campinas;Fábio Dos Santos;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3542206;Rancharia;ER Presidente Prudente;Homero Pinelli Severo Lins;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3542305;Redencao da Serra;ER Sao Jose dos Campos;Jucimar Ferreira Da Silva;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3542404;Regente Feijo;ER Presidente Prudente;Marco Antonio Pereira Da Rocha;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3542503;Reginopolis;ER Bauru;Jefferson Augusto Rodrigues Buava;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3542602;Registro;ER Vale do Ribeira;Samuel Moreira Da Silva Junior;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3542701;Restinga;ER Franca;Felipe Talvani Sontini;Valter Sene;Danielle (4019) / Andre (4018);;
-3542800;Ribeira;ER Itapeva;Ari Do Carmo Santos;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3542909;Ribeirao Bonito;ER Araraquara;Paulo Antonio Gobato Veiga;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3543006;Ribeirao Branco;ER Itapeva;Antonio Carlos Camargo Ribas;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3543105;Ribeirao Corrente;ER Franca;Ana Lourinete Costa Lobo Montanher;Valter Sene;Danielle (4019) / Andre (4018);;
-3543204;Ribeirao do Sul;ER Marilia;Eliana Maria Rorato Manso;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3543238;Ribeirao dos Indios;ER Presidente Prudente;Valdeci José Fernandes;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3543253;Ribeirao Grande;ER Itapeva;Marcelo Luis Nunes;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3543303;Ribeirao Pires;ER Sao Paulo;Luiz Gustavo Pinheiro Volpi;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3543402;Ribeirao Preto;ER Ribeirao Preto;Ricardo Augusto Machado Da Silva;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3543501;Riversul;ER Itapeva;Marcos Roberto Dos Santos;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3543600;Rifaina;ER Franca;Wilson Alves Da Silva Junior;Valter Sene;Danielle (4019) / Andre (4018);;
-3543709;Rincao;ER Araraquara;Braz Rodrigues;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3543808;Rinopolis;ER Marilia;Graziela De Lima Tomé Trevisan;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3543907;Rio Claro;ER Campinas;Gustavo Ramos Perissinotto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3544004;Rio das Pedras;ER Campinas;Marcos Buzetto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3544103;Rio Grande da Serra;ER Sao Paulo;Ricardo Akira Ono Auriani;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3544202;Riolandia;ER Sao Jose do Rio Preto;Antonio Carlos Santana Da Silva;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3544251;Rosana;ER Presidente Prudente;Claudemir Peres Francisco De Oliveira;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3544301;Roseira;ER Sao Jose dos Campos;Fernando Augusto De Siqueira;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3544400;Rubiacea;ER Aracatuba;Júlio César Felismino;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3544509;Rubineia;ER Sao Jose do Rio Preto;Alex Olivo;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3544608;Sabino;ER Bauru;Fernando Henrique Florindo;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3544707;Sagres;ER Presidente Prudente;Roberto Batista Pires;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3544806;Sales;ER Sao Jose do Rio Preto;Josemar Francisco De Abreu;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3544905;Sales Oliveira;ER Franca;Fabio Godoy Graton;Valter Sene;Danielle (4019) / Andre (4018);;
-3545001;Salesopolis;ER Sao Paulo;Rodolfo Rodrigues Marcondes;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3545100;Salmourao;ER Presidente Prudente;Sônia Cristina Jacon Gabau;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3545159;Saltinho;ER Campinas;Hélio Franzol Bernardino;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3545209;Salto;ER Sorocaba;José Geraldo Garcia;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3545308;Salto de Pirapora;ER Sorocaba;Matheus Marum De Campos;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3545407;Salto Grande;ER Marilia;Mario Luciano Rosa;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3545506;Sandovalina;ER Presidente Prudente;Marcos Mendes Da Silva;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3545605;Santa Adelia;ER Sao Jose do Rio Preto;Ciro Cesar Costa;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3545704;Santa Albertina;ER Sao Jose do Rio Preto;Gerson Formigoni Junior;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3545803;Santa Barbara D'Oeste;ER Campinas;Rafael Piovezan;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3546009;Santa Branca;ER Sao Jose dos Campos;Adriano Marchesani Levorin;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3546108;Santa Clara D'Oeste;ER Sao Jose do Rio Preto;José Basilio De Faria;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3546207;Santa Cruz da Conceicao;ER Campinas;Carlos Eduardo Aranha De Albuquerque;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3546256;Santa Cruz da Esperanca;ER Ribeirao Preto;Marcos Antonio Bazilio;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3546306;Santa Cruz das Palmeiras;ER Campinas;Luiz Fernando Stocco;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3546405;Santa Cruz do Rio Pardo;ER Marilia;Otacílio Parras Assis;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3546504;Santa Ernestina;ER Araraquara;José Carlos Simão;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3546603;Santa Fe do Sul;ER Sao Jose do Rio Preto;Evandro Farias Mura;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3546702;Santa Gertrudes;ER Campinas;Lázaro Noé Da Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3546801;Santa Isabel;ER Sao Paulo;Carlos Augusto Chinchilla Alfonzo;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3546900;Santa Lucia;ER Araraquara;Antonio Carlos Abuabud Junior;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3547007;Santa Maria da Serra;ER Campinas;Josias Zani Neto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3547106;Santa Mercedes;ER Presidente Prudente;Valdir Verona;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3547205;Santana da Ponte Pensa;ER Sao Jose do Rio Preto;Vagner Hernandes;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3547304;Santana de Parnaiba;ER Sao Paulo;Elvis Leonardo Cezar;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3547403;Santa Rita D'Oeste;ER Sao Jose do Rio Preto;Osmar Sampaio;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3547502;Santa Rita do Passa Quatro;ER Araraquara;Marcelo Simão;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3547601;Santa Rosa de Viterbo;ER Ribeirao Preto;Omar Nagib Moussa;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3547650;Santa Salete;ER Sao Jose do Rio Preto;Julio César Martins Miliatti;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3547700;Santo Anastacio;ER Presidente Prudente;Luiz Infante;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3547809;Santo Andre;ER Sao Paulo;Gilvan Ferreira De Souza Júnior;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3547908;Santo Antonio da Alegria;ER Ribeirao Preto;Denilson De Carvalho;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3548005;Santo Antonio de Posse;ER Campinas;José Ricardo Cortez;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3548054;Santo Antonio do Aracangua;ER Aracatuba;Luiz Carlos Dos Reis Nonato;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3548104;Santo Antonio do Jardim;ER Campinas;Osvaldo Moreira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3548203;Santo Antonio do Pinhal;ER Sao Jose dos Campos;Anderson José Mendonça;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3548302;Santo Expedito;ER Presidente Prudente;Anderson José Betio;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3548401;Santopolis do Aguapei;ER Aracatuba;Gerson Alves De Lima Junior;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3548500;Santos;ER Baixada Santista;Rogério Pereira Dos Santos;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3548609;Sao Bento do Sapucai;ER Sao Jose dos Campos;Gilberto Donizete De Souza;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3548708;Sao Bernardo do Campo;ER Sao Paulo;Marcelo De Lima Fernandes;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3548807;Sao Caetano do Sul;ER Sao Paulo;Anacleto Campanella Júnior;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3548906;Sao Carlos;ER Araraquara;Antonio Donato Netto;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3549003;Sao Francisco;ER Sao Jose do Rio Preto;Sebastião De Oliveira Baptista;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3549102;Sao Joao da Boa Vista;ER Campinas;Vanderlei Borges De Carvalho;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3549201;Sao Joao das Duas Pontes;ER Sao Jose do Rio Preto;José Carlos Baruci Junior;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3549250;Sao Joao de Iracema;ER Aracatuba;Luiz Augusto Torres;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3549300;Sao Joao do Pau D'Alho;ER Presidente Prudente;Lucas De Oliveira Barbosa;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3549409;Sao Joaquim da Barra;ER Franca;Wagner José Schmidt;Valter Sene;Danielle (4019) / Andre (4018);;
-3549508;Sao Jose da Bela Vista;ER Franca;Walter Cássio Carvalho Faccirolli;Valter Sene;Danielle (4019) / Andre (4018);;
-3549607;Sao Jose do Barreiro;ER Sao Jose dos Campos;Luis Eduardo Santos Ribeiro;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3549706;Sao Jose do Rio Pardo;ER Campinas;Marcio Callegari Zanetti;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3549805;Sao Jose do Rio Preto;ER Sao Jose do Rio Preto;Fábio Rogério Cândido;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3549904;Sao Jose dos Campos;ER Sao Jose dos Campos;Anderson Farias Ferreira;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3549953;Sao Lourenco da Serra;ER Sao Paulo;Felipe Geferson Seme Amed;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3550001;Sao Luis do Paraitinga;ER Sao Jose dos Campos;Alex Eusébio Torres;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3550100;Sao Manuel;ER Sorocaba;Odirlei José Felix;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3550209;Sao Miguel Arcanjo;ER Sorocaba;Elias Rodrigues De Paula;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3550308;Sao Paulo;ER Sao Paulo;Ricardo Luis Reis Nunes;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/sao-paulo/panorama
-3550407;Sao Pedro;ER Campinas;Thiago Silvério Da Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3550506;Sao Pedro do Turvo;ER Marilia;Luiz Felipe De Castro Tavares;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3550605;Sao Roque;ER Sorocaba;Marcos Augusto Issa Henriques De Araújo;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3550704;Sao Sebastiao;ER Sao Jose dos Campos;Reinaldo Alves Moreira Filho;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3550803;Sao Sebastiao da Grama;ER Campinas;José Francisco Martha;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3550902;Sao Simao;ER Ribeirao Preto;Izaias Leão De Souza;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3551009;Sao Vicente;ER Baixada Santista;Kayo Felype Nachtajler Amado;Sizue Yamaguti ;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3551108;Sarapui;ER Sorocaba;Gustavo De Souza Barros Vieira;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3551207;Sarutaia;ER Itapeva;João Antonio Fuloni;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3551306;Sebastianopolis do Sul;ER Sao Jose do Rio Preto;José Antônio Abreu Do Valle;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3551405;Serra Azul;ER Ribeirao Preto;Debora Cristina Ribeiro Da Silva;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3551504;Serrana;ER Ribeirao Preto;Leonardo Caressato Capiteli;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3551603;Serra Negra;ER Campinas;Elmir Kalil Abi Chedid;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3551702;Sertaozinho;ER Ribeirao Preto;José Alberto Gimenez;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3551801;Sete Barras;ER Vale do Ribeira;Ítalo Donizeth Costa Roberto;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3551900;Severinia;ER Barretos;Guilherme Augusto De Almeida Secchieri;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3552007;Silveiras;ER Sao Jose dos Campos;Edson Mendes Mota;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3552106;Socorro;ER Campinas;Mauricio De Oliveira Santos;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3552205;Sorocaba;ER Sorocaba;Rodrigo Maganhato;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3552304;Sud Mennucci;ER Aracatuba;José Urbino Dos Santos Neto;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3552403;Sumare;ER Campinas;Henrique Stein Sciascio;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3552502;Suzano;ER Sao Paulo;Pedro Charles Shirakawa Ishi;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3552551;Suzanapolis;ER Aracatuba;Gerso Antonio De Oliveria;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3552601;Tabapua;ER Sao Jose do Rio Preto;Silvio Cesar Sartorello;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3552700;Tabatinga;ER Araraquara;Valter Valentim Camargo;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3552809;Taboao Da Serra;ER Sao Paulo;Daniel Plana Bogalho;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3552908;Taciba;ER Presidente Prudente;Izidoro Arcesti Ricci;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3553005;Taguai;ER Itapeva;Eder Carlos Fogaça Da Cruz;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3553104;Taiacu;ER Barretos;Sueli Aparecida Mendes Biancardi;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3553203;Taiuva;ER Barretos;Mauro Vicente Bersi;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3553302;Tambau;ER Campinas;Leonardo Teixeira Spiga Real;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3553401;Tanabi;ER Sao Jose do Rio Preto;Alexandre Silveira Bertolini;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3553500;Tapirai;ER Sorocaba;Araldo Todesco;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3553609;Tapiratiba;ER Campinas;Ramon Jesus Vieira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3553658;Taquaral;ER Ribeirao Preto;Ari Fernando Jacinto;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;
-3553708;Taquaritinga;ER Araraquara;Fulvio Zuppani;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3553807;Taquarituba;ER Itapeva;Éder Miano Pereira;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3553856;Taquarivai;ER Itapeva;Rubens Carlos Souto De Barros;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3553906;Tarabai;ER Presidente Prudente;Rubens Pinaffi Junior;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3553955;Taruma;ER Marilia;Adriana Balejo Piedade Da Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3554003;Tatui;ER Sorocaba;Miguel Lopes Cardoso Junior;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3554102;Taubate;ER Sao Jose dos Campos;Sérgio Luiz Victor Júnior;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3554201;Tejupa;ER Itapeva;Valter Boranelli;Rosana Nascimento;Fabiana (4011) / Lais (4022);;
-3554300;Teodoro Sampaio;ER Presidente Prudente;Claudio Evangelista Da Silva Junior;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3554409;Terra Roxa;ER Barretos;Rogerio Rafael Furlin;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3554508;Tiete;ER Sorocaba;Jose Carlos Regonha Junior;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3554607;Timburi;ER Marilia;Cristiano Da Cunha Amorim;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3554656;Torre de Pedra;ER Sorocaba;Ciro Luiz Pedroso;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3554706;Torrinha;ER Campinas;Ari Rodolfo Buzato;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3554755;Trabiju;ER Araraquara;Marcelo Rodrigues Fonseca;Jorge Bredan;Elaine (4016) / Iris (4015);;
-3554805;Tremembe;ER Sao Jose dos Campos;Clemente Antonio De Lima Neto;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3554904;Tres Fronteiras;ER Sao Jose do Rio Preto;Flávio Luiz Renda De Oliveira;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3554953;Tuiuti;ER Campinas;Alexandre Tadeu Gonçalves;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3555000;Tupa;ER Marilia;Renan Victor Pontelli;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3555109;Tupi Paulista;ER Presidente Prudente;Juliano Vigiliato Guiro;Silvio Ushijima;Sandra (4021) / Thais (4020);;
-3555208;Turiuba;ER Aracatuba;Jorge Augusto Molina;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3555307;Turmalina;ER Sao Jose do Rio Preto;Priscilla Tatiana Dias Massoni;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3555356;Ubarana;ER Sao Jose do Rio Preto;Vanderlei Rodrigues Da Cruz;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3555406;Ubatuba;ER Sao Jose dos Campos;Flávia Comitte Do Nascimento;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;
-3555505;Ubirajara;ER Bauru;Leila Alvim Bordim;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3555604;Uchoa;ER Sao Jose do Rio Preto;José Claudio Martins;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3555703;Uniao Paulista;ER Sao Jose do Rio Preto;Kendrea Alves Papile Cavatão;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3555802;Urania;ER Sao Jose do Rio Preto;Ivan Soubhia Garcia;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3555901;Uru;ER Bauru;Robson Eduardo Forte;Marcelo Graziani;Elaine (4016) / Iris (4015);;
-3556008;Urupes;ER Sao Jose do Rio Preto;Roberto Cacciari Filho;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3556107;Valentim Gentil;ER Sao Jose do Rio Preto;Claudinei Carvassan Rodrigues;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3556206;Valinhos;ER Campinas;Franklin Duarte Da Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3556305;Valparaiso;ER Aracatuba;Carlos Alexandre Pereira;Elisabete dos Santos;Sandra (4021) / Thais (4020);;
-3556354;Vargem;ER Campinas;Leodécio Alves De Lima;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3556404;Vargem Grande do Sul;ER Campinas;Celso Luis Ribeiro;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3556453;Vargem Grande Paulista;ER Sao Paulo;Piter Aparecido Dos Santos;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;
-3556503;Varzea Paulista;ER Campinas;Rodolfo Wilson Rodrigues Braga;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3556602;Vera Cruz;ER Marilia;Rodolfo Silva Davoli;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3556701;Vinhedo;ER Campinas;Dario Pacheco De Morais;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
-3556800;Viradouro;ER Barretos;Nilton Augusto Alves Filho;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3556909;Vista Alegre do Alto;ER Barretos;Nelson Antonio Rozani;Raphael Dutra;Sandra (4021) / Thais (4020);;
-3556958;Vitoria Brasil;ER Sao Jose do Rio Preto;Paulo Henrique Miotto;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3557006;Votorantim;ER Sorocaba;Weber Maganhato Júnior;Fabiano Doretto;Elaine (4016) / Iris (4015);;
-3557105;Votuporanga;ER Sao Jose do Rio Preto;Jorge Augusto Seba;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3557154;Zacarias;ER Sao Jose do Rio Preto;Heder Jean Bruno De Oliveira;Igor Goncalves;Fabiana (4011) / Lais (4022);;
-3557204;Chavantes;ER Marilia;Luiz Filipe De Paula Jacinto;Walter Ihoshi;Danielle (4019) / Andre (4018);;
-3557303;Estiva Gerbi;ER Campinas;Marcio Roberto Pavan;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;
+CODIGO_IBGE;MUNICIPIO;REGIONAL;PREFEITO;DIRETOR_REGIONAL;ATENDENTE(RAMAL);OBSERVACAO;Link_IBGE
+3500105;Adamantina;ER Presidente Prudente;Jose Carlos Martins Tiveron;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/adamantina/panorama
+3500204;Adolfo;ER Sao Jose do Rio Preto;Ricardo Di Giorgio Robles;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/adolfo/panorama
+3500303;Aguai;ER Campinas;Gilberto Luiz Moraes Selber;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/aguai/panorama
+3500402;Aguas da Prata;ER Campinas;Carlos Henrique Fortes Dezena;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/aguas-da-prata/panorama
+3500501;Aguas de Lindoia;ER Campinas;Geraldo Mantovani Filho;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/aguas-de-lindoia/panorama
+3500550;Aguas de Santa Barbara;ER Sorocaba;Wilian Jose De Oliveira Meana;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/aguas-de-santa-barbara/panorama
+3500600;Aguas de Sao Pedro;ER Campinas;João Victor Barboza;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/aguas-de-sao-pedro/panorama
+3500709;Agudos;ER Bauru;Rafael Lima Fernandes;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/agudos/panorama
+3500758;Alambari;ER Sorocaba;João Paulo Dantas Pinto;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/alambari/panorama
+3500808;Alfredo Marcondes;ER Presidente Prudente;Celso Pirani Passos;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/alfredo-marcondes/panorama
+3500907;Altair;ER Barretos;Marco Antonio Ferreira;Raphael Dutra;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/altair/panorama
+3501004;Altinopolis;ER Ribeirao Preto;Huelder Donizete Malagutti Ferreira;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/altinopolis/panorama
+3501103;Alto Alegre;ER Aracatuba;Carlos Sussumi Ivama;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/alto-alegre/panorama
+3501152;Aluminio;ER Sorocaba;Ana Paula De Cassia Netto;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/aluminio/panorama
+3501202;Alvares Florence;ER Sao Jose do Rio Preto;Adilson Batista Leite;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/alvares-florence/panorama
+3501301;Alvares Machado;ER Presidente Prudente;Luiz Francisco Boigues;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/alvares-machado/panorama
+3501400;Alvaro de Carvalho;ER Marilia;Adilson De Oliveira Lopes;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/alvaro-de-carvalho/panorama
+3501509;Alvinlandia;ER Marilia;Antonio Ferreira De Moraes Junior;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/alvinlandia/panorama
+3501608;Americana;ER Campinas;Francisco Antonio Sardelli;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/americana/panorama
+3501707;Americo Brasiliense;ER Araraquara;Terezinha Aparecida Viveiros De Souza;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/americo-brasiliense/panorama
+3501806;Americo de Campos;ER Sao Jose do Rio Preto;Rafael Gimenez Marioto;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/americo-de-campos/panorama
+3501905;Amparo;ER Campinas;Carlos Alberto Martins;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/amparo/panorama
+3502002;Analandia;ER Campinas;Silvana Marcia Perin Campbell Penna;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/analandia/panorama
+3502101;Andradina;ER Aracatuba;Mário Celso Lopes;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/andradina/panorama
+3502200;Angatuba;ER Itapeva;Nicolas Basile Rochel;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/angatuba/panorama
+3502309;Anhembi;ER Sorocaba;Jairo De Gois;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/anhembi/panorama
+3502408;Anhumas;ER Presidente Prudente;Adailton Cesar Menossi;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/anhumas/panorama
+3502507;Aparecida;ER Sao Jose dos Campos;Jose Luiz Rodrigues;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/aparecida/panorama
+3502606;Aparecida D'Oeste;ER Sao Jose do Rio Preto;Izaias Aparecido Sanchez;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/aparecida-d'oeste/panorama
+3502705;Apiai;ER Itapeva;Sergio Victor Borges Barbosa;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/apiai/panorama
+3502754;Aracariguama;ER Sorocaba;Rodrigo De Andrade;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/aracariguama/panorama
+3502804;Aracatuba;ER Aracatuba;Lucas Pavan Zanatta;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/aracatuba/panorama
+3502903;Aracoiaba da Serra;ER Sorocaba;Jose Carlos De Quevedo Júnior;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/aracoiaba-da-serra/panorama
+3503000;Aramina;ER Franca;Luís Sergio Celeste Jorge;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/aramina/panorama
+3503109;Arandu;ER Itapeva;Flávio Carlomagno Galhego;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/arandu/panorama
+3503158;Arapei;ER Sao Jose dos Campos;Renê Lucio Gonçalves;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/arapei/panorama
+3503208;Araraquara;ER Araraquara;Luis Cláudio Lapena Barreto;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/araraquara/panorama
+3503307;Araras;ER Campinas;Irineu Norival Maretto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/araras/panorama
+3503356;Arco Iris;ER Marilia;Aldo Mansano Fernandes;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/arco-iris/panorama
+3503406;Arealva;ER Bauru;Paulo Juliano Nocolielo Junior;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/arealva/panorama
+3503505;Areias;ER Sao Jose dos Campos;Rodrigo Jose Ramos De Oliveira;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/areias/panorama
+3503604;Areiopolis;ER Sorocaba;Michel Hnerique Augusto;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/areiopolis/panorama
+3503703;Ariranha;ER Sao Jose do Rio Preto;Emerson Antonio Trovó;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/ariranha/panorama
+3503802;Artur Nogueira;ER Campinas;Lucas Sia Rissato;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/artur-nogueira/panorama
+3503901;Aruja;ER Sao Paulo;Luis Antonio De Camargo;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/aruja/panorama
+3503950;Aspasia;ER Sao Jose do Rio Preto;Ivan De Paula;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/aspasia/panorama
+3504008;Assis;ER Marilia;Telma Gonçalves Carneiro Spera De Andrad;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/assis/panorama
+3504107;Atibaia;ER Campinas;Daniel Da Rocha Martini;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/atibaia/panorama
+3504206;Auriflama;ER Aracatuba;Katia Conceição Morita De Carvalho;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/auriflama/panorama
+3504305;Avai;ER Bauru;Hellen Fernandes Rodrigues Coelho;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/avai/panorama
+3504404;Avanhandava;ER Aracatuba;Norberto Cesar Beraldo;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/avanhandava/panorama
+3504503;Avare;ER Sorocaba;Roberto De Araujo;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/avare/panorama
+3504602;Bady Bassitt;ER Sao Jose do Rio Preto;Janimeiri Catelani Buzzi;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/bady-bassitt/panorama
+3504701;Balbinos;ER Bauru;Jose Marcio Rigotto;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/balbinos/panorama
+3504800;Balsamo;ER Sao Jose do Rio Preto;Jose Eduardo Naliati Junior;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/balsamo/panorama
+3504909;Bananal;ER Sao Jose dos Campos;William Landim Da Silva;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/bananal/panorama
+3505005;Barao de Antonina;ER Itapeva;Rodrigo Waldemar Marques;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/barao-de-antonina/panorama
+3505104;Barbosa;ER Aracatuba;Rodrigo Primo Antunes;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/barbosa/panorama
+3505203;Bariri;ER Bauru;Airton Luis Pegoraro;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/bariri/panorama
+3505302;Barra Bonita;ER Bauru;Manoel Fabiano Ferreira Filho;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/barra-bonita/panorama
+3505351;Barra do Chapeu;ER Itapeva;Ivanil Norberto Pereira Nolasco;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/barra-do-chapeu/panorama
+3505401;Barra do Turvo;ER Vale do Ribeira;Victor Maruyama;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/barra-do-turvo/panorama
+3505500;Barretos;ER Barretos;Odair De Moura E Silva;Raphael Dutra;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/barretos/panorama
+3505609;Barrinha;ER Ribeirao Preto;Maria Lucia Teresinha Grotta;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/barrinha/panorama
+3505708;Barueri;ER Sao Paulo;Jose Roberto Piteri;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/barueri/panorama
+3505807;Bastos;ER Marilia;Kleber Lopes De Sousa;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/bastos/panorama
+3505906;Batatais;ER Franca;Luis Fernando Benedini Gaspar Júnior;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/batatais/panorama
+3506003;Bauru;ER Bauru;Suellen Silva Rosim;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/bauru/panorama
+3506102;Bebedouro;ER Barretos;Lucas Gibin Seren;Raphael Dutra;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/bebedouro/panorama
+3506201;Bento de Abreu;ER Aracatuba;Terezinha Do Carmo Salesse;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/bento-de-abreu/panorama
+3506300;Bernardino de Campos;ER Marilia;Wilson Jose Garcia;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/bernardino-de-campos/panorama
+3506359;Bertioga;ER Baixada Santista;Marcelo Heleno Vilares;Sizue Yamaguti;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/bertioga/panorama
+3506409;Bilac;ER Aracatuba;Antônio Ferreira Loureiro;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/bilac/panorama
+3506508;Birigui;ER Aracatuba;Samanta Paula Albani Borini;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/birigui/panorama
+3506607;Biritiba Mirim;ER Sao Paulo;Carlos Alberto Taino Junior;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/biritiba-mirim/panorama
+3506706;Boa Esperanca do Sul;ER Araraquara;Jose Manoel De Souza;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/boa-esperanca-do-sul/panorama
+3506805;Bocaina;ER Bauru;Caio Augusto Crepaldi;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/bocaina/panorama
+3506904;Bofete;ER Sorocaba;Eugênio Carlos Alves;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/bofete/panorama
+3507001;Boituva;ER Sorocaba;Edson Jose Marcusso;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/boituva/panorama
+3507100;Bom Jesus dos Perdoes;ER Campinas;Sergio Ferreira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/bom-jesus-dos-perdoes/panorama
+3507159;Bom Sucesso de Itarare;ER Itapeva;Dirceu Pacheco De Oliveira;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/bom-sucesso-de-itarare/panorama
+3507209;Bora;ER Marilia;Luiz Carlos Rodrigues;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/bora/panorama
+3507308;Boraceia;ER Bauru;Marcos Vinicio Bilancieri;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/boraceia/panorama
+3507407;Borborema;ER Araraquara;Sheila Maria Gonçalves De Oliveira;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/borborema/panorama
+3507456;Borebi;ER Bauru;Anderson Pinheiro Goes;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/borebi/panorama
+3507506;Botucatu;ER Sorocaba;Fábio Vieira De Souza Leite;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/botucatu/panorama
+3507605;Braganca Paulista;ER Campinas;Edmir Jose Abi Chedid;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/braganca-paulista/panorama
+3507704;Brauna;ER Aracatuba;Maicon Aparecido Subires Ribeiro;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/brauna/panorama
+3507753;Brejo Alegre;ER Aracatuba;Rafael Alves Dos Santos;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/brejo-alegre/panorama
+3507803;Brodowski;ER Ribeirao Preto;Fábio Maximiniano Vercezi Severi;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/brodowski/panorama
+3507902;Brotas;ER Campinas;Alexsandra Berto Brandão;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/brotas/panorama
+3508009;Buri;ER Itapeva;Germano Almeida Peschel;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/buri/panorama
+3508108;Buritama;ER Aracatuba;Tiago Luiz De Oliveira;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/buritama/panorama
+3508207;Buritizal;ER Franca;Daniel Sarreta;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/buritizal/panorama
+3508306;Cabralia Paulista;ER Bauru;Odemil Ortiz De Camargo;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/cabralia-paulista/panorama
+3508405;Cabreuva;ER Campinas;Noemi Medeiros Bernardes;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/cabreuva/panorama
+3508504;Cacapava;ER Sao Jose dos Campos;Yan Lopes De Almeida;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/cacapava/panorama
+3508603;Cachoeira Paulista;ER Sao Jose dos Campos;Breno Barbosa Anaya Xavier;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/cachoeira-paulista/panorama
+3508702;Caconde;ER Campinas;Jose Afonso De Paiva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/caconde/panorama
+3508801;Cafelandia;ER Bauru;Taís Fernanda Maimoni Contieri Santana;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/cafelandia/panorama
+3508900;Caiabu;ER Presidente Prudente;Suelen Nara Matos Mative;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/caiabu/panorama
+3509007;Caieiras;ER Sao Paulo;Gilmar Soares Vicente;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/caieiras/panorama
+3509106;Caiua;ER Presidente Prudente;Jayme Salvador Alves;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/caiua/panorama
+3509205;Cajamar;ER Sao Paulo;Kauan Berto Sousa Santos;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/cajamar/panorama
+3509254;Cajati;ER Vale do Ribeira;Luiz Henrique Koga;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/cajati/panorama
+3509304;Cajobi;ER Barretos;Marcio Donizeti Barbaelli;Raphael Dutra;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/cajobi/panorama
+3509403;Cajuru;ER Ribeirao Preto;Alex Moretini;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/cajuru/panorama
+3509452;Campina do Monte Alegre;ER Itapeva;Marcelo Lisboa Machado;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/campina-do-monte-alegre/panorama
+3509502;Campinas;ER Campinas;Dário Jorge Giolo Saadi;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/campinas/panorama
+3509601;Campo Limpo Paulista;ER Campinas;Adeildo Nogueira Da Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/campo-limpo-paulista/panorama
+3509700;Campos do Jordao;ER Sao Jose dos Campos;Carlos Eduardo Pereira Da Silva;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/campos-do-jordao/panorama
+3509809;Campos Novos Paulista;ER Marilia;Flavio Fermino Euflauzino;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/campos-novos-paulista/panorama
+3509908;Cananeia;ER Vale do Ribeira;Andre Nogueira Sanches;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/cananeia/panorama
+3509957;Canas;ER Sao Jose dos Campos;Gustavo Zanin Lucena Famadas;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/canas/panorama
+3510005;Candido Mota;ER Marilia;Eraldo Jose Pereira;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/candido-mota/panorama
+3510104;Candido Rodrigues;ER Araraquara;Tiago Alex Ravazzi;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/candido-rodrigues/panorama
+3510153;Canitar;ER Marilia;Joel Rodrigues;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/canitar/panorama
+3510203;Capao Bonito;ER Itapeva;Julio Fernando Galvão Dias;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/capao-bonito/panorama
+3510302;Capela do Alto;ER Sorocaba;Henrique Daniel Leme;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/capela-do-alto/panorama
+3510401;Capivari;ER Campinas;Vitor Hugo Riccomini;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/capivari/panorama
+3510500;Caraguatatuba;ER Sao Jose dos Campos;Mateus Veneziani Da Silva;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/caraguatatuba/panorama
+3510609;Carapicuiba;ER Sao Paulo;Jose Roberto Da Silva;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/carapicuiba/panorama
+3510708;Cardoso;ER Sao Jose do Rio Preto;Luís Paulo Bednarski Pedrassolli;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/cardoso/panorama
+3510807;Casa Branca;ER Campinas;Antônio Eduardo Marçon Nogueira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/casa-branca/panorama
+3510906;Cassia dos Coqueiros;ER Ribeirao Preto;Silvio Santos Dos Reis Faria;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/cassia-dos-coqueiros/panorama
+3511003;Castilho;ER Aracatuba;Paulo Duarte Boaventura;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/castilho/panorama
+3511102;Catanduva;ER Sao Jose do Rio Preto;Osvaldo De Oliveira Rosa;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/catanduva/panorama
+3511201;Catigua;ER Sao Jose do Rio Preto;Claudemir Jose Grava;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/catigua/panorama
+3511300;Cedral;ER Sao Jose do Rio Preto;Irineo Beolchi Junior;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/cedral/panorama
+3511409;Cerqueira Cesar;ER Sorocaba;Diego Augusto Berti Cinto;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/cerqueira-cesar/panorama
+3511508;Cerquilho;ER Sorocaba;Paulo Roberto Pilon;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/cerquilho/panorama
+3511607;Cesario Lange;ER Sorocaba;Ramiro De Campos;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/cesario-lange/panorama
+3511706;Charqueada;ER Campinas;Rodrigo De Arruda;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/charqueada/panorama
+3511904;Clementina;ER Aracatuba;Gilson Roberto Rodrigues Criolezio;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/clementina/panorama
+3512001;Colina;ER Barretos;Valdemir Antonio Moralles;Raphael Dutra;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/colina/panorama
+3512100;Colombia;ER Barretos;Julio Cesar Dos Santos;Raphael Dutra;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/colombia/panorama
+3512209;Conchal;ER Campinas;Orlando Caleffi Junior;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/conchal/panorama
+3512308;Conchas;ER Sorocaba;Paulo Nunes De Almeida;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/conchas/panorama
+3512407;Cordeiropolis;ER Campinas;Maria Cristina Degaspari Abrahão Saad;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/cordeiropolis/panorama
+3512506;Coroados;ER Aracatuba;Roberto Carrilho Alves;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/coroados/panorama
+3512605;Coronel Macedo;ER Itapeva;Diego Garcia Batista;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/coronel-macedo/panorama
+3512704;Corumbatai;ER Campinas;João Batista Altarugio Filho;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/corumbatai/panorama
+3512803;Cosmopolis;ER Campinas;Antonio Claudio Felisbino Junior;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/cosmopolis/panorama
+3512902;Cosmorama;ER Sao Jose do Rio Preto;Nelson Narciso Da Silveira Junior;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/cosmorama/panorama
+3513009;Cotia;ER Sao Paulo;Wellington Aparecido Alfredo;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/cotia/panorama
+3513108;Cravinhos;ER Ribeirao Preto;Itamar Gomes Bueno;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/cravinhos/panorama
+3513207;Cristais Paulista;ER Franca;Elson Gomes Dos Santos;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/cristais-paulista/panorama
+3513306;Cruzalia;ER Marilia;Arildo Osmar De Moro;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/cruzalia/panorama
+3513405;Cruzeiro;ER Sao Jose dos Campos;Jose Kleber Lima Silveira Junior;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/cruzeiro/panorama
+3513504;Cubatao;ER Baixada Santista;Cesar Da Silva Nascimento;Sizue Yamaguti;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/cubatao/panorama
+3513603;Cunha;ER Sao Jose dos Campos;Rodrigo Sergio Do Nascimento;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/cunha/panorama
+3513702;Descalvado;ER Araraquara;Luis Guilherme Panone;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/descalvado/panorama
+3513801;Diadema;ER Sao Paulo;Takaharu Yamauchi;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/diadema/panorama
+3513850;Dirce Reis;ER Sao Jose do Rio Preto;Marcelo Jose Bernardo;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/dirce-reis/panorama
+3513900;Divinolandia;ER Campinas;Antônio De Pádua Aquisti;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/divinolandia/panorama
+3514007;Dobrada;ER Araraquara;Antonio Carlos De Mattos Santos;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/dobrada/panorama
+3514106;Dois Corregos;ER Bauru;Alceu Antonio Mazziero;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/dois-corregos/panorama
+3514205;Dolcinopolis;ER Sao Jose do Rio Preto;Diego Aparecido Pereira Miguel;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/dolcinopolis/panorama
+3514304;Dourado;ER Araraquara;Luiz Antonio Rogante Junior;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/dourado/panorama
+3514403;Dracena;ER Presidente Prudente;Geni Pereira Lobo Pesin;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/dracena/panorama
+3514502;Duartina;ER Bauru;Suzy Helena Simão Blagitz Ferraz;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/duartina/panorama
+3514601;Dumont;ER Ribeirao Preto;Rogerson Aparecido Bujarloin Ruiz;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/dumont/panorama
+3514700;Echapora;ER Marilia;Ronaldo Gazeta;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/echapora/panorama
+3514809;Eldorado;ER Vale do Ribeira;Noel Castelo Da Costa;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/eldorado/panorama
+3514908;Elias Fausto;ER Campinas;Joaquim Antônio De Campos Bicudo;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/elias-fausto/panorama
+3514924;ElisiArio;ER Sao Jose do Rio Preto;Cassio Roberto Bertelli;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/elisiario/panorama
+3514957;Embauba;ER Barretos;Nercilio Pinheiro Da Silva;Raphael Dutra;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/embauba/panorama
+3515004;Embu das Artes;ER Sao Paulo;Hugo Do Prado Santos;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/embu-das-artes/panorama
+3515103;Embu Guacu;ER Sao Paulo;Andre George Neres De Farias;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/embu-guacu/panorama
+3515129;Emilianopolis;ER Presidente Prudente;Elton Munhoz De Souza;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/emilianopolis/panorama
+3515152;Engenheiro Coelho;ER Campinas;Pedro Franco De Oliveira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/engenheiro-coelho/panorama
+3515186;Espirito Santo do Pinhal;ER Campinas;Sergio Del Bianchi Junior;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/espirito-santo-do-pinhal/panorama
+3515194;Espirito Santo do Turvo;ER Marilia;Gilberto Nascimento Bertolino;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/espirito-santo-do-turvo/panorama
+3515202;Estrela D'Oeste;ER Sao Jose do Rio Preto;Pedro De Senzi Neto;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/estrela-d'oeste/panorama
+3515301;Estrela do Norte;ER Presidente Prudente;Alberto Martins De Oliveira;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/estrela-do-norte/panorama
+3515350;Euclides da Cunha Paulista;ER Presidente Prudente;Domingos Mente Lopes;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/euclides-da-cunha-paulista/panorama
+3515400;Fartura;ER Itapeva;Luiz Marcos De Souza;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/fartura/panorama
+3515509;Fernandopolis;ER Sao Jose do Rio Preto;João Paulo Sales Cantarella;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/fernandopolis/panorama
+3515608;Fernando Prestes;ER Araraquara;Mariel Sebastião Rocha;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/fernando-prestes/panorama
+3515657;Fernao;ER Marilia;Eber Rogerio Assis;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/fernao/panorama
+3515707;Ferraz de Vasconcelos;ER Sao Paulo;Priscila Conceição Gambale Vieira Matos;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/ferraz-de-vasconcelos/panorama
+3515806;Flora Rica;ER Presidente Prudente;Fabio Luiz Florentino De Faria;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/flora-rica/panorama
+3515905;Floreal;ER Sao Jose do Rio Preto;Raul Scalon;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/floreal/panorama
+3516002;Florida Paulista;ER Presidente Prudente;Jose Andriotti;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/florida-paulista/panorama
+3516101;Florinea;ER Marilia;Sergio Lopes Da Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/florinea/panorama
+3516200;Franca;ER Franca;Alexandre Augusto Ferreira;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/franca/panorama
+3516309;Francisco Morato;ER Sao Paulo;Ildo Da Silva Gusmão;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/francisco-morato/panorama
+3516408;Franco da Rocha;ER Sao Paulo;Lorena Rodrigues Oliveira;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/franco-da-rocha/panorama
+3516507;Gabriel Monteiro;ER Aracatuba;Renee Crema Vidoto;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/gabriel-monteiro/panorama
+3516606;Galia;ER Marilia;Jose Silvino Zaniboni Junior;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/galia/panorama
+3516705;Garca;ER Marilia;Jose Alcides Faneco;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/garca/panorama
+3516804;Gastao Vidigal;ER Aracatuba;Daniel Guarnieri Criado;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/gastao-vidigal/panorama
+3516853;Gaviao Peixoto;ER Araraquara;Adriano Marçal Da Silva;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/gaviao-peixoto/panorama
+3516903;General Salgado;ER Aracatuba;Thiago Francisquini Viana;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/general-salgado/panorama
+3517000;Getulina;ER Bauru;Mario Tadeu Celestino Ribeiro;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/getulina/panorama
+3517109;Glicerio;ER Aracatuba;Hairton Kelsine Carvalho Oliveira;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/glicerio/panorama
+3517208;Guaicara;ER Bauru;Flavia Ramos Bittencourt Leão Cabral;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/guaicara/panorama
+3517307;Guaimbe;ER Bauru;Marcia Helena Pereira Cabral Achilles;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/guaimbe/panorama
+3517406;Guaira;ER Barretos;Antonio Manoel Da Silva Junior;Raphael Dutra;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/guaira/panorama
+3517505;Guapiacu;ER Sao Jose do Rio Preto;Carlos Cesar Zaitune;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/guapiacu/panorama
+3517604;Guapiara;ER Itapeva;Jose Matheus Rodolfo De Freitas;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/guapiara/panorama
+3517703;Guara;ER Franca;Filipe Furtado Da Rocha;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/guara/panorama
+3517802;Guaracai;ER Aracatuba;Airton Jose Gomes;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/guaracai/panorama
+3517901;Guaraci;ER Barretos;Renato Azeda Ribeiro De Aguiar;Raphael Dutra;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/guaraci/panorama
+3518008;Guarani D'Oeste;ER Sao Jose do Rio Preto;Edimilson Pires Do Carmo;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/guarani-d'oeste/panorama
+3518107;Guaranta;ER Bauru;Marcos Roberto Frugeri;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/guaranta/panorama
+3518206;Guararapes;ER Aracatuba;Alex Peramo De Arruda;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/guararapes/panorama
+3518305;Guararema;ER Sao Paulo;Jose Luiz Eroles Freire;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/guararema/panorama
+3518404;Guaratingueta;ER Sao Jose dos Campos;Antonio Gilberto Filippo Fernandes Junio;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/guaratingueta/panorama
+3518503;Guarei;ER Sorocaba;Reinaldo Vicente De Souza;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/guarei/panorama
+3518602;Guariba;ER Ribeirao Preto;Dr Francisco Dias Mançano Junior;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/guariba/panorama
+3518701;Guaruja;ER Baixada Santista;Farid Said Madi;Sizue Yamaguti;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/guaruja/panorama
+3518800;Guarulhos;ER Sao Paulo;Lucas Sanches Promessia;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/guarulhos/panorama
+3518859;Guatapara;ER Ribeirao Preto;Ailton Aparecido Da Silva;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/guatapara/panorama
+3518909;Guzolandia;ER Aracatuba;Luiz Antônio Pereira De Carvalho;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/guzolandia/panorama
+3519006;Herculandia;ER Marilia;Paulo Sergio De Oliveira;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/herculandia/panorama
+3519055;Holambra;ER Campinas;Fernando Henrique Capato;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/holambra/panorama
+3519071;Hortolandia;ER Campinas;Jose Nazareno Zeze Gomes;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/hortolandia/panorama
+3519105;Iacanga;ER Bauru;Aparecida De Fátima Pinheiro;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/iacanga/panorama
+3519204;Iacri;ER Marilia;Cleber Rogerio Cerbantes Panhozzi;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/iacri/panorama
+3519253;Iaras;ER Sorocaba;Patrick Hernandes Morales;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/iaras/panorama
+3519303;Ibate;ER Araraquara;Ronaldo Rodrigo Venturi;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/ibate/panorama
+3519402;Ibira;ER Sao Jose do Rio Preto;Nivaldo Domingos Negrão;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/ibira/panorama
+3519501;Ibirarema;ER Marilia;Jose Benedito Camacho;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/ibirarema/panorama
+3519600;Ibitinga;ER Araraquara;Florisvaldo Antônio Fiorentino;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/ibitinga/panorama
+3519709;Ibiuna;ER Sorocaba;Mario Pires De Oliveira Filho;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/ibiuna/panorama
+3519808;Icem;ER Sao Jose do Rio Preto;Aparecida Salisso;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/icem/panorama
+3519907;Iepe;ER Presidente Prudente;Marta Patricia Stonis Da Costa;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/iepe/panorama
+3520004;Igaracu do Tiete;ER Bauru;Carlos Alberto Varasquim;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/igaracu-do-tiete/panorama
+3520103;Igarapava;ER Franca;Jose Humberto Lacerda Rodrigues;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/igarapava/panorama
+3520202;Igarata;ER Sao Jose dos Campos;Gabriel Gomes Prianti De Jesus;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/igarata/panorama
+3520301;Iguape;ER Vale do Ribeira;Salvador Jose Barbora Junior;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/iguape/panorama
+3520400;Ilhabela;ER Sao Jose dos Campos;Antonio Luiz Colucci;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/ilhabela/panorama
+3520426;Ilha Comprida;ER Vale do Ribeira;Maristela Osorio De Marques Cardona;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/ilha-comprida/panorama
+3520442;Ilha Solteira;ER Aracatuba;Rodrigo Batista Gonçalves;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/ilha-solteira/panorama
+3520509;Indaiatuba;ER Campinas;Custódio Tavares Dias Neto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/indaiatuba/panorama
+3520608;Indiana;ER Presidente Prudente;Wheslen Thiego Scaione Cachoeira;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/indiana/panorama
+3520707;Indiapora;ER Sao Jose do Rio Preto;Bernadete Aparecida Santana Ribeiro Spon;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/indiapora/panorama
+3520806;Inubia Paulista;ER Presidente Prudente;Fernando Rossi;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/inubia-paulista/panorama
+3520905;Ipaussu;ER Marilia;Luiz Carlos Souto;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/ipaussu/panorama
+3521002;Ipero;ER Sorocaba;Leonardo Roberto Folim;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/ipero/panorama
+3521101;Ipeuna;ER Campinas;Maria Luisa Zanoni Prata;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/ipeuna/panorama
+3521150;Ipigua;ER Sao Jose do Rio Preto;Efraim Garcia Lopes;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/ipigua/panorama
+3521200;Iporanga;ER Itapeva;Marcos Dos Santos Domingos;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/iporanga/panorama
+3521309;Ipua;ER Franca;Ronywerton Marcelo Alves Pereira;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/ipua/panorama
+3521408;Iracemapolis;ER Campinas;Nelita Cristina Michel Franceschini;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/iracemapolis/panorama
+3521507;Irapua;ER Sao Jose do Rio Preto;Reni Aparecida Da Silva;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/irapua/panorama
+3521606;Irapuru;ER Presidente Prudente;Ademar Calegão;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/irapuru/panorama
+3521705;Itabera;ER Itapeva;Celio Ronaldo Gomes De Lima;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/itabera/panorama
+3521804;Itai;ER Itapeva;Jose Ramiro Antunes Prado;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/itai/panorama
+3521903;Itajobi;ER Sao Jose do Rio Preto;Sidiomar Ujaque;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/itajobi/panorama
+3522000;Itaju;ER Bauru;Jerri De Souza Neiva;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/itaju/panorama
+3522109;Itanhaem;ER Baixada Santista;Tiago Rodrigues Cervantes;Sizue Yamaguti;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/itanhaem/panorama
+3522158;Itaoca;ER Itapeva;Frederico Dias Batista;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/itaoca/panorama
+3522208;Itapecerica da Serra;ER Sao Paulo;Ramon Pires Corsini;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/itapecerica-da-serra/panorama
+3522307;Itapetininga;ER Sorocaba;Jeferson Rodrigo Brun;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/itapetininga/panorama
+3522406;Itapeva;ER Itapeva;Adriana Duch Machado;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/itapeva/panorama
+3522505;Itapevi;ER Sao Paulo;Marcos Ferreira Godoy;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/itapevi/panorama
+3522604;Itapira;ER Campinas;António Helio Nicolai;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/itapira/panorama
+3522653;Itapirapua Paulista;ER Itapeva;Julio Cesar Do Amaral;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/itapirapua-paulista/panorama
+3522703;Itapolis;ER Araraquara;Vladimir Do Carmo Reggiani;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/itapolis/panorama
+3522802;Itaporanga;ER Itapeva;Fabio Bruno Gurgel Benini;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/itaporanga/panorama
+3522901;Itapui;ER Bauru;Maria Clelia Viaro Pichelli;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/itapui/panorama
+3523008;Itapura;ER Aracatuba;Sergino Da Silva Prado;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/itapura/panorama
+3523107;Itaquaquecetuba;ER Sao Paulo;Eduardo Boigues Queroz;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/itaquaquecetuba/panorama
+3523206;Itarare;ER Itapeva;João Jorge Fadel Filho;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/itarare/panorama
+3523305;Itariri;ER Vale do Ribeira;Carlos Rocha Ribeiro;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/itariri/panorama
+3523404;Itatiba;ER Campinas;Thomás Antonio Capeletto De Oliveira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/itatiba/panorama
+3523503;Itatinga;ER Sorocaba;Paulo Henrique De Oliveira Roque;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/itatinga/panorama
+3523602;Itirapina;ER Campinas;Maria Da Graça Zucchi Moraes;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/itirapina/panorama
+3523701;Itirapua;ER Franca;Gerson Luiz Alves;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/itirapua/panorama
+3523800;Itobi;ER Campinas;Joaquim Cândido Filho;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/itobi/panorama
+3523909;Itu;ER Sorocaba;Herculano Castilho Passos Junior;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/itu/panorama
+3524006;Itupeva;ER Campinas;Rogerio Cavalin;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/itupeva/panorama
+3524105;Ituverava;ER Franca;Luiz Antonio Araujo;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/ituverava/panorama
+3524204;Jaborandi;ER Barretos;Silvio Vaz De Almeida;Raphael Dutra;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/jaborandi/panorama
+3524303;Jaboticabal;ER Ribeirao Preto;Emerson Rodrigo Camargo;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/jaboticabal/panorama
+3524402;Jacarei;ER Sao Jose dos Campos;Celso Florêncio De Souza;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/jacarei/panorama
+3524501;Jaci;ER Sao Jose do Rio Preto;Valeria Perpetuo Guimarães Henrique;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/jaci/panorama
+3524600;Jacupiranga;ER Vale do Ribeira;João Batista De Andrade;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/jacupiranga/panorama
+3524709;Jaguariuna;ER Campinas;David Hilario Neto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/jaguariuna/panorama
+3524808;Jales;ER Sao Jose do Rio Preto;Luis Henrique Dos Santos Moreira;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/jales/panorama
+3524907;Jambeiro;ER Sao Jose dos Campos;Aries Marioto Ferreira;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/jambeiro/panorama
+3525003;Jandira;ER Sao Paulo;Henri Hajime Sato;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/jandira/panorama
+3525102;Jardinopolis;ER Ribeirao Preto;Antônio Carlos Degan;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/jardinopolis/panorama
+3525201;Jarinu;ER Campinas;Debora Cristina Prado Belinello;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/jarinu/panorama
+3525300;Jau;ER Bauru;Jorge Ivan Cassaro;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/jau/panorama
+3525409;Jeriquara;ER Franca;Elaine Pinheiro De Paula Mansano Garcia;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/jeriquara/panorama
+3525508;Joanopolis;ER Campinas;Cristiano Benedito;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/joanopolis/panorama
+3525607;Joao Ramalho;ER Marilia;Dirce Da Conceição Bubola Valejo;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/joao-ramalho/panorama
+3525706;Jose Bonifacio;ER Sao Jose do Rio Preto;Marcelo Cataruci De Almeida;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/jose-bonifacio/panorama
+3525805;Julio Mesquita;ER Marilia;Elton Francisco De Brito;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/julio-mesquita/panorama
+3525854;Jumirim;ER Sorocaba;Daniel Vieira;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/jumirim/panorama
+3525904;Jundiai;ER Campinas;Gustavo Martinelli;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/jundiai/panorama
+3526001;Junqueiropolis;ER Presidente Prudente;Elio Furini Neto;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/junqueiropolis/panorama
+3526100;Juquia;ER Vale do Ribeira;Cicero Cirilo Dos Santos;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/juquia/panorama
+3526209;Juquitiba;ER Sao Paulo;Willians Soares Rodrigues;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/juquitiba/panorama
+3526308;Lagoinha;ER Sao Jose dos Campos;Jose Guilherme Correa Gomes;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/lagoinha/panorama
+3526407;Laranjal Paulista;ER Sorocaba;Antonio Valdecir Berto Filho;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/laranjal-paulista/panorama
+3526506;Lavinia;ER Aracatuba;Salvador Cazuo Matsunaka;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/lavinia/panorama
+3526605;Lavrinhas;ER Sao Jose dos Campos;Marcos Vinicius Franqueira Garcia;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/lavrinhas/panorama
+3526704;Leme;ER Campinas;Claudemir Aparecido Borges;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/leme/panorama
+3526803;Lencois Paulista;ER Bauru;Andre Paccola Sasso;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/lencois-paulista/panorama
+3526902;Limeira;ER Campinas;Murilo Berbet Avigo Felix;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/limeira/panorama
+3527009;Lindoia;ER Campinas;Luciano Francisco De Godoi Lopes;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/lindoia/panorama
+3527108;Lins;ER Bauru;João Luis Lopes Pandolfi;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/lins/panorama
+3527207;Lorena;ER Sao Jose dos Campos;Sylvio Ballerini;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/lorena/panorama
+3527256;Lourdes;ER Aracatuba;Odecio Rodrigues Da Silva;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/lourdes/panorama
+3527306;Louveira;ER Campinas;Paulo Alberto Finamore;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/louveira/panorama
+3527405;Lucelia;ER Presidente Prudente;Tatiana Guilhermino Tazinazzio;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/lucelia/panorama
+3527504;Lucianopolis;ER Bauru;Ademir Mantovanelli;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/lucianopolis/panorama
+3527603;Luis Antonio;ER Ribeirao Preto;Rodrigo Mello Marques;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/luis-antonio/panorama
+3527702;Luiziania;ER Aracatuba;Raphael Saraiva Barreto;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/luiziania/panorama
+3527801;Lupercio;ER Marilia;Cleber Menegucci;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/lupercio/panorama
+3527900;Lutecia;ER Marilia;Laudemir Leati;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/lutecia/panorama
+3528007;Macatuba;ER Bauru;Anderson Ferreira;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/macatuba/panorama
+3528106;Macaubal;ER Sao Jose do Rio Preto;Acácio Tardoque Ferreira;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/macaubal/panorama
+3528205;Macedonia;ER Sao Jose do Rio Preto;Reginaldo Eloy Marcomini Dos Reis;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/macedonia/panorama
+3528304;Magda;ER Sao Jose do Rio Preto;Rodolfo Ferreira Kama;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/magda/panorama
+3528403;Mairinque;ER Sorocaba;Carlos Eduardo Thomaz Pedroso;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/mairinque/panorama
+3528502;Mairipora;ER Sao Paulo;Walid Ali Hamid;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/mairipora/panorama
+3528601;Manduri;ER Sorocaba;Paulo Roberto Martins;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/manduri/panorama
+3528700;Maraba Paulista;ER Presidente Prudente;Aparecido Nascimento Sobral;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/maraba-paulista/panorama
+3528809;Maracai;ER Marilia;Paulo Eduardo Da Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/maracai/panorama
+3528858;Marapoama;ER Sao Jose do Rio Preto;Lourenço Lorenceti;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/marapoama/panorama
+3528908;Mariapolis;ER Presidente Prudente;Ricardo Mitsuro Watanabe;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/mariapolis/panorama
+3529005;Marilia;ER Marilia;Vinicius Almeida Camarinha;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/marilia/panorama
+3529104;Marinopolis;ER Sao Jose do Rio Preto;Evaldo Ribeiro;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/marinopolis/panorama
+3529203;Martinopolis;ER Presidente Prudente;Valdeci Soares Dos Santos Filho;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/martinopolis/panorama
+3529302;Matao;ER Araraquara;Aparecido Ferrari;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/matao/panorama
+3529401;Maua;ER Sao Paulo;Francisco Marcelo De Oliveira;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/maua/panorama
+3529500;Mendonca;ER Sao Jose do Rio Preto;Juliano Souza De Oliveira;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/mendonca/panorama
+3529609;Meridiano;ER Sao Jose do Rio Preto;Fábio Paschoalinoto;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/meridiano/panorama
+3529658;Mesopolis;ER Sao Jose do Rio Preto;Alex Rocha Pimentel;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/mesopolis/panorama
+3529708;Miguelopolis;ER Franca;Julio Ferreira Do Carmo;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/miguelopolis/panorama
+3529807;Mineiros do Tiete;ER Bauru;Luiz Gustavo Ferrarez;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/mineiros-do-tiete/panorama
+3529906;Miracatu;ER Vale do Ribeira;Vinicius Brandão De Queiroz;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/miracatu/panorama
+3530003;Mira Estrela;ER Sao Jose do Rio Preto;Gleice Aparecida Castrequini;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/mira-estrela/panorama
+3530102;Mirandopolis;ER Aracatuba;Ederson Pantaleão De Souza;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/mirandopolis/panorama
+3530201;Mirante do Paranapanema;ER Presidente Prudente;Eduardo Quesada Piazzalunga;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/mirante-do-paranapanema/panorama
+3530300;Mirassol;ER Sao Jose do Rio Preto;Edson Antonio Ermenegildo;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/mirassol/panorama
+3530409;Mirassolandia;ER Sao Jose do Rio Preto;Celia Aparecida Fiamenghi Dos Santos Mat;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/mirassolandia/panorama
+3530508;Mococa;ER Campinas;Eduardo Ribeiro Barison;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/mococa/panorama
+3530607;Mogi das Cruzes;ER Sao Paulo;Maria Luisa Piccolomini Bertaiolli;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/mogi-das-cruzes/panorama
+3530706;Mogi Guacu;ER Campinas;Rodrigo Falsetti;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/mogi-guacu/panorama
+3530805;Mogi Mirim;ER Campinas;Paulo De Oliveira E Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/mogi-mirim/panorama
+3530904;Mombuca;ER Campinas;Everton Tiago Mora Pedroso;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/mombuca/panorama
+3531001;Moncoes;ER Sao Jose do Rio Preto;Douglas Antônio Honorato;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/moncoes/panorama
+3531100;Mongagua;ER Baixada Santista;Luiz Berbiz De Oliveira;Sizue Yamaguti;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/mongagua/panorama
+3531209;Monte Alegre do Sul;ER Campinas;Jose Rafael Vezzan;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/monte-alegre-do-sul/panorama
+3531308;Monte Alto;ER Ribeirao Preto;Maria Helena Aguiar Rettondini;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/monte-alto/panorama
+3531407;Monte Aprazivel;ER Sao Jose do Rio Preto;João Roberto Camargo;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/monte-aprazivel/panorama
+3531506;Monte Azul Paulista;ER Barretos;Mardqueu Silvio França;Raphael Dutra;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/monte-azul-paulista/panorama
+3531605;Monte Castelo;ER Presidente Prudente;Edson Carlos Oliveira Da Silva;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/monte-castelo/panorama
+3531704;Monteiro Lobato;ER Sao Jose dos Campos;Edmar Jose De Araújo;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/monteiro-lobato/panorama
+3531803;Monte Mor;ER Campinas;Murilo Antônio De Sousa Rinaldo;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/monte-mor/panorama
+3531902;Morro Agudo;ER Franca;Leandro Cesar Silva Valadares;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/morro-agudo/panorama
+3532009;Morungaba;ER Campinas;Luis Fernando Miguel;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/morungaba/panorama
+3532058;Motuca;ER Araraquara;Fabio De Menezes Chaves;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/motuca/panorama
+3532108;Murutinga do Sul;ER Aracatuba;Cristiano Eleuterio Soares Da Silva;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/murutinga-do-sul/panorama
+3532157;Nantes;ER Presidente Prudente;Marllon Jaffer Albano De Oliveira;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/nantes/panorama
+3532207;Narandiba;ER Presidente Prudente;Danillo Carvalho Dos Santos;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/narandiba/panorama
+3532306;Natividade da Serra;ER Sao Jose dos Campos;Evail Augusto Dos Santos;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/natividade-da-serra/panorama
+3532405;Nazare Paulista;ER Campinas;Avanilde Aparecida Gonzaga Canedo;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/nazare-paulista/panorama
+3532504;Neves Paulista;ER Sao Jose do Rio Preto;Edenilson Alexandre Roselli;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/neves-paulista/panorama
+3532603;Nhandeara;ER Sao Jose do Rio Preto;Antônio Marques Do Nascimento Junior;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/nhandeara/panorama
+3532702;Nipoa;ER Sao Jose do Rio Preto;Jose Pedro Rampim;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/nipoa/panorama
+3532801;Nova Alianca;ER Sao Jose do Rio Preto;Jurandir Barbosa De Morais;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/nova-alianca/panorama
+3532827;Nova Campina;ER Itapeva;Antônio Isael De Oliveira Junior;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/nova-campina/panorama
+3532843;Nova Canaa Paulista;ER Sao Jose do Rio Preto;Thais Cristina Costa Moreira;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/nova-canaa-paulista/panorama
+3532868;Nova Castilho;ER Aracatuba;Maicon Garcia Pirola;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/nova-castilho/panorama
+3532900;Nova Europa;ER Araraquara;Lidiane Luize Rodrigues;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/nova-europa/panorama
+3533007;Nova Granada;ER Sao Jose do Rio Preto;Luiz Augusto Salvador;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/nova-granada/panorama
+3533106;Nova Guataporanga;ER Presidente Prudente;Jose Mauro Lourencetti;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/nova-guataporanga/panorama
+3533205;Nova Independencia;ER Aracatuba;Fernando Macchi Santana;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/nova-independencia/panorama
+3533254;Novais;ER Sao Jose do Rio Preto;Paulo Cesar Dias Pinheiro;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/novais/panorama
+3533304;Nova Luzitania;ER Aracatuba;Miguel Jose Araujo Junior;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/nova-luzitania/panorama
+3533403;Nova Odessa;ER Campinas;Cláudio Jose Schooder;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/nova-odessa/panorama
+3533502;Novo Horizonte;ER Sao Jose do Rio Preto;Fabiano De Mello Belentani;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/novo-horizonte/panorama
+3533601;Nuporanga;ER Franca;Daniel Viana Melo;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/nuporanga/panorama
+3533700;Ocaucu;ER Marilia;João Benedito Costa E Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/ocaucu/panorama
+3533809;Oleo;ER Marilia;Jordão Antonio Vidotto;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/oleo/panorama
+3533908;Olimpia;ER Barretos;Eugenio Jose Zuliani;Raphael Dutra;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/olimpia/panorama
+3534005;Onda Verde;ER Sao Jose do Rio Preto;Nilson Neves De Souza;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/onda-verde/panorama
+3534104;Oriente;ER Marilia;Geraldo Matheus Moris;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/oriente/panorama
+3534203;Orindiuva;ER Sao Jose do Rio Preto;Mireli Cristina Leite Ruvieri Martins;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/orindiuva/panorama
+3534302;Orlandia;ER Franca;Jorge Gabriel Grasi;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/orlandia/panorama
+3534401;Osasco;ER Sao Paulo;Gerson Dias Pessoa;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/osasco/panorama
+3534500;Oscar Bressane;ER Marilia;Anselmo Giroto;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/oscar-bressane/panorama
+3534609;Osvaldo Cruz;ER Presidente Prudente;Vera Lucia Alves;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/osvaldo-cruz/panorama
+3534708;Ourinhos;ER Marilia;Guilherme Andrew Gonçalves Da Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/ourinhos/panorama
+3534757;Ouroeste;ER Sao Jose do Rio Preto;Sebastião Carlos Silva;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/ouroeste/panorama
+3534807;Ouro Verde;ER Presidente Prudente;Julio Cesar De Mori Vecchiati;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/ouro-verde/panorama
+3534906;Pacaembu;ER Presidente Prudente;João Francisco Mugnai Neves;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/pacaembu/panorama
+3535002;Palestina;ER Sao Jose do Rio Preto;Reinaldo Aparecido Da Cunha;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/palestina/panorama
+3535101;Palmares Paulista;ER Sao Jose do Rio Preto;Lucas Aparecido Da Assumção;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/palmares-paulista/panorama
+3535200;Palmeira D'Oeste;ER Sao Jose do Rio Preto;Valdir Semensati De Moraes;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/palmeira-d'oeste/panorama
+3535309;Palmital;ER Marilia;Luis Gustavo Mendes Moraes;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/palmital/panorama
+3535408;Panorama;ER Presidente Prudente;Daniel Gênova;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/panorama/panorama
+3535507;Paraguacu Paulista;ER Marilia;Antonio Takashi Sasada;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/paraguacu-paulista/panorama
+3535606;Paraibuna;ER Sao Jose dos Campos;Heloisa Antunes De Farias Santos;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/paraibuna/panorama
+3535705;Paraiso;ER Sao Jose do Rio Preto;Osvalte Jose Bovoni;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/paraiso/panorama
+3535804;Paranapanema;ER Itapeva;Rodolfo Hessel Fanganiello;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/paranapanema/panorama
+3535903;Paranapua;ER Sao Jose do Rio Preto;Daniel Junior Duran Pinatto;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/paranapua/panorama
+3536000;Parapua;ER Marilia;Milton Mitio Iwayama;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/parapua/panorama
+3536109;Pardinho;ER Sorocaba;Cristiano Camargo Moreira;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/pardinho/panorama
+3536208;Pariquera Acu;ER Vale do Ribeira;Wagner Bento Da Costa;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/pariquera-acu/panorama
+3536257;Parisi;ER Sao Jose do Rio Preto;Oclair Barão Bento;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/parisi/panorama
+3536307;Patrocinio Paulista;ER Franca;Mário Marcelo Carraro Bertelli;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/patrocinio-paulista/panorama
+3536406;Pauliceia;ER Presidente Prudente;Antonio Simonato;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/pauliceia/panorama
+3536505;Paulinia;ER Campinas;Danilo Henrique Macedo De Barros;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/paulinia/panorama
+3536570;Paulistania;ER Bauru;Luiz Carlos Marques;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/paulistania/panorama
+3536604;Paulo de Faria;ER Sao Jose do Rio Preto;Dirceu Cassia Filho;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/paulo-de-faria/panorama
+3536703;Pederneiras;ER Bauru;Ivana Maria Bertolini Camarinha;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/pederneiras/panorama
+3536802;Pedra Bela;ER Campinas;Vanderlei Lopes Da Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/pedra-bela/panorama
+3536901;Pedranopolis;ER Sao Jose do Rio Preto;Fausto Luano Rosa;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/pedranopolis/panorama
+3537008;Pedregulho;ER Franca;Carlos Eduardo Barbosa Teixeira;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/pedregulho/panorama
+3537107;Pedreira;ER Campinas;Fabio Vinicius Polidoro;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/pedreira/panorama
+3537156;Pedrinhas Paulista;ER Marilia;Freddie Costa Nicolau;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/pedrinhas-paulista/panorama
+3537206;Pedro de Toledo;ER Vale do Ribeira;Paulo Eduardo Alves Ferreira;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/pedro-de-toledo/panorama
+3537305;Penapolis;ER Aracatuba;Carlos Henrique Rossi Catalani;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/penapolis/panorama
+3537404;Pereira Barreto;ER Aracatuba;Herminio Barbosa Komatsu;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/pereira-barreto/panorama
+3537503;Pereiras;ER Sorocaba;Osmar Pasqualino Rodrigues Ramos Junior;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/pereiras/panorama
+3537602;Peruibe;ER Baixada Santista;Felipe Antonio Colaço Bernardo;Sizue Yamaguti;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/peruibe/panorama
+3537701;Piacatu;ER Aracatuba;Ricardo Francisco Lemes Da Silva;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/piacatu/panorama
+3537800;Piedade;ER Sorocaba;Geraldo Pinto De Camargo Filho;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/piedade/panorama
+3537909;Pilar do Sul;ER Sorocaba;Clayton Alvaro Machado;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/pilar-do-sul/panorama
+3538006;Pindamonhangaba;ER Sao Jose dos Campos;Ricardo Alberto Pereira Piorino;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/pindamonhangaba/panorama
+3538105;Pindorama;ER Sao Jose do Rio Preto;Geraldo Felippe Junior;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/pindorama/panorama
+3538204;Pinhalzinho;ER Campinas;Sebastião Zanardi;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/pinhalzinho/panorama
+3538303;Piquerobi;ER Presidente Prudente;Adriana Crivelli Biffe;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/piquerobi/panorama
+3538501;Piquete;ER Sao Jose dos Campos;Romulo Kazimierz Luszczynski;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/piquete/panorama
+3538600;Piracaia;ER Campinas;Andre Henrique Rogerio;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/piracaia/panorama
+3538709;Piracicaba;ER Campinas;Helio Donizete Zanatta;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/piracicaba/panorama
+3538808;Piraju;ER Itapeva;Carlos Alberto Camargo Lima;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/piraju/panorama
+3538907;Pirajui;ER Bauru;Rosalina Sônia Dos Santos;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/pirajui/panorama
+3539004;Pirangi;ER Barretos;Vanderlei Robson De Oliveira;Raphael Dutra;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/pirangi/panorama
+3539103;Pirapora do Bom Jesus;ER Sao Paulo;Gregório Rodrigues Pontes Maglio;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/pirapora-do-bom-jesus/panorama
+3539202;Pirapozinho;ER Presidente Prudente;Lucas Padovan Dos Santos Pavani;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/pirapozinho/panorama
+3539301;Pirassununga;ER Campinas;Fernando Lubrechet;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/pirassununga/panorama
+3539400;Piratininga;ER Bauru;Carlos Alessandro Franco Borro De Matos;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/piratininga/panorama
+3539509;Pitangueiras;ER Ribeirao Preto;Dimas Tadeu Bolsan;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/pitangueiras/panorama
+3539608;Planalto;ER Sao Jose do Rio Preto;Rosimeire Barbosa Silverio;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/planalto/panorama
+3539707;Platina;ER Marilia;Donizete Aparecido Ferreira De Lima;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/platina/panorama
+3539806;Poa;ER Sao Paulo;Saulo De Oliveira Souza;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/poa/panorama
+3539905;Poloni;ER Sao Jose do Rio Preto;Andreia Luzia Fachini Brait;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/poloni/panorama
+3540002;Pompeia;ER Marilia;Diogo Montefusco Ceschim Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/pompeia/panorama
+3540101;Pongai;ER Bauru;Gilhiard Henrique De Bortoli;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/pongai/panorama
+3540200;Pontal;ER Ribeirao Preto;Jose Carlos Neves Silva;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/pontal/panorama
+3540259;Pontalinda;ER Sao Jose do Rio Preto;Sisinio De Oliveira Leão;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/pontalinda/panorama
+3540309;Pontes Gestal;ER Sao Jose do Rio Preto;Marcel Dias Leite;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/pontes-gestal/panorama
+3540408;Populina;ER Sao Jose do Rio Preto;João Cezar Robles Brandini;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/populina/panorama
+3540507;Porangaba;ER Sorocaba;João Carlos Alves Barros;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/porangaba/panorama
+3540606;Porto Feliz;ER Sorocaba;Celio Peixoto Dos Santos;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/porto-feliz/panorama
+3540705;Porto Ferreira;ER Araraquara;Andre Luís Anchão Braga;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/porto-ferreira/panorama
+3540754;Potim;ER Sao Jose dos Campos;Emerson Kiogi Tanaka;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/potim/panorama
+3540804;Potirendaba;ER Sao Jose do Rio Preto;Gislaine Montanari Franzotti;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/potirendaba/panorama
+3540853;Pracinha;ER Presidente Prudente;Laercio Biasi;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/pracinha/panorama
+3540903;Pradopolis;ER Ribeirao Preto;Saulo Emanuel Atique Filho;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/pradopolis/panorama
+3541000;Praia Grande;ER Baixada Santista;Alberto Pereira Mourão;Sizue Yamaguti;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/praia-grande/panorama
+3541059;Pratania;ER Sorocaba;Osmir Jose Felix;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/pratania/panorama
+3541109;Presidente Alves;ER Bauru;Cristiano Dos Santos;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/presidente-alves/panorama
+3541208;Presidente Bernardes;ER Presidente Prudente;Cleberson Duarte De Souza;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/presidente-bernardes/panorama
+3541307;Presidente Epitacio;ER Presidente Prudente;Andre Ferraz Lima;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/presidente-epitacio/panorama
+3541406;Presidente Prudente;ER Presidente Prudente;Milton Carlos De Mello;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/presidente-prudente/panorama
+3541505;Presidente Venceslau;ER Presidente Prudente;Bárbara Medeiros Vilches;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/presidente-venceslau/panorama
+3541604;Promissao;ER Bauru;Hamilton Luis Foz;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/promissao/panorama
+3541653;Quadra;ER Sorocaba;Lheonides De Oliveira Andrade;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/quadra/panorama
+3541703;Quata;ER Marilia;Marcio Bidoia;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/quata/panorama
+3541802;Queiroz;ER Marilia;Walter Rodrigo Da Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/queiroz/panorama
+3541901;Queluz;ER Sao Jose dos Campos;Jose Celso Bueno;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/queluz/panorama
+3542008;Quintana;ER Marilia;Fernando Itapuã Branco Nunes;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/quintana/panorama
+3542107;Rafard;ER Campinas;Fábio Dos Santos;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/rafard/panorama
+3542206;Rancharia;ER Presidente Prudente;Homero Pinelli Severo Lins;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/rancharia/panorama
+3542305;Redencao da Serra;ER Sao Jose dos Campos;Jucimar Ferreira Da Silva;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/redencao-da-serra/panorama
+3542404;Regente Feijo;ER Presidente Prudente;Marco Antonio Pereira Da Rocha;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/regente-feijo/panorama
+3542503;Reginopolis;ER Bauru;Jefferson Augusto Rodrigues Buava;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/reginopolis/panorama
+3542602;Registro;ER Vale do Ribeira;Samuel Moreira Da Silva Junior;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/registro/panorama
+3542701;Restinga;ER Franca;Felipe Talvani Sontini;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/restinga/panorama
+3542800;Ribeira;ER Itapeva;Ari Do Carmo Santos;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/ribeira/panorama
+3542909;Ribeirao Bonito;ER Araraquara;Paulo Antonio Gobato Veiga;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/ribeirao-bonito/panorama
+3543006;Ribeirao Branco;ER Itapeva;Antonio Carlos Camargo Ribas;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/ribeirao-branco/panorama
+3543105;Ribeirao Corrente;ER Franca;Ana Lourinete Costa Lobo Montanher;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/ribeirao-corrente/panorama
+3543204;Ribeirao do Sul;ER Marilia;Eliana Maria Rorato Manso;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/ribeirao-do-sul/panorama
+3543238;Ribeirao dos Indios;ER Presidente Prudente;Valdeci Jose Fernandes;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/ribeirao-dos-indios/panorama
+3543253;Ribeirao Grande;ER Itapeva;Marcelo Luis Nunes;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/ribeirao-grande/panorama
+3543303;Ribeirao Pires;ER Sao Paulo;Luiz Gustavo Pinheiro Volpi;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/ribeirao-pires/panorama
+3543402;Ribeirao Preto;ER Ribeirao Preto;Ricardo Augusto Machado Da Silva;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/ribeirao-preto/panorama
+3543501;Riversul;ER Itapeva;Marcos Roberto Dos Santos;Rosana Nascimento;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/riversul/panorama
+3543600;Rifaina;ER Franca;Wilson Alves Da Silva Junior;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/rifaina/panorama
+3543709;Rincao;ER Araraquara;Braz Rodrigues;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/rincao/panorama
+3543808;Rinopolis;ER Marilia;Graziela De Lima Tome Trevisan;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/rinopolis/panorama
+3543907;Rio Claro;ER Campinas;Gustavo Ramos Perissinotto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/rio-claro/panorama
+3544004;Rio das Pedras;ER Campinas;Marcos Buzetto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/rio-das-pedras/panorama
+3544103;Rio Grande da Serra;ER Sao Paulo;Ricardo Akira Ono Auriani;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/rio-grande-da-serra/panorama
+3544202;Riolandia;ER Sao Jose do Rio Preto;Antonio Carlos Santana Da Silva;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/riolandia/panorama
+3544251;Rosana;ER Presidente Prudente;Claudemir Peres Francisco De Oliveira;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/rosana/panorama
+3544301;Roseira;ER Sao Jose dos Campos;Fernando Augusto De Siqueira;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/roseira/panorama
+3544400;Rubiacea;ER Aracatuba;Júlio Cesar Felismino;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/rubiacea/panorama
+3544509;Rubineia;ER Sao Jose do Rio Preto;Alex Olivo;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/rubineia/panorama
+3544608;Sabino;ER Bauru;Fernando Henrique Florindo;Marcelo Graziani;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/sabino/panorama
+3544707;Sagres;ER Presidente Prudente;Roberto Batista Pires;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/sagres/panorama
+3544806;Sales;ER Sao Jose do Rio Preto;Josemar Francisco De Abreu;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/sales/panorama
+3544905;Sales Oliveira;ER Franca;Fabio Godoy Graton;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/sales-oliveira/panorama
+3545001;Salesopolis;ER Sao Paulo;Rodolfo Rodrigues Marcondes;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/salesopolis/panorama
+3545100;Salmourao;ER Presidente Prudente;Sônia Cristina Jacon Gabau;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/salmourao/panorama
+3545159;Saltinho;ER Campinas;Helio Franzol Bernardino;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/saltinho/panorama
+3545209;Salto;ER Sorocaba;Jose Geraldo Garcia;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/salto/panorama
+3545308;Salto de Pirapora;ER Sorocaba;Matheus Marum De Campos;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/salto-de-pirapora/panorama
+3545407;Salto Grande;ER Marilia;Mario Luciano Rosa;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/salto-grande/panorama
+3545506;Sandovalina;ER Presidente Prudente;Marcos Mendes Da Silva;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/sandovalina/panorama
+3545605;Santa Adelia;ER Sao Jose do Rio Preto;Ciro Cesar Costa;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/santa-adelia/panorama
+3545704;Santa Albertina;ER Sao Jose do Rio Preto;Gerson Formigoni Junior;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/santa-albertina/panorama
+3545803;Santa Barbara D'Oeste;ER Campinas;Rafael Piovezan;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/santa-barbara-d'oeste/panorama
+3546009;Santa Branca;ER Sao Jose dos Campos;Adriano Marchesani Levorin;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/santa-branca/panorama
+3546108;Santa Clara D'Oeste;ER Sao Jose do Rio Preto;Jose Basilio De Faria;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/santa-clara-d'oeste/panorama
+3546207;Santa Cruz da Conceicao;ER Campinas;Carlos Eduardo Aranha De Albuquerque;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/santa-cruz-da-conceicao/panorama
+3546256;Santa Cruz da Esperanca;ER Ribeirao Preto;Marcos Antonio Bazilio;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/santa-cruz-da-esperanca/panorama
+3546306;Santa Cruz das Palmeiras;ER Campinas;Luiz Fernando Stocco;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/santa-cruz-das-palmeiras/panorama
+3546405;Santa Cruz do Rio Pardo;ER Marilia;Otacílio Parras Assis;Walter Ihoshi;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/santa-cruz-do-rio-pardo/panorama
+3546504;Santa Ernestina;ER Araraquara;Jose Carlos Simão;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/santa-ernestina/panorama
+3546603;Santa Fe do Sul;ER Sao Jose do Rio Preto;Evandro Farias Mura;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/santa-fe-do-sul/panorama
+3546702;Santa Gertrudes;ER Campinas;Lázaro Noe Da Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/santa-gertrudes/panorama
+3546801;Santa Isabel;ER Sao Paulo;Carlos Augusto Chinchilla Alfonzo;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/santa-isabel/panorama
+3546900;Santa Lucia;ER Araraquara;Antonio Carlos Abuabud Junior;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/santa-lucia/panorama
+3547007;Santa Maria da Serra;ER Campinas;Josias Zani Neto;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/santa-maria-da-serra/panorama
+3547106;Santa Mercedes;ER Presidente Prudente;Valdir Verona;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/santa-mercedes/panorama
+3547205;Santana da Ponte Pensa;ER Sao Jose do Rio Preto;Vagner Hernandes;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/santana-da-ponte-pensa/panorama
+3547304;Santana de Parnaiba;ER Sao Paulo;Elvis Leonardo Cezar;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/santana-de-parnaiba/panorama
+3547403;Santa Rita D'Oeste;ER Sao Jose do Rio Preto;Osmar Sampaio;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/santa-rita-d'oeste/panorama
+3547502;Santa Rita do Passa Quatro;ER Araraquara;Marcelo Simão;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/santa-rita-do-passa-quatro/panorama
+3547601;Santa Rosa de Viterbo;ER Ribeirao Preto;Omar Nagib Moussa;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/santa-rosa-de-viterbo/panorama
+3547650;Santa Salete;ER Sao Jose do Rio Preto;Julio Cesar Martins Miliatti;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/santa-salete/panorama
+3547700;Santo Anastacio;ER Presidente Prudente;Luiz Infante;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/santo-anastacio/panorama
+3547809;Santo Andre;ER Sao Paulo;Gilvan Ferreira De Souza Júnior;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/santo-andre/panorama
+3547908;Santo Antonio da Alegria;ER Ribeirao Preto;Denilson De Carvalho;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/santo-antonio-da-alegria/panorama
+3548005;Santo Antonio de Posse;ER Campinas;Jose Ricardo Cortez;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/santo-antonio-de-posse/panorama
+3548054;Santo Antonio do Aracangua;ER Aracatuba;Luiz Carlos Dos Reis Nonato;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/santo-antonio-do-aracangua/panorama
+3548104;Santo Antonio do Jardim;ER Campinas;Osvaldo Moreira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/santo-antonio-do-jardim/panorama
+3548203;Santo Antonio do Pinhal;ER Sao Jose dos Campos;Anderson Jose Mendonça;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/santo-antonio-do-pinhal/panorama
+3548302;Santo Expedito;ER Presidente Prudente;Anderson Jose Betio;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/santo-expedito/panorama
+3548401;Santopolis do Aguapei;ER Aracatuba;Gerson Alves De Lima Junior;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/santopolis-do-aguapei/panorama
+3548500;Santos;ER Baixada Santista;Rogerio Pereira Dos Santos;Sizue Yamaguti;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/santos/panorama
+3548609;Sao Bento do Sapucai;ER Sao Jose dos Campos;Gilberto Donizete De Souza;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/sao-bento-do-sapucai/panorama
+3548708;Sao Bernardo do Campo;ER Sao Paulo;Marcelo De Lima Fernandes;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/sao-bernardo-do-campo/panorama
+3548807;Sao Caetano do Sul;ER Sao Paulo;Anacleto Campanella Júnior;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/sao-caetano-do-sul/panorama
+3548906;Sao Carlos;ER Araraquara;Antonio Donato Netto;Jorge Bredan;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/sao-carlos/panorama
+3549003;Sao Francisco;ER Sao Jose do Rio Preto;Sebastião De Oliveira Baptista;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/sao-francisco/panorama
+3549102;Sao Joao da Boa Vista;ER Campinas;Vanderlei Borges De Carvalho;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/sao-joao-da-boa-vista/panorama
+3549201;Sao Joao das Duas Pontes;ER Sao Jose do Rio Preto;Jose Carlos Baruci Junior;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/sao-joao-das-duas-pontes/panorama
+3549250;Sao Joao de Iracema;ER Aracatuba;Luiz Augusto Torres;Elisabete dos Santos;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/sao-joao-de-iracema/panorama
+3549300;Sao Joao do Pau D'Alho;ER Presidente Prudente;Lucas De Oliveira Barbosa;Silvio Ushijima;Sandra (4021) / Thais (4020);;https://cidades.ibge.gov.br/brasil/sp/sao-joao-do-pau-d'alho/panorama
+3549409;Sao Joaquim da Barra;ER Franca;Wagner Jose Schmidt;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/sao-joaquim-da-barra/panorama
+3549508;Sao Jose da Bela Vista;ER Franca;Walter Cássio Carvalho Faccirolli;Valter Sene;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/sao-jose-da-bela-vista/panorama
+3549607;Sao Jose do Barreiro;ER Sao Jose dos Campos;Luis Eduardo Santos Ribeiro;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/sao-jose-do-barreiro/panorama
+3549706;Sao Jose do Rio Pardo;ER Campinas;Marcio Callegari Zanetti;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;https://cidades.ibge.gov.br/brasil/sp/sao-jose-do-rio-pardo/panorama
+3549805;Sao Jose do Rio Preto;ER Sao Jose do Rio Preto;Fábio Rogerio Cândido;Igor Goncalves;Fabiana (4011) / Lais (4022);;https://cidades.ibge.gov.br/brasil/sp/sao-jose-do-rio-preto/panorama
+3549904;Sao Jose dos Campos;ER Sao Jose dos Campos;Anderson Farias Ferreira;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/sao-jose-dos-campos/panorama
+3549953;Sao Lourenco da Serra;ER Sao Paulo;Felipe Geferson Seme Amed;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/sao-lourenco-da-serra/panorama
+3550001;Sao Luis do Paraitinga;ER Sao Jose dos Campos;Alex Eusebio Torres;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;https://cidades.ibge.gov.br/brasil/sp/sao-luis-do-paraitinga/panorama
+3550100;Sao Manuel;ER Sorocaba;Odirlei Jose Felix;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/sao-manuel/panorama
+3550209;Sao Miguel Arcanjo;ER Sorocaba;Elias Rodrigues De Paula;Fabiano Doretto;Elaine (4016) / Iris (4015);;https://cidades.ibge.gov.br/brasil/sp/sao-miguel-arcanjo/panorama
+3550308;Sao Paulo;ER Sao Paulo;Ricardo Luis Reis Nunes;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;https://cidades.ibge.gov.br/brasil/sp/sao-paulo/panoramasao-paulo/panorama
+3550407;Sao Pedro;ER Campinas;Thiago Silverio Da Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;sao-pedro/panorama
+3550506;Sao Pedro do Turvo;ER Marilia;Luiz Felipe De Castro Tavares;Walter Ihoshi;Danielle (4019) / Andre (4018);;sao-pedro-do-turvo/panorama
+3550605;Sao Roque;ER Sorocaba;Marcos Augusto Issa Henriques De Araújo;Fabiano Doretto;Elaine (4016) / Iris (4015);;sao-roque/panorama
+3550704;Sao Sebastiao;ER Sao Jose dos Campos;Reinaldo Alves Moreira Filho;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;sao-sebastiao/panorama
+3550803;Sao Sebastiao da Grama;ER Campinas;Jose Francisco Martha;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;sao-sebastiao-da-grama/panorama
+3550902;Sao Simao;ER Ribeirao Preto;Izaias Leão De Souza;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;sao-simao/panorama
+3551009;Sao Vicente;ER Baixada Santista;Kayo Felype Nachtajler Amado;Sizue Yamaguti;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;sao-vicente/panorama
+3551108;Sarapui;ER Sorocaba;Gustavo De Souza Barros Vieira;Fabiano Doretto;Elaine (4016) / Iris (4015);;sarapui/panorama
+3551207;Sarutaia;ER Itapeva;João Antonio Fuloni;Rosana Nascimento;Fabiana (4011) / Lais (4022);;sarutaia/panorama
+3551306;Sebastianopolis do Sul;ER Sao Jose do Rio Preto;Jose Antônio Abreu Do Valle;Igor Goncalves;Fabiana (4011) / Lais (4022);;sebastianopolis-do-sul/panorama
+3551405;Serra Azul;ER Ribeirao Preto;Debora Cristina Ribeiro Da Silva;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;serra-azul/panorama
+3551504;Serrana;ER Ribeirao Preto;Leonardo Caressato Capiteli;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;serrana/panorama
+3551603;Serra Negra;ER Campinas;Elmir Kalil Abi Chedid;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;serra-negra/panorama
+3551702;Sertaozinho;ER Ribeirao Preto;Jose Alberto Gimenez;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;sertaozinho/panorama
+3551801;Sete Barras;ER Vale do Ribeira;Ítalo Donizeth Costa Roberto;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;sete-barras/panorama
+3551900;Severinia;ER Barretos;Guilherme Augusto De Almeida Secchieri;Raphael Dutra;Sandra (4021) / Thais (4020);;severinia/panorama
+3552007;Silveiras;ER Sao Jose dos Campos;Edson Mendes Mota;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;silveiras/panorama
+3552106;Socorro;ER Campinas;Mauricio De Oliveira Santos;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;socorro/panorama
+3552205;Sorocaba;ER Sorocaba;Rodrigo Maganhato;Fabiano Doretto;Elaine (4016) / Iris (4015);;sorocaba/panorama
+3552304;Sud Mennucci;ER Aracatuba;Jose Urbino Dos Santos Neto;Elisabete dos Santos;Sandra (4021) / Thais (4020);;sud-mennucci/panorama
+3552403;Sumare;ER Campinas;Henrique Stein Sciascio;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;sumare/panorama
+3552502;Suzano;ER Sao Paulo;Pedro Charles Shirakawa Ishi;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;suzano/panorama
+3552551;Suzanapolis;ER Aracatuba;Gerso Antonio De Oliveria;Elisabete dos Santos;Sandra (4021) / Thais (4020);;suzanapolis/panorama
+3552601;Tabapua;ER Sao Jose do Rio Preto;Silvio Cesar Sartorello;Igor Goncalves;Fabiana (4011) / Lais (4022);;tabapua/panorama
+3552700;Tabatinga;ER Araraquara;Valter Valentim Camargo;Jorge Bredan;Elaine (4016) / Iris (4015);;tabatinga/panorama
+3552809;Taboao Da Serra;ER Sao Paulo;Daniel Plana Bogalho;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;taboao-da-serra/panorama
+3552908;Taciba;ER Presidente Prudente;Izidoro Arcesti Ricci;Silvio Ushijima;Sandra (4021) / Thais (4020);;taciba/panorama
+3553005;Taguai;ER Itapeva;Eder Carlos Fogaça Da Cruz;Rosana Nascimento;Fabiana (4011) / Lais (4022);;taguai/panorama
+3553104;Taiacu;ER Barretos;Sueli Aparecida Mendes Biancardi;Raphael Dutra;Sandra (4021) / Thais (4020);;taiacu/panorama
+3553203;Taiuva;ER Barretos;Mauro Vicente Bersi;Raphael Dutra;Sandra (4021) / Thais (4020);;taiuva/panorama
+3553302;Tambau;ER Campinas;Leonardo Teixeira Spiga Real;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;tambau/panorama
+3553401;Tanabi;ER Sao Jose do Rio Preto;Alexandre Silveira Bertolini;Igor Goncalves;Fabiana (4011) / Lais (4022);;tanabi/panorama
+3553500;Tapirai;ER Sorocaba;Araldo Todesco;Fabiano Doretto;Elaine (4016) / Iris (4015);;tapirai/panorama
+3553609;Tapiratiba;ER Campinas;Ramon Jesus Vieira;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;tapiratiba/panorama
+3553658;Taquaral;ER Ribeirao Preto;Ari Fernando Jacinto;Rogerio Rossini (Pio);Cido (4012) / Cidinha(4023);;taquaral/panorama
+3553708;Taquaritinga;ER Araraquara;Fulvio Zuppani;Jorge Bredan;Elaine (4016) / Iris (4015);;taquaritinga/panorama
+3553807;Taquarituba;ER Itapeva;eder Miano Pereira;Rosana Nascimento;Fabiana (4011) / Lais (4022);;taquarituba/panorama
+3553856;Taquarivai;ER Itapeva;Rubens Carlos Souto De Barros;Rosana Nascimento;Fabiana (4011) / Lais (4022);;taquarivai/panorama
+3553906;Tarabai;ER Presidente Prudente;Rubens Pinaffi Junior;Silvio Ushijima;Sandra (4021) / Thais (4020);;tarabai/panorama
+3553955;Taruma;ER Marilia;Adriana Balejo Piedade Da Silva;Walter Ihoshi;Danielle (4019) / Andre (4018);;taruma/panorama
+3554003;Tatui;ER Sorocaba;Miguel Lopes Cardoso Junior;Fabiano Doretto;Elaine (4016) / Iris (4015);;tatui/panorama
+3554102;Taubate;ER Sao Jose dos Campos;Sergio Luiz Victor Júnior;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;taubate/panorama
+3554201;Tejupa;ER Itapeva;Valter Boranelli;Rosana Nascimento;Fabiana (4011) / Lais (4022);;tejupa/panorama
+3554300;Teodoro Sampaio;ER Presidente Prudente;Claudio Evangelista Da Silva Junior;Silvio Ushijima;Sandra (4021) / Thais (4020);;teodoro-sampaio/panorama
+3554409;Terra Roxa;ER Barretos;Rogerio Rafael Furlin;Raphael Dutra;Sandra (4021) / Thais (4020);;terra-roxa/panorama
+3554508;Tiete;ER Sorocaba;Jose Carlos Regonha Junior;Fabiano Doretto;Elaine (4016) / Iris (4015);;tiete/panorama
+3554607;Timburi;ER Marilia;Cristiano Da Cunha Amorim;Walter Ihoshi;Danielle (4019) / Andre (4018);;timburi/panorama
+3554656;Torre de Pedra;ER Sorocaba;Ciro Luiz Pedroso;Fabiano Doretto;Elaine (4016) / Iris (4015);;torre-de-pedra/panorama
+3554706;Torrinha;ER Campinas;Ari Rodolfo Buzato;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;torrinha/panorama
+3554755;Trabiju;ER Araraquara;Marcelo Rodrigues Fonseca;Jorge Bredan;Elaine (4016) / Iris (4015);;trabiju/panorama
+3554805;Tremembe;ER Sao Jose dos Campos;Clemente Antonio De Lima Neto;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;tremembe/panorama
+3554904;Tres Fronteiras;ER Sao Jose do Rio Preto;Flávio Luiz Renda De Oliveira;Igor Goncalves;Fabiana (4011) / Lais (4022);;tres-fronteiras/panorama
+3554953;Tuiuti;ER Campinas;Alexandre Tadeu Gonçalves;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;tuiuti/panorama
+3555000;Tupa;ER Marilia;Renan Victor Pontelli;Walter Ihoshi;Danielle (4019) / Andre (4018);;tupa/panorama
+3555109;Tupi Paulista;ER Presidente Prudente;Juliano Vigiliato Guiro;Silvio Ushijima;Sandra (4021) / Thais (4020);;tupi-paulista/panorama
+3555208;Turiuba;ER Aracatuba;Jorge Augusto Molina;Elisabete dos Santos;Sandra (4021) / Thais (4020);;turiuba/panorama
+3555307;Turmalina;ER Sao Jose do Rio Preto;Priscilla Tatiana Dias Massoni;Igor Goncalves;Fabiana (4011) / Lais (4022);;turmalina/panorama
+3555356;Ubarana;ER Sao Jose do Rio Preto;Vanderlei Rodrigues Da Cruz;Igor Goncalves;Fabiana (4011) / Lais (4022);;ubarana/panorama
+3555406;Ubatuba;ER Sao Jose dos Campos;Flávia Comitte Do Nascimento;Sem diretor ate o momento;Danielle (4019) / Andre (4018);;ubatuba/panorama
+3555505;Ubirajara;ER Bauru;Leila Alvim Bordim;Marcelo Graziani;Elaine (4016) / Iris (4015);;ubirajara/panorama
+3555604;Uchoa;ER Sao Jose do Rio Preto;Jose Claudio Martins;Igor Goncalves;Fabiana (4011) / Lais (4022);;uchoa/panorama
+3555703;Uniao Paulista;ER Sao Jose do Rio Preto;Kendrea Alves Papile Cavatão;Igor Goncalves;Fabiana (4011) / Lais (4022);;uniao-paulista/panorama
+3555802;Urania;ER Sao Jose do Rio Preto;Ivan Soubhia Garcia;Igor Goncalves;Fabiana (4011) / Lais (4022);;urania/panorama
+3555901;Uru;ER Bauru;Robson Eduardo Forte;Marcelo Graziani;Elaine (4016) / Iris (4015);;uru/panorama
+3556008;Urupes;ER Sao Jose do Rio Preto;Roberto Cacciari Filho;Igor Goncalves;Fabiana (4011) / Lais (4022);;urupes/panorama
+3556107;Valentim Gentil;ER Sao Jose do Rio Preto;Claudinei Carvassan Rodrigues;Igor Goncalves;Fabiana (4011) / Lais (4022);;valentim-gentil/panorama
+3556206;Valinhos;ER Campinas;Franklin Duarte Da Silva;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;valinhos/panorama
+3556305;Valparaiso;ER Aracatuba;Carlos Alexandre Pereira;Elisabete dos Santos;Sandra (4021) / Thais (4020);;valparaiso/panorama
+3556354;Vargem;ER Campinas;Leodecio Alves De Lima;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;vargem/panorama
+3556404;Vargem Grande do Sul;ER Campinas;Celso Luis Ribeiro;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;vargem-grande-do-sul/panorama
+3556453;Vargem Grande Paulista;ER Sao Paulo;Piter Aparecido Dos Santos;Sem diretor ate o momento;Cido (4012) / Cidinha(4023);;vargem-grande-paulista/panorama
+3556503;Varzea Paulista;ER Campinas;Rodolfo Wilson Rodrigues Braga;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;varzea-paulista/panorama
+3556602;Vera Cruz;ER Marilia;Rodolfo Silva Davoli;Walter Ihoshi;Danielle (4019) / Andre (4018);;vera-cruz/panorama
+3556701;Vinhedo;ER Campinas;Dario Pacheco De Morais;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;vinhedo/panorama
+3556800;Viradouro;ER Barretos;Nilton Augusto Alves Filho;Raphael Dutra;Sandra (4021) / Thais (4020);;viradouro/panorama
+3556909;Vista Alegre do Alto;ER Barretos;Nelson Antonio Rozani;Raphael Dutra;Sandra (4021) / Thais (4020);;vista-alegre-do-alto/panorama
+3556958;Vitoria Brasil;ER Sao Jose do Rio Preto;Paulo Henrique Miotto;Igor Goncalves;Fabiana (4011) / Lais (4022);;vitoria-brasil/panorama
+3557006;Votorantim;ER Sorocaba;Weber Maganhato Júnior;Fabiano Doretto;Elaine (4016) / Iris (4015);;votorantim/panorama
+3557105;Votuporanga;ER Sao Jose do Rio Preto;Jorge Augusto Seba;Igor Goncalves;Fabiana (4011) / Lais (4022);;votuporanga/panorama
+3557154;Zacarias;ER Sao Jose do Rio Preto;Heder Jean Bruno De Oliveira;Igor Goncalves;Fabiana (4011) / Lais (4022);;zacarias/panorama
+3557204;Chavantes;ER Marilia;Luiz Filipe De Paula Jacinto;Walter Ihoshi;Danielle (4019) / Andre (4018);;chavantes/panorama
+3557303;Estiva Gerbi;ER Campinas;Marcio Roberto Pavan;Vitale Junior;Alexandre (4017) / Lucas R. (4014) / Patricia (4013);;estiva-gerbi/panorama
