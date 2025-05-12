@@ -1,0 +1,367 @@
+<!--
+
+Codigo funcional, seleciona ER, busca municipio, grava observacao
+
+
+-->
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mapa SP por Regional</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      display: flex;
+    }
+    #map {
+      height: 100vh;
+      flex: 1;
+    }
+    #filtro {
+      padding: 10px;
+      background: #f1f1f1;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: flex-start;
+    }
+    .checkbox-group {
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+    }
+    #busca {
+      padding: 5px;
+      font-size: 14px;
+      min-width: 200px;
+    }
+    #detalhes {
+      width: 300px;
+      padding: 15px;
+      background: #fafafa;
+      border-left: 1px solid #ccc;
+      font-size: 18px;
+      line-height: 1.4;
+    }
+    #detalhes h2 {
+      font-size: 18px;
+      margin-top: 0;
+    }
+    #observacao-container {
+      margin-top: 15px;
+    }
+    #observacao {
+      width: 100%;
+      height: 60px;
+      padding: 10px;
+      font-size: 14px;
+    }
+    #submit-btn {
+      margin-top: 10px;
+      padding: 10px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    #submit-btn:hover {
+      background-color: #45a049;
+    }
+    #ultima-observacao {
+      margin-top: 15px;
+      font-size: 14px;
+      color: #333;
+      background: #eaeaea;
+      padding: 10px;
+      border-radius: 5px;
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+<body>
+
+  <div style="flex-direction: row; display: flex; width: 100%;">
+    <div id="filtro">
+      <strong>Buscar por município:</strong>
+      <input type="text" id="busca" placeholder="Buscar município..." />
+      
+      <div class="checkbox-group" id="checkboxes"></div>
+
+      <div>
+        <button id="selectAll">Selecionar todos</button>
+        <button id="reset">Resetar</button>
+      </div>
+    </div>
+
+    <div style="display: flex; flex: 1;">
+      <div id="map"></div>
+
+      <div id="detalhes">
+        <h2>Informações do Município</h2>
+        <div id="info">Selecione um município no mapa.</div>
+
+        <div id="observacao-container">
+          <strong>Observação (máximo 200 caracteres):</strong>
+          <textarea id="observacao" maxlength="200" placeholder="Escreva sua observação aqui..."></textarea>
+          <button id="submit-btn">Enviar Observação</button>
+          <div id="ultima-observacao"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-firestore-compat.js"></script>
+
+  <script>
+    // Função para normalizar o texto (remover acentos e caracteres especiais)
+    function normalizarTexto(texto) {
+      return texto
+        .toLowerCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^a-zA-Z0-9]/g, "");
+    }
+
+    // Configuração do Firebase
+    const firebaseConfig = {
+      apiKey: "AIzaSyDNJBbVKHhUBGX3E8VUiaF07rqe3dS70UY",
+      authDomain: "base01-47738.firebaseapp.com",
+      projectId: "base01-47738",
+      storageBucket: "base01-47738.firebasestorage.app",
+      messagingSenderId: "412625626436",
+      appId: "1:412625626436:web:14b1192ae5f419bd0a6311",
+      measurementId: "G-WVQYQ5KBJW"
+    };
+    firebase.initializeApp(firebaseConfig);
+    const db = firebase.firestore();
+
+    // Inicializando o mapa e configurando a visualização inicial
+    const map = L.map('map').setView([-22.9, -47.0], 7); // São Paulo centralizado
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap'
+    }).addTo(map);
+
+    let geojsonData;
+    let geojsonLayer;
+    let codigoSelecionado = null;
+
+    const regionalPorCodigo = {};
+    const nomePorCodigo = {};
+    const linkPorCodigo = {};
+
+    const coresPorRegional = {
+        'ER Campinas': '#e6194b',           // vermelho vivo
+        'ER Baixada Santista': '#3cb44b',   // verde vibrante
+        'ER Sao Jose do Rio Preto': '#ffe119', // amarelo forte
+        'ER Itapeva': '#4363d8',            // azul forte
+        'ER Sorocaba': '#f58231',           // laranja vibrante
+        'ER Bauru': '#911ec8',              // roxo escuro
+        'ER Araraquara': '#46f0f0',         // ciano claro
+        'ER Ribeirao Preto': '#f032e6',     // rosa choque
+        'ER Sao Paulo': '#bcf60c',          // verde limão
+        'ER Vale do Ribeira': '#fabebe',    // rosa claro
+        'ER Presidente Prudente': '#008080',// teal
+        'ER Barretos': '#e6beff',           // lilás claro
+        'ER Aracatuba': '#9a6324',          // marrom
+        'ER Marilia': '#fffac8',            // amarelo claro
+        'ER Sao Jose dos Campos': '#a000ff',// vinho
+        'ER Franca': '#aaffc3',             // verde menta
+    };
+
+    // Função para carregar o CSV com os dados das regionais
+    function carregarCSV() {
+      Papa.parse('indice.csv', {
+        download: true,
+        header: true,
+        delimiter: ";",
+        complete: function(result) {
+          result.data.forEach(row => {
+            const codigo = row.CODIGO_IBGE?.trim();
+            if (!codigo) return;
+            regionalPorCodigo[codigo] = row.REGIONAL?.trim() || 'N/A';
+            nomePorCodigo[codigo] = row.MUNICIPIO?.trim() || '';
+            linkPorCodigo[codigo] = row.LINK_IBGE?.trim() || '';
+          });
+
+          // Gerar checkboxes das regionais
+          const regionaisUnicas = new Set(Object.values(regionalPorCodigo));
+          const checkboxesContainer = document.getElementById('checkboxes');
+          regionaisUnicas.forEach(regional => {
+            const label = document.createElement('label');
+            const checkbox = document.createElement('input');
+            checkbox.type = 'checkbox';
+            checkbox.value = regional;
+            checkbox.checked = true;
+            checkbox.addEventListener('change', atualizarVisibilidadeMunicipios);
+            label.appendChild(checkbox);
+            label.append(` ${regional}`);
+            checkboxesContainer.appendChild(label);
+          });
+
+          document.getElementById('selectAll').addEventListener('click', () => {
+            document.querySelectorAll('#checkboxes input[type="checkbox"]').forEach(cb => cb.checked = true);
+            atualizarVisibilidadeMunicipios();
+          });
+
+          document.getElementById('reset').addEventListener('click', () => {
+            document.querySelectorAll('#checkboxes input[type="checkbox"]').forEach(cb => cb.checked = false);
+            atualizarVisibilidadeMunicipios();
+          });
+
+          carregarGeoJSON();
+        }
+      });
+    }
+
+    // Função para carregar o GeoJSON dos municípios
+    function carregarGeoJSON() {
+      fetch('estado_sp.json')
+        .then(res => res.json())
+        .then(data => {
+          data.features.forEach(f => {
+            const codigo = f.properties?.id?.toString();
+            f.properties.regional = regionalPorCodigo[codigo];
+            f.properties.nome = nomePorCodigo[codigo];
+            f.properties.link_ibge = linkPorCodigo[codigo];
+          });
+          geojsonData = data;
+          atualizarMapa();
+        });
+    }
+
+    // Função para atualizar o mapa com os dados do GeoJSON
+    function atualizarMapa() {
+      if (geojsonLayer) map.removeLayer(geojsonLayer);
+
+      geojsonLayer = L.geoJSON(geojsonData, {
+        style: feature => {
+          return {
+            color: '#900', // Cor para o contorno
+            weight: 1, // Espessura do contorno
+            fillOpacity: 0, // Opacidade para deixar o interior transparente
+          };
+        },
+        onEachFeature: (feature, layer) => {
+          layer.on('click', function () {
+            const props = feature.properties;
+            codigoSelecionado = props.id;
+            document.getElementById('info').innerHTML = `
+              <strong>Município:</strong> ${props.nome}<br>
+              <strong>Regional:</strong> ${props.regional}<br>
+              <strong><a href="${props.link_ibge}" target="_blank">Link para o Portal Cidades</a></strong><br>
+            `;
+            carregarUltimaObservacao(codigoSelecionado);
+          });
+        }
+      }).addTo(map);
+
+      atualizarVisibilidadeMunicipios();
+    }
+
+    // Função para atualizar a visibilidade dos municípios no mapa com base nas regionais selecionadas
+    function atualizarVisibilidadeMunicipios() {
+      const regionaisAtivas = new Set(
+        Array.from(document.querySelectorAll('#checkboxes input[type="checkbox"]:checked')).map(cb => cb.value)
+      );
+
+      geojsonLayer.eachLayer(layer => {
+        const regional = layer.feature.properties.regional;
+        if (regionaisAtivas.has(regional)) {
+          layer.setStyle({
+            opacity: 1,
+            fillOpacity: 0.7, // Ajuste para colorir o interior
+            fillColor: coresPorRegional[regional] || '#ff0000'
+          });
+        } else {
+          layer.setStyle({
+            opacity: 0.5,
+            fillOpacity: 0,
+            fillColor: 'transparent'
+          });
+        }
+      });
+    }
+
+    // Função para carregar a última observação salva no Firestore
+    function carregarUltimaObservacao(codigo) {
+      db.collection("observacoes").doc(codigo).get().then((doc) => {
+        if (doc.exists) {
+          document.getElementById("ultima-observacao").textContent = "Última observação:\n" + doc.data().texto;
+        } else {
+          document.getElementById("ultima-observacao").textContent = "Nenhuma observação registrada ainda.";
+        }
+      });
+    }
+
+    // Função para enviar a observação para o Firestore
+    document.getElementById('submit-btn').addEventListener('click', () => {
+      const observacao = document.getElementById('observacao').value.trim();
+
+      if (!codigoSelecionado) {
+        alert('Selecione um município no mapa primeiro.');
+        return;
+      }
+
+      if (!observacao) {
+        alert('Por favor, insira uma observação.');
+        return;
+      }
+
+      db.collection("observacoes").doc(codigoSelecionado).set({
+        texto: observacao,
+        timestamp: new Date()
+      })
+      .then(() => {
+        alert("Observação salva com sucesso!");
+        document.getElementById("observacao").value = "";
+        document.getElementById("ultima-observacao").textContent = "Última observação:\n" + observacao;
+      })
+      .catch((error) => {
+        console.error("Erro ao salvar observação:", error);
+        alert("Erro ao salvar observação.");
+      });
+    });
+
+    // Função de busca de município ao pressionar Enter
+    document.getElementById('busca').addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        buscarMunicipio();
+      }
+    });
+
+    // Função de busca por município
+    function buscarMunicipio() {
+      const termo = normalizarTexto(document.getElementById('busca').value);
+      if (!termo) return;
+
+      let encontrado = false;
+
+      geojsonLayer.eachLayer(layer => {
+        const nomeOriginal = layer.feature.properties.nome || layer.feature.properties.MUNICIPIO || '';
+        const nomeSemAcento = normalizarTexto(nomeOriginal);
+        if (nomeSemAcento.includes(termo)) {
+          map.fitBounds(layer.getBounds());
+          layer.openPopup();
+          encontrado = true;
+        }
+      });
+
+      if (!encontrado) {
+        alert("Município não encontrado.");
+      }
+    }
+
+    carregarCSV();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mapa SP por Regional</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; display: flex; }
+    #map { height: 100vh; flex: 1; }
+    #filtro {
+      padding: 10px;
+      background: #f1f1f1;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      width: 100%;
+    }
+    .checkbox-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    #busca {
+      padding: 5px;
+      font-size: 14px;
+      min-width: 200px;
+    }
+    #detalhes {
+      width: 300px;
+      padding: 15px;
+      background: #fafafa;
+      border-left: 1px solid #ccc;
+      font-size: 18px;
+      line-height: 1.4;
+    }
+    #detalhes h2 {
+      font-size: 18px;
+      margin-top: 0;
+    }
+    #observacao-container {
+      margin-top: 15px;
+    }
+    #observacao {
+      width: 100%;
+      height: 60px;
+      padding: 10px;
+      font-size: 14px;
+    }
+    #submit-btn {
+      margin-top: 10px;
+      padding: 10px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    #submit-btn:hover {
+      background-color: #45a049;
+    }
+    #ultima-observacao {
+      margin-top: 15px;
+      font-size: 14px;
+      color: #333;
+      background: #eaeaea;
+      padding: 10px;
+      border-radius: 5px;
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+<body>
+
+<div style="flex-direction: column; width: 100%;">
+  <div id="filtro">
+    <strong>Buscar por município:</strong>
+    <input type="text" id="busca" placeholder="Buscar município..." />
+    <div class="checkbox-group" id="checkboxes"></div>
+    <button id="selectAll">Selecionar todos</button>
+    <button id="reset">Resetar</button>
+  </div>
+  <div style="display: flex; flex: 1;">
+    <div id="map"></div>
+    <div id="detalhes">
+      <h2>Informações do Município</h2>
+      <div id="info">Selecione um município no mapa.</div>
+
+      <div id="observacao-container">
+        <strong>Observação (máximo 200 caracteres):</strong>
+        <textarea id="observacao" maxlength="200" placeholder="Escreva sua observação aqui..."></textarea>
+        <button id="submit-btn">Enviar Observação</button>
+        <div id="ultima-observacao"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-firestore-compat.js"></script>
+
+<script>
+  const firebaseConfig = {
+    apiKey: "AIzaSyDNJBbVKHhUBGX3E8VUiaF07rqe3dS70UY",
+    authDomain: "base01-47738.firebaseapp.com",
+    projectId: "base01-47738",
+    storageBucket: "base01-47738.firebasestorage.app",
+    messagingSenderId: "412625626436",
+    appId: "1:412625626436:web:14b1192ae5f419bd0a6311",
+    measurementId: "G-WVQYQ5KBJW"
+  };
+  firebase.initializeApp(firebaseConfig);
+  const db = firebase.firestore();
+
+  const map = L.map('map').setView([-22.9, -47.0], 7);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap'
+  }).addTo(map);
+
+  let geojsonData;
+  let geojsonLayer;
+  let codigoSelecionado = null;
+
+  const regionalPorCodigo = {};
+  const nomePorCodigo = {};
+  const linkPorCodigo = {};
+
+  const coresPorRegional = {
+    'ER Campinas': '#00BFFF',
+    'ER Baixada Santista': '#00BFFF',
+    'ER Sao Jose do Rio Preto': '#32CD32',
+    'ER Itapeva': '#32CD32',
+    'ER Sorocaba': '#FF7F50',
+    'ER Bauru': '#FF7F50',
+    'ER Araraquara': '#FF7F50',
+    'ER Ribeirao Preto': '#9370DB',
+    'ER Sao Paulo': '#9370DB',
+    'ER Vale do Ribeira': '#9370DB',
+    'ER Presidente Prudente': '#FFD700',
+    'ER Barretos': '#FFD700',
+    'ER Aracatuba': '#FFD700',
+    'ER Marilia': '#820101',
+    'ER Sao Jose dos Campos': '#820101',
+    'ER Franca': '#820101'
+  };
+
+  function carregarCSV() {
+    Papa.parse('indice.csv', {
+      download: true,
+      header: true,
+      delimiter: ";",
+      complete: function(result) {
+        result.data.forEach(row => {
+          const codigo = row.CODIGO_IBGE?.trim();
+          if (!codigo) return;
+
+          regionalPorCodigo[codigo] = row.REGIONAL?.trim() || 'N/A';
+          nomePorCodigo[codigo] = row.MUNICIPIO?.trim() || '';
+          linkPorCodigo[codigo] = row.LINK_IBGE?.trim() || '';
+        });
+        carregarGeoJSON();
+      }
+    });
+  }
+
+  function carregarGeoJSON() {
+    fetch('estado_sp.json')
+      .then(res => res.json())
+      .then(data => {
+        data.features.forEach(f => {
+          const codigo = f.properties?.id?.toString();
+          f.properties.regional = regionalPorCodigo[codigo];
+          f.properties.nome = nomePorCodigo[codigo];
+          f.properties.link_ibge = linkPorCodigo[codigo];
+        });
+        geojsonData = data;
+        atualizarMapa();
+      });
+  }
+
+  function atualizarMapa() {
+    if (geojsonLayer) map.removeLayer(geojsonLayer);
+
+    geojsonLayer = L.geoJSON(geojsonData, {
+      style: feature => {
+        const regional = feature.properties.regional;
+        return {
+          color: '#900',
+          weight: 1,
+          fillOpacity: 0.5,
+          fillColor: coresPorRegional[regional] || '#ff0000'
+        };
+      },
+      onEachFeature: (feature, layer) => {
+        layer.on('click', function () {
+          const props = feature.properties;
+          codigoSelecionado = props.id;
+          document.getElementById('info').innerHTML = `
+            <strong>Município:</strong> ${props.nome}<br>
+            <strong>Regional:</strong> ${props.regional}<br>
+            <strong><a href="${props.link_ibge}" target="_blank">Link para o Portal Cidades</a></strong><br>
+          `;
+          carregarUltimaObservacao(codigoSelecionado);
+        });
+      }
+    }).addTo(map);
+  }
+
+  function carregarUltimaObservacao(codigo) {
+    db.collection("observacoes").doc(codigo).get().then((doc) => {
+      if (doc.exists) {
+        document.getElementById("ultima-observacao").textContent = "Última observação:\n" + doc.data().texto;
+      } else {
+        document.getElementById("ultima-observacao").textContent = "Nenhuma observação registrada ainda.";
+      }
+    });
+  }
+
+  document.getElementById('submit-btn').addEventListener('click', () => {
+    const observacao = document.getElementById('observacao').value.trim();
+
+    if (!codigoSelecionado) {
+      alert('Selecione um município no mapa primeiro.');
+      return;
+    }
+
+    if (!observacao) {
+      alert('Por favor, insira uma observação.');
+      return;
+    }
+
+    db.collection("observacoes").doc(codigoSelecionado).set({
+      texto: observacao,
+      timestamp: new Date()
+    })
+    .then(() => {
+      alert("Observação salva com sucesso!");
+      document.getElementById("observacao").value = "";
+      document.getElementById("ultima-observacao").textContent = "Última observação:\n" + observacao;
+    })
+    .catch((error) => {
+      console.error("Erro ao salvar observação:", error);
+      alert("Erro ao salvar observação.");
+    });
+  });
+
+  carregarCSV();
+</script>
+
+</body>
+</html>
