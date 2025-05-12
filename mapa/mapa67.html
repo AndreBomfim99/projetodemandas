@@ -342,7 +342,7 @@
           textoSpan.textContent = "Última observação:\n" + doc.data().texto;
           btnExcluir.style.display = "inline-block";
         } else {
-          textoSpan.textContent = "Nenhuma observação registrada ainda.";
+          textoSpan.textContent = " "; //caracter vazio so pq está sem observacoes 
           btnExcluir.style.display = "none";
         }
       });
